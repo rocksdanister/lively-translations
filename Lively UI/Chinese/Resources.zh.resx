@@ -587,4 +587,34 @@ https://github.com/rocksdanister/lively-cef
   <data name="txtWindowTitleSelectDisplay" xml:space="preserve">
     <value>选择显示器</value>
   </data>
+  <data name="txtGifScaling" xml:space="preserve">
+    <value>GIF 缩放/调整:</value>
+  </data>
+ </data>
+  <data name="txtInstall" xml:space="preserve">
+    <value>安装</value>
+  </data>
+ <data name="txtLabelInteraction" xml:space="preserve">
+    <value>交互</value>
+  </data>
+  </data>
+  <data name="txtMoreWp" xml:space="preserve">
+    <value>更多壁纸...</value>
+  </data>
+  <data name="txtMouse" xml:space="preserve">
+    <value>鼠标</value>
+  </data>
+  <data name="txtMsgUpdaterPortableUnsupported" xml:space="preserve">
+    <value>免安装版的 Lively 暂不支持自动更新。请前往网页下载最新的免安装版手动更新</value>
+  </data>
+ <data name="txtUpdateDownloadErrorMsg" xml:space="preserve">
+    <value>更新失败。请尝试从此处下载安装程序:</value>
+  </data>
+ <data name="txtVideoScaling" xml:space="preserve">
+    <value>视频 缩放/调整:</value>
+  </data>
+  </data>
+  <data name="txtWhenBattery" xml:space="preserve">
+    <value>当处于电池供电模式时:</value>
+  </data>
 </root>
