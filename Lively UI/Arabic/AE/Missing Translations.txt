@@ -1,0 +1,40 @@
+<data name="txtGifScaling" xml:space="preserve">
+    <value>تحجيم/مناسب الصورة المتحركة:</value>
+  </data>
+
+ </data>
+  <data name="txtInstall" xml:space="preserve">
+    <value>تثبيت</value>
+  </data>
+
+ <data name="txtLabelInteraction" xml:space="preserve">
+    <value>التفاعل</value>
+  </data>
+
+  </data>
+  <data name="txtMoreWp" xml:space="preserve">
+    <value>المزيد من الخلفيات...</value>
+  </data>
+
+  <data name="txtMouse" xml:space="preserve">
+    <value>الفأرة</value>
+  </data>
+
+  <data name="txtMsgUpdaterPortableUnsupported" xml:space="preserve">
+    <value>من لايفلي, حمّل الإصدار الحالي من الموقع Portable المحدّث لا يدعم نسخة .</value>
+  </data>
+
+ <data name="txtUpdateDownloadErrorMsg" xml:space="preserve">
+    <value>فشل التحديث. حاول تنزيل المثبت من الموقع</value>
+  </data>
+
+ <data name="txtVideoScaling" xml:space="preserve">
+    <value>تحجيم/مناسب الفيديو:</value>
+  </data>
+
+  </data>
+  <data name="txtWhenBattery" xml:space="preserve">
+    <value>عندما يكون على وضع البطارية:</value>
+  </data>
+
+تخصيص الخلفية 
