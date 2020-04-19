@@ -1,3 +1,12 @@
+  // TL notes:- &amp stands for ampersand.
+  // Translate the text inside value field: <value>sample text</value>
+  // Try to maintain similar spacing and newline if you can.
+  // Save the file as Resources.Languagetag.resx eg: Resources.en-US.resx.  
+  // Languagetag: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c
+  // If there are many variants of your language based on country code and you know they are similar enough then do let me know.
+  // I can add your name in the about page if interested, do let me know.
+  // Some text are just names of UI elements.
+  
   <data name="cmbBoxAllDisplays" xml:space="preserve">
     <value>جميع الشاشة(ات)</value>
   </data>
