@@ -20,10 +20,10 @@
     <value>DirectShow</value>
   </data>
   <data name="cmbBoxGIFPlayer2ToolTip" xml:space="preserve">
-    <value>Réduction de l'utilisation de la mémoire RAM (dépendant des paramètres codec )</value>
+    <value>Réduction de l'utilisation de la mémoire RAM (dépendant des paramètres codec)</value>
   </data>
   <data name="cmbBoxKill" xml:space="preserve">
-    <value>Fermer(libérer la RAM)</value>
+    <value>Fermer(libère de la RAM)</value>
   </data>
   <data name="cmbBoxNothing" xml:space="preserve">
     <value>Rien</value>
@@ -35,10 +35,10 @@
     <value>Pause</value>
   </data>
   <data name="cmbBoxPauseAlgorithmForeground" xml:space="preserve">
-    <value>Procédé au premier plan </value>
+    <value>Procédé au premier plan</value>
   </data>
   <data name="cmbBoxPerDisplay" xml:space="preserve">
-    <value>par affichage </value>
+    <value>Par affichage</value>
   </data>
   <data name="cmbBoxSpan" xml:space="preserve">
     <value>Etendre (Expérimental)</value>
@@ -61,14 +61,14 @@
 Fermeture de l'application...</value>
   </data>
   <data name="msgAppTimeout" xml:space="preserve">
-    <value>Echec de la récupération de l'application windows.
+    <value>Echec de la récupération de l'application Windows.
 L'image(application) est trop longue à démarrer(plus de ~30sec), les raisons possibles sont :
-Scan Virus/ L'application est trop grande.
+Scan Virus/ L'application est trop volumineuse.
 Attendez &amp; essayez à nouveau. (optionellement vous pouvez modifier le temps d'attente, allez voir le wiki pour plus d'informations.)
 Fermeture de l'application...</value>
   </data>
   <data name="msgDamangedLivelyFile" xml:space="preserve">
-    <value>Fichier image endomagé,tentez de le retélécharger.</value>
+    <value>Fichier image endommagé,tentez de le retélécharger.</value>
   </data>
   <data name="msgDeleteConfirmation" xml:space="preserve">
     <value>Voulez vous vraiment supprimer à jamais cette image du disque dur ?</value>
@@ -77,20 +77,20 @@ Fermeture de l'application...</value>
     <value>Confirmer la  suppression</value>
   </data>
   <data name="msgDeletionFailure" xml:space="preserve">
-    <value>Image actuellemetn en cours d'utilisation, impossible de procéder à la suppression !
+    <value>Image actuellement en cours d'utilisation, impossible de procéder à la suppression !
 Fermez l'image pour la supprimer.</value>
   </data>
   <data name="msgDeletionFailureTitle" xml:space="preserve">
-    <value>Echec de la suppression</value>
+    <value>Échec de la suppression</value>
   </data>
   <data name="msgDragDropOtherFormats" xml:space="preserve">
-    <value>Ce format de fichier n'est pas supporter pour sélectioner &amp; poser ouvrez le dans la page 'Type' à la place.</value>
+    <value>Ce format de fichier n'est pas supporté pour le glisser/déposer, ouvrez le dans la page 'Type' à la place.</value>
   </data>
   <data name="msgDragDropOtherFormatsTitle" xml:space="preserve">
-    <value>Lively: Non Supporter</value>
+    <value>Lively: Non Supporté</value>
   </data>
   <data name="msgExternalAppWarning" xml:space="preserve">
-    <value>Vous ouvrez une application externe comme image. Les applications malveillantes peuvent contenir des malwares, virus etc et endommager votre système.
+    <value>Vous ouvrez une application externe comme image. Les applications malveillantes peuvent contenir des malwares, virus etc... et menaçent votre système.
 Continuez seulement si cette application provient d'une source fiable.</value>
   </data>
   <data name="msgExternalAppWarningTitle" xml:space="preserve">
@@ -102,7 +102,7 @@ Le fichier GIF est il corrompu? Tentez de le retélécharger.</value>
   </data>
   <data name="msgHighContrastFailure" xml:space="preserve">
     <value>Lively ne peut fonctionner correctement avec le mode Contrastes Fortes de Windows activé !
-Désactiver le mode Contrastes Fortes &amp; essayer à nouveau.</value>
+Désactiver le mode Contraste Élevé &amp; essayer à nouveau.</value>
   </data>
   <data name="msgLoadExternalLink" xml:space="preserve">
     <value>Vous êtes sur le point d'ouvrir une page extérieur sur votre navigateur.
@@ -123,7 +123,7 @@ Further Instructions:
 www.github.com/rocksdanister/lively/wiki/Video-Guide</value>
   </data>
   <data name="msgMediakitFailure" xml:space="preserve">
-    <value>Echec de la boucle du média: Manque Codec/ fichier corrompu.
+    <value>Échec de la boucle du média: Manque Codec/ fichier corrompu.
 N'oubliez pas d'installer LAV codec:
 www.github.com/Nevcairiel/LAVFilters/releases
 
@@ -131,30 +131,30 @@ Further Instructions:
 www.github.com/rocksdanister/lively/wiki/Video-Guide</value>
   </data>
   <data name="msgRestoringInProgress" xml:space="preserve">
-    <value>En cours de restoration des images précédentes, veuillez patienter.</value>
+    <value>En cours de restauration des images précédentes, veuillez patienter.</value>
   </data>
   <data name="msgRestoringPrevWallpapers" xml:space="preserve">
-    <value>Restoration des images précédentes..</value>
+    <value>Restauration des images précédentes..</value>
   </data>
   <data name="msgSafeModeWarning" xml:space="preserve">
-    <value>Lively n'a pas été correctement fermer, lancement en mode sécuriser.
+    <value>Lively n'a pas été correctement fermée, lancement en mode sûreté.
 Voulez vous restaurer les images actives précédement utilisés ?
 Erreur l'information est sauvegarder à:-
 </value>
   </data>
   <data name="msgSingleInstanceOnly" xml:space="preserve">
-    <value>Lively est dejà en cours d'execution!
-Si le programme ne répond pas, fermer le programme  "livelywpf" avec le gestionnaire de tâches &amp; essayer à nouveau.</value>
+    <value>Lively est déjà en cours d'exécution!
+Si le programme ne répond pas, fermer le programme "livelywpf" avec le gestionnaire des tâches &amp; essayer à nouveau.</value>
   </data>
   <data name="msgUrlLoad" xml:space="preserve">
-    <value>Entrer le lien du site à charger, Shadertoy.com les liens de shaders sont supporter:-</value>
+    <value>Entrer le lien du site à charger, Shadertoy.com les liens de shaders sont supportés:-</value>
   </data>
   <data name="msgUrlLoadTitle" xml:space="preserve">
-    <value>Charger la page web </value>
+    <value>Charger la page web</value>
   </data>
   <data name="msgUrlWarning" xml:space="preserve">
-    <value>Vous ouvrez un site web exterieur.
-Les pages webs malveillantes peuvent endommager votre système (malware, virus ..)
+    <value>Vous ouvrez un site web extérieur.
+Les pages webs malveillantes peuvent endommager votre système (malwares, virus ..)
 Entrez seulement des liens de sites fiable.</value>
   </data>
   <data name="msgUrlWarningTitle" xml:space="preserve">
@@ -167,19 +167,19 @@ OU
 Télécharger la version complète  de lively.</value>
   </data>
   <data name="msgWorkerWFailure" xml:space="preserve">
-    <value>Il sembleraient que certains paramètres ait besoin d'être ajuster pour que Lively fonctionne:-  
+    <value>Il semblerait que certains paramètres ait besoin d'être ajustés pour que Lively fonctionne:-  
 1. Ouvrir mon ordinateur(Ce PC)
 2. Clique droit sur une zone vide
-3. Selectionner propriétés
-4. Selectionner Paramètres Système Avancés
-5. Dans la boite Performances sélectionner paramètres
-6. Activer "Animer les contrôles et les éléments à l'intérieur des fenêtres &amp; Appliquer.
+3. Sélectionner Propriétés
+4. Sélectionner Paramètres Système Avancés
+5. Dans la boite Performances sélectionner Paramètres
+6. Activer "Animer les contrôles et les éléments à l'intérieur des fenêtres" &amp; Appliquer.
 
 Si Windows 7 viens de se mettre en route - ajuster le pour la meilleure apparence &amp; Appliquer.
-Si cela ne fonctionne toujours pas, fermer &amp; relancer Lively / redémarrer windows.</value>
+Si cela ne fonctionne toujours pas, fermer &amp; relancer Lively / redémarrer Windows.</value>
   </data>
   <data name="titleAbout" xml:space="preserve">
-    <value>A propos</value>
+    <value>À propos</value>
   </data>
   <data name="titleLibrary" xml:space="preserve">
     <value>Bibliothèque</value>
@@ -191,16 +191,16 @@ Si cela ne fonctionne toujours pas, fermer &amp; relancer Lively / redémarrer w
     <value>Type</value>
   </data>
   <data name="toolTipMinimizeMsg" xml:space="preserve">
-    <value>je suis réduite au plateau système , clique droit sur l'icone lively ipour plus d'options.</value>
+    <value>je suis réduite au plateau système , clic droit sur l'icone Lively pour plus d'options.</value>
   </data>
   <data name="toolTipUpdateMsg" xml:space="preserve">
     <value>Une nouvelle version est disponible!</value>
   </data>
   <data name="toolTipWallpaperSkip" xml:space="preserve">
-    <value>Certaines images n'ont pas été afficher à cause de fichier(s) manquants!</value>
+    <value>Certaines images n'ont pas été affichées à cause de fichier(s) manquants!</value>
   </data>
   <data name="txtApplicationRules" xml:space="preserve">
-    <value>Règles d'Application </value>
+    <value>Règles d'Application</value>
   </data>
   <data name="txtAudioIn" xml:space="preserve">
     <value>Audio In:</value>
@@ -209,7 +209,7 @@ Si cela ne fonctionne toujours pas, fermer &amp; relancer Lively / redémarrer w
     <value>Bloque l'accès des navigateurs au système audio.</value>
   </data>
   <data name="txtAudioLabel1" xml:space="preserve">
-    <value>L'Audio est toujours desactivé sur des systèmes à plusieurs moniteurs.</value>
+    <value>L'Audio est toujours désactivé sur des systèmes à plusieurs moniteurs.</value>
   </data>
   <data name="txtAudioLabel2" xml:space="preserve">
     <value>"Audio In" est désactivé, la prévisualisation de l'audio web ne fonctionnera pas.</value>
@@ -224,10 +224,10 @@ Si cela ne fonctionne toujours pas, fermer &amp; relancer Lively / redémarrer w
     <value>Navigateur Internet:</value>
   </data>
   <data name="txtBrowserToolTip" xml:space="preserve">
-    <value>Selectionner le navigateur internet pour les images provenant du web (sortie prochainement)</value>
+    <value>Sélectionner le navigateur internet pour les images provenant du web (sortie prochainement)</value>
   </data>
   <data name="txtCloseAllWallpapers" xml:space="preserve">
-    <value>Fermer toutes les images </value>
+    <value>Fermer toutes les images</value>
   </data>
   <data name="txtComingSoon" xml:space="preserve">
     <value>Sortie prochainement</value>
@@ -239,13 +239,13 @@ Si cela ne fonctionne toujours pas, fermer &amp; relancer Lively / redémarrer w
     <value>Fermer l'image</value>
   </data>
   <data name="txtContextMenuDeleteWallpaper" xml:space="preserve">
-    <value>Supprimer l'image </value>
+    <value>Supprimer l'image</value>
   </data>
   <data name="txtContextMenuExit" xml:space="preserve">
     <value>Quitter</value>
   </data>
   <data name="txtContextMenuExport" xml:space="preserve">
-    <value>Exporter lively .zip</value>
+    <value>Exporter Lively .zip</value>
   </data>
   <data name="txtContextMenuOpenLively" xml:space="preserve">
     <value>Ouvrir Lively</value>
@@ -293,13 +293,13 @@ Si cela ne fonctionne toujours pas, fermer &amp; relancer Lively / redémarrer w
     <value>Installer le fond d'écran</value>
   </data>
   <data name="txtLabel1" xml:space="preserve">
-    <value>Selectionner le type d'image à charger:-</value>
+    <value>Sélectionner le type d'image à charger:-</value>
   </data>
   <data name="txtLabel10" xml:space="preserve">
     <value>Attribution:</value>
   </data>
   <data name="txtLabel11" xml:space="preserve">
-    <value>Que devrais  je utiliser ?</value>
+    <value>Que devrais-je utiliser ?</value>
   </data>
   <data name="txtLabel12" xml:space="preserve">
     <value>Type:</value>
@@ -318,7 +318,7 @@ Si cela ne fonctionne toujours pas, fermer &amp; relancer Lively / redémarrer w
     <comment>settings tab</comment>
   </data>
   <data name="txtLabel16" xml:space="preserve">
-    <value>Redémarage de l'application requit:</value>
+    <value>Redémarage de l'application requis:</value>
     <comment>settings tab</comment>
   </data>
   <data name="txtLabel17" xml:space="preserve">
@@ -369,13 +369,13 @@ Pour lancer le déroulement d'un fichier en fond d'écran , ceci n'est pas requi
     <value>Titre:-</value>
   </data>
   <data name="txtLabel3" xml:space="preserve">
-    <value>Ces éléments ne sont pas sponsoriser ou affilié à Unity Technologies, Godot , Bizhawk, Shadertoy.com</value>
+    <value>Ces éléments ne sont pas sponsorisés ou affiliés à Unity Technologies, Godot , Bizhawk, Shadertoy.com</value>
   </data>
   <data name="txtLabel30" xml:space="preserve">
     <value>Description:-</value>
   </data>
   <data name="txtLabel31" xml:space="preserve">
-    <value>Selectionner le Fichier</value>
+    <value>Sélectionner le fichier</value>
   </data>
   <data name="txtLabel32" xml:space="preserve">
     <value>Miniature (200x200)</value>
@@ -384,13 +384,13 @@ Pour lancer le déroulement d'un fichier en fond d'écran , ceci n'est pas requi
     <value>Créer</value>
   </data>
   <data name="txtLabel34" xml:space="preserve">
-    <value>Previsualisation du Gif (192x108)</value>
+    <value>Prévisualisation du Gif (192x108)</value>
   </data>
   <data name="txtLabel35" xml:space="preserve">
-    <value> Type de fond d'écran  :-</value>
+    <value> Type de fond d'écran :-</value>
   </data>
   <data name="txtLabel36" xml:space="preserve">
-    <value>Fichiers et dossier en cours d'ajout:-</value>
+    <value>Fichiers et dossiers en cours d'ajout:-</value>
   </data>
   <data name="txtLabel37" xml:space="preserve">
     <value>Ok</value>
@@ -408,7 +408,7 @@ Pour lancer le déroulement d'un fichier en fond d'écran , ceci n'est pas requi
     <value>Jeux</value>
   </data>
   <data name="txtLabel6" xml:space="preserve">
-    <value>Retro</value>
+    <value>Rétro</value>
   </data>
   <data name="txtLabel7" xml:space="preserve">
     <value>Autre</value>
@@ -438,9 +438,9 @@ Pour lancer le déroulement d'un fichier en fond d'écran , ceci n'est pas requi
     <value>Qualité Vidéo</value>
   </data>
   <data name="txtLivelyAppWarning" xml:space="preserve">
-    <value>Cette option est en cours de developpement.
-N'éxécutez PAS de programmes tel que CHROME , STEAAM.. Qui font apparaitre plusieurs sous procédés.
-IL Y AURA DES BUGS &amp; CRASHS, CONTINUER AVEC PRECAUTION!!!</value>
+    <value>Cette option est en cours de développement.
+N'exécutez PAS de programmes tel que CHROME , STEAM.. Qui font apparaître plusieurs sous procédés.
+IL Y AURA DES BUGS &amp; CRASHS, CONTINUER AVEC PRÉCAUTION!!!</value>
   </data>
   <data name="txtLivelyErrorMsgTitle" xml:space="preserve">
     <value>Lively: Erreur</value>
@@ -454,7 +454,7 @@ IL Y AURA DES BUGS &amp; CRASHS, CONTINUER AVEC PRECAUTION!!!</value>
     <value>Application</value>
   </data>
   <data name="txtLivelyWallpaperTypeGIF" xml:space="preserve">
-    <value>GIF Animer</value>
+    <value>GIF Animé</value>
   </data>
   <data name="txtLivelyWallpaperTypeGodot" xml:space="preserve">
     <value>Application Godot</value>
@@ -469,7 +469,7 @@ IL Y AURA DES BUGS &amp; CRASHS, CONTINUER AVEC PRECAUTION!!!</value>
     <value>En ligne</value>
   </data>
   <data name="txtLivelyWallpaperTypeVideo" xml:space="preserve">
-    <value>Video</value>
+    <value>Vidéo</value>
   </data>
   <data name="txtLivelyWallpaperTypeWeb" xml:space="preserve">
     <value>Web</value>
@@ -478,7 +478,7 @@ IL Y AURA DES BUGS &amp; CRASHS, CONTINUER AVEC PRECAUTION!!!</value>
     <value>Réactif Audio Web</value>
   </data>
   <data name="txtLiveTile" xml:space="preserve">
-    <value>Tuile Animer:</value>
+    <value>Tuile Animée:</value>
   </data>
   <data name="txtLiveTileToolTip" xml:space="preserve">
     <value>(Experimental) Prévisualisation du fond d'écran sur une tuile.</value>
@@ -487,13 +487,13 @@ IL Y AURA DES BUGS &amp; CRASHS, CONTINUER AVEC PRECAUTION!!!</value>
     <value>Remplir tous les champs de texte requis.</value>
   </data>
   <data name="txtMsgSelectWallpaperFile" xml:space="preserve">
-    <value>Fichier fond d'écran non sélectionner</value>
+    <value>Fichier fond d'écran non sélectionné</value>
   </data>
   <data name="txtNotes" xml:space="preserve">
     <value>Note:
 (1) La fenêtre Lively à ignorer ces règles.
-(2) L'audio est toujours couper quand d'autres application sont au premier plan {excepter (1), la fenêtre Lively }.
-(3) Le procéder algorithmique possède certaines limitations, se réferer au wiki pour plus  d'informations.
+(2) L'audio est toujours coupé quand d'autres applications sont au premier plan {excepté (1), la fenêtre Lively }.
+(3) Le procédé algorithmique possède certaines limitations, se référer au wiki pour plus d'informations.
 (4) Les règles de l'application ont la plus grande priorité.</value>
   </data>
   <data name="txtOff" xml:space="preserve">
@@ -506,7 +506,7 @@ IL Y AURA DES BUGS &amp; CRASHS, CONTINUER AVEC PRECAUTION!!!</value>
     <value>Autres applications de premier plan:</value>
   </data>
   <data name="txtOtherAppsFullScreen" xml:space="preserve">
-    <value>Autres Applications en Plein Ecran:</value>
+    <value>Autres Applications en Plein Écran:</value>
   </data>
   <data name="txtPauseAlgorith" xml:space="preserve">
     <value>Mettre en Pause l'Algorithme:</value>
@@ -518,10 +518,10 @@ IL Y AURA DES BUGS &amp; CRASHS, CONTINUER AVEC PRECAUTION!!!</value>
     <value>Veuillez Patienter</value>
   </data>
   <data name="txtPreviewWallpaperNote" xml:space="preserve">
-    <value>Gardez cette fenêtre en premier plan pendant le procéder.</value>
+    <value>Gardez cette fenêtre en premier plan pendant le procédé.</value>
   </data>
   <data name="txtSelectPreviewThumb" xml:space="preserve">
-    <value>Selectionner le fichier prévisualisation du clip / miniature.</value>
+    <value>Sélectionner le fichier prévisualisation du clip / miniature.</value>
   </data>
   <data name="txtSetWallpaper" xml:space="preserve">
     <value>Définir comme Fond d'écran</value>
@@ -539,7 +539,7 @@ IL Y AURA DES BUGS &amp; CRASHS, CONTINUER AVEC PRECAUTION!!!</value>
     <value>Support</value>
   </data>
   <data name="txtTileGIF" xml:space="preserve">
-    <value>GIF animer</value>
+    <value>GIF animé</value>
   </data>
   <data name="txtTileGodot" xml:space="preserve">
     <value>Logiciel Godot </value>
@@ -575,16 +575,16 @@ IL Y AURA DES BUGS &amp; CRASHS, CONTINUER AVEC PRECAUTION!!!</value>
     <value>Lecteur Vidéo:</value>
   </data>
   <data name="txtVideoPlayerToolTip" xml:space="preserve">
-    <value>Directshow requière l'installation de plug-ins supplémentaire.</value>
+    <value>Directshow requiert l'installation de plug-ins supplémentaire.</value>
   </data>
   <data name="txtWallpaperPlayback" xml:space="preserve">
-    <value>Boucle des Fonds d'éctrans:</value>
+    <value>Boucle des fonds d'écrans:</value>
   </data>
   <data name="txtWindowTitleSelectDisplay" xml:space="preserve">
-    <value>Selectionner L'Affichage</value>
+    <value>Sélectionner L'affichage</value>
   </data>
   <data name="txtGifScaling" xml:space="preserve">
-    <value>GIF Échelle:</value>
+    <value>Échelle du GIF:</value>
   </data>
   <data name="txtInstall" xml:space="preserve">
     <value>Installer</value>
@@ -593,19 +593,19 @@ IL Y AURA DES BUGS &amp; CRASHS, CONTINUER AVEC PRECAUTION!!!</value>
     <value>Interaction</value>
   </data>
   <data name="txtMoreWp" xml:space="preserve">
-    <value>Plus de fonds d'écran...</value>
+    <value>Plus de fonds d'écrans...</value>
   </data>
   <data name="txtMouse" xml:space="preserve">
     <value>Souris</value>
   </data>
   <data name="txtMsgUpdaterPortableUnsupported" xml:space="preserve">
-    <value>L'Updater n'est pas supporter par la version portable de lively, télécharger la dernière version publiée sur le site web.</value>
+    <value>L'Updater n'est pas supporté par la version portable de lively, télécharger la dernière version publiée sur le site web.</value>
   </data>
  <data name="txtUpdateDownloadErrorMsg" xml:space="preserve">
-    <value>Échec de la mise à jour. Essayer de télécharger l'installer depuis</value>
+    <value>Échec de la mise à jour. Essayer de télécharger l'installateur</value>
   </data>
  <data name="txtVideoScaling" xml:space="preserve">
-    <value>Echelle Vidéo:</value>
+    <value>Échelle Vidéo:</value>
   </data>
   <data name="txtWhenBattery" xml:space="preserve">
     <value>Mode batterie Activé</value>
