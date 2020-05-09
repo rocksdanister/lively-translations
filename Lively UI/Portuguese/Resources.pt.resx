@@ -590,7 +590,7 @@ ENCONTRARA BUGS E CRASHES, PROCEDA COM CAUTELA!!!</value>
     <value>Atualização do Lively Disponível</value>
   </data>
   <data name="txtUpdateDownloadErrorMsg" xml:space="preserve">
-    <value>Atualização falhada. Tente descarregar o instalador de</value>
+    <value>Atualização falhada. Tente descarregar o instalador novamente</value>
   </data>
   <data name="txtVideoPlayer" xml:space="preserve">
     <value>Reprodutor de Vídeo:</value>
