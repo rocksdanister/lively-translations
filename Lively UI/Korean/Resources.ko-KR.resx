@@ -1,0 +1,613 @@
+﻿  // TL notes:- &amp stands for ampersand.
+  // Translate the text inside value field: <value>sample text</value>
+  // Try to maintain similar spacing and newline if you can.
+  // Save the file as Resources.Languagetag.resx eg: Resources.en-US.resx.  
+  // Languagetag: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c
+  // If there are many variants of your language based on country code and you know they are similar enough then do let me know.
+  // I can add your name in the about page if interested, do let me know.
+  // Some text are just names of UI elements.
+
+  <data name="cmbBoxAllDisplays" xml:space="preserve">
+    <value>모든 디스플레이</value>
+  </data>
+  <data name="cmbBoxGIFPlayer1" xml:space="preserve">
+    <value>XamlAnimatedGif</value>
+  </data>
+  <data name="cmbBoxGIFPlayer1ToolTip" xml:space="preserve">
+    <value>낮은 메모리 사용, 높은 cpu 사용</value>
+  </data>
+  <data name="cmbBoxGIFPlayer2" xml:space="preserve">
+    <value>DirectShow</value>
+  </data>
+  <data name="cmbBoxGIFPlayer2ToolTip" xml:space="preserve">
+    <value>낮은 cpu 사용 (코덱 설정을 따름)</value>
+  </data>
+  <data name="cmbBoxKill" xml:space="preserve">
+    <value>끄기(메모리 할당 해제)</value>
+  </data>
+  <data name="cmbBoxNothing" xml:space="preserve">
+    <value>아무것도 안함</value>
+  </data>
+  <data name="cmbBoxPaugeAlgorithmAllProcess" xml:space="preserve">
+    <value>모든 프로세스 (실험중)</value>
+  </data>
+  <data name="cmbBoxPause" xml:space="preserve">
+    <value>일시정지</value>
+  </data>
+  <data name="cmbBoxPauseAlgorithmForeground" xml:space="preserve">
+    <value>맨 앞의 프로세스</value>
+  </data>
+  <data name="cmbBoxPerDisplay" xml:space="preserve">
+    <value>각각의 디스플레이</value>
+  </data>
+  <data name="cmbBoxSpan" xml:space="preserve">
+    <value>기간</value>
+  </data>
+  <data name="cmbBoxVideoPlayer1" xml:space="preserve">
+    <value>Media Foundation</value>
+  </data>
+  <data name="cmbBoxVideoPlayer2" xml:space="preserve">
+    <value>DirectShow(Lav, ffdshow..)</value>
+  </data>
+
+  <data name="msgAppCommandLineArgs" xml:space="preserve">
+    <value>필요하다면 커맨드라인 변수를 입력하십시오 (선택임, 없다면 채우지 않아도 됨):-</value>
+  </data>
+  <data name="msgAppCommandLineArgsTitle" xml:space="preserve">
+    <value>시작 인자</value>
+  </data>
+  <data name="msgAppGUIFailure" xml:space="preserve">
+    <value>선택된 배경화면(애플리케이션) 그래픽 사용자 인터페이스(GUI)가 없습니다.
+애플리케이션 강제종료중...</value>
+  </data>
+  <data name="msgAppTimeout" xml:space="preserve">
+    <value>애플리케이션 창을 찾는 데 실패했습니다.
+배경화면(애플리케이션)이 시작하는 데 너무 오래 걸립니다(~30초 이상), 이유는 이것 때문일 수 있습니다:
+바이러스 백신/ 애플리케이션이 너무 큽니다.
+기다리거나 &amp; 다시 시도하십시오 (선택적으로 대기 시간을 선택할 수 있습니다, 더 많은 정보는 위키를 참고하십시오.)
+애플리케이션 강제종료중...</value>
+  </data>
+  <data name="msgDamangedLivelyFile" xml:space="preserve">
+    <value>손상된 배경화면 파일입니다, 다시 다운로드 해 보십시오.</value>
+  </data>
+  <data name="msgDeleteConfirmation" xml:space="preserve">
+    <value>정말 이 배경화면을 디스크에서 영구적으로 지우시겠습니까?</value>
+  </data>
+  <data name="msgDeleteConfirmationTitle" xml:space="preserve">
+    <value>삭제 확인</value>
+  </data>
+  <data name="msgDeletionFailure" xml:space="preserve">
+    <value>현재 배경화면으로 작동하고 있습니다, 지울 수 없습니다!
+지우려면 이 배경화면을 끄십시오.</value>
+  </data>
+  <data name="msgDeletionFailureTitle" xml:space="preserve">
+    <value>삭제 실패</value>
+  </data>
+  <data name="msgDragDropOtherFormats" xml:space="preserve">
+    <value>이 파일 포맷은 드래그 &amp; 드롭이 지원되지 않습니다, 대신 '속성' 페이지에서 여십시오.</value>
+  </data>
+  <data name="msgDragDropOtherFormatsTitle" xml:space="preserve">
+    <value>Lively: 지원되지 않음</value>
+  </data>
+  <data name="msgExternalAppWarning" xml:space="preserve">
+    <value>외부 애플리케이션을 배경화면으로 실행하고 있습니다.
+수상한 애플리케이션은 멀웨어나 바이러스 등을 실행할 수 있고 시스템을 공격할 수 있습니다.
+신뢰할 수 있는 곳에서 온 애플리케이션이라면 진행하십시오.</value>
+  </data>
+  <data name="msgExternalAppWarningTitle" xml:space="preserve">
+    <value>경고</value>
+  </data>
+  <data name="msgGIFfailure" xml:space="preserve">
+    <value>GIF 파일 재생에 실패했습니다.
+GIF 파일이 손상되었습니까? 다시 다운로드 해 보십시오.</value>
+  </data>
+  <data name="msgHighContrastFailure" xml:space="preserve">
+    <value>Lively는 고대비 테마 모드가 활성화된 상태에서 제대로 동작하지 않습니다!
+고대비 테마 모드를 비활성화 후 다시 시도하십시오.</value>
+  </data>
+  <data name="msgLoadExternalLink" xml:space="preserve">
+    <value>외부 웹페이지를 당신의 브라우저에서 열고 있습니다.
+
+주소:-</value>
+  </data>
+  <data name="msgLoadExternalLinkTitle" xml:space="preserve">
+    <value>웹페이지를 열까요?</value>
+  </data>
+  <data name="msgLoadingAppWallpaper" xml:space="preserve">
+    <value>외부 애플리케이션 실행 중..</value>
+  </data>
+  <data name="msgMediaFoundationFailure" xml:space="preserve">
+    <value>미디어 재생 실패: 코덱 없음/ 손상된 파일.
+LAV 코덱 설치 후 DirectShow 플레이어로 바꾸어 보십시오.
+</value>
+  </data>
+  <data name="msgMediakitFailure" xml:space="preserve">
+    <value>미디어 재생 실패: 코덱 없음/ 손상된 파일.
+LAV 코덱을 반드시 설치하십시오.
+</value>
+  </data>
+  <data name="msgRestoringInProgress" xml:space="preserve">
+    <value>이전 배경을 복구하는 중입니다, 기다려 주세요.</value>
+  </data>
+  <data name="msgRestoringPrevWallpapers" xml:space="preserve">
+    <value>이전 배경을 복구하는 중입니다..</value>
+  </data>
+  <data name="msgSafeModeWarning" xml:space="preserve">
+    <value>Lively가 정상적으로 종료되지 않아, 안전 모드에서 실행합니다.
+이전에 실행된 배경화면을 복구할까요?
+에러 정보는 다음 위치에 저장되었습니다:-
+</value>
+  </data>
+  <data name="msgSingleInstanceOnly" xml:space="preserve">
+    <value>Lively가 이미 작동중입니다!
+반응하지 않는다면 작업관리자에서 "livelywpf" 프로세스를 끄고 다시 시도하십시오.</value>
+  </data>
+  <data name="msgUrlLoad" xml:space="preserve">
+    <value>로드 할 웹사이트 링크를 입력하십시오, Shadertoy.com 쉐이더 링크가 지원됩니다:-</value>
+  </data>
+  <data name="msgUrlLoadTitle" xml:space="preserve">
+    <value>웹페이지 불러오기</value>
+  </data>
+  <data name="msgUrlWarning" xml:space="preserve">
+    <value>지금 외부 웹사이트를 불러오려고 하고 있습니다.
+수상한 웹페이지는 컴퓨터에 해를 끼칠 수 있습니다 (멀웨어, 바이러스 등등)
+믿을 수 있는 웹사이트만 접속하십시오.</value>
+  </data>
+  <data name="msgUrlWarningTitle" xml:space="preserve">
+    <value>경고</value>
+  </data>
+  <data name="msgWebBrowserMissing" xml:space="preserve">
+    <value>웹브라우저 컴포넌트를 찾을 수 없습니다, :-
+https://github.com/rocksdanister/lively-cef 에서 따로 다운로드 받거나
+혹은
+lively의 풀버전을 다운로드 받으십시오.</value>
+  </data>
+  <data name="msgWorkerWFailure" xml:space="preserve">
+    <value>Lively가 작동하기 위해서 몇 가지 설정이 필요할 것 같습니다:-  
+1. 내 PC(내 컴퓨터)를 여십시오
+2. 빈 공간을 우클릭하십시오
+3. 속성을 클릭하십시오
+4. 고급 시스템 설정을 클릭하십시오
+5. 성능 탭에서 설정을 클릭하십시오
+6. '창의 제어 및 요소에 애니메이션 효과 주기' 활성화 &amp; 적용.
+
+만약 윈도우 7이라면 - 최적 모양으로 조정 &amp; 적용.
+이래도 작동하지 않는다면, Lively 재시작/ Windows 재시작.
+(윈도우 10 빌드에서는 작동하지 않습니다)</value>
+  </data>
+  <data name="titleAbout" xml:space="preserve">
+    <value>정보</value>
+  </data>
+  <data name="titleLibrary" xml:space="preserve">
+    <value>라이브러리</value>
+  </data>
+  <data name="titleSettings" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="titleType" xml:space="preserve">
+    <value>속성</value>
+  </data>
+  <data name="toolTipMinimizeMsg" xml:space="preserve">
+    <value>시스템트레이로 최소화되었습니다, 더 많은 기능은 우클릭으로 사용할 수 있습니다.</value>
+  </data>
+  <data name="toolTipUpdateMsg" xml:space="preserve">
+    <value>새로운 버전이 이용 가능합니다!</value>
+  </data>
+  <data name="toolTipWallpaperSkip" xml:space="preserve">
+    <value>몇 배경화면(들)은 파일을 찾을 수 없어 건너뛰었습니다!</value>
+  </data>
+  <data name="txtApplicationRules" xml:space="preserve">
+    <value>애플리케이션 규칙</value>
+  </data>
+  <data name="txtAudioIn" xml:space="preserve">
+    <value>오디오 입력:</value>
+  </data>
+  <data name="txtAudioInToolTip" xml:space="preserve">
+    <value>브라우저가 시스템 오디오에 접근하는 것을 관리합니다.</value>
+  </data>
+  <data name="txtAudioLabel1" xml:space="preserve">
+    <value>오디오는 다중 모니터 시스템에서 항상 비활성화됩니다.</value>
+  </data>
+  <data name="txtAudioLabel2" xml:space="preserve">
+    <value>"오디오 입력" 이 비활성화 되었으므로, 웹 오디오 비주얼라이저는 작동하지 않습니다.</value>
+  </data>
+  <data name="txtAudioOut" xml:space="preserve">
+    <value>오디오 출력:</value>
+  </data>
+  <data name="txtAudioOutToolTip" xml:space="preserve">
+    <value>비디오 플레이어의 소리를 켜거나 끕니다.</value>
+  </data>
+  <data name="txtBrowser" xml:space="preserve">
+    <value>웹 브라우저:</value>
+  </data>
+  <data name="txtBrowserToolTip" xml:space="preserve">
+    <value>웹 배경화면을 실행할 웹 브라우저 선택(준비중)</value>
+  </data>
+  <data name="txtCloseAllWallpapers" xml:space="preserve">
+    <value>모든 배경화면 닫기</value>
+  </data>
+  <data name="txtComingSoon" xml:space="preserve">
+    <value>준비중</value>
+  </data>
+  <data name="txtContextMenuCloseAll" xml:space="preserve">
+    <value>모든 배경화면 닫기</value>
+  </data>
+  <data name="txtContextMenuCloseWallpaper" xml:space="preserve">
+    <value>배경화면 닫기</value>
+  </data>
+  <data name="txtContextMenuDeleteWallpaper" xml:space="preserve">
+    <value>배경화면 지우기</value>
+  </data>
+  <data name="txtContextMenuExit" xml:space="preserve">
+    <value>종료</value>
+  </data>
+  <data name="txtContextMenuExport" xml:space="preserve">
+    <value>lively 압축파일로 저장</value>
+  </data>
+  <data name="txtContextMenuOpenLively" xml:space="preserve">
+    <value>Lively 열기</value>
+  </data>
+  <data name="txtContextMenuShowOnDisk" xml:space="preserve">
+    <value>디스크에서 보기</value>
+  </data>
+  <data name="txtContextMenuUpdate1" xml:space="preserve">
+    <value>업데이트 확인</value>
+  </data>
+  <data name="txtContextMenuUpdate2" xml:space="preserve">
+    <value>업데이트 이용 가능!</value>
+  </data>
+  <data name="txtContextMenuUpdate3" xml:space="preserve">
+    <value>베타 소프트웨어인가요?</value>
+  </data>
+  <data name="txtContextMenuUpdate4" xml:space="preserve">
+    <value>Lively가 최신 버전입니다!</value>
+  </data>
+  <data name="txtContextMenuUpdate5" xml:space="preserve">
+    <value>업데이트 에러 체크중</value>
+  </data>
+  <data name="txtCreateWallpaper" xml:space="preserve">
+    <value>배경화면 만들기</value>
+  </data>
+  <data name="txtCreatingZip" xml:space="preserve">
+    <value>lively 압축파일 만드는 중</value>
+  </data>
+  <data name="txtDisplayPauseRule" xml:space="preserve">
+    <value>디스플레이 일시정지 규칙:</value>
+  </data>
+  <data name="txtDownload" xml:space="preserve">
+    <value>다운로드</value>
+  </data>
+  <data name="txtGIFPlayer" xml:space="preserve">
+    <value>GIF 플레이어:</value>
+  </data>
+  <data name="txtGifPlayerToolTip" xml:space="preserve">
+    <value>Directshow 는 추가적인 플러그인을 필요로 합니다.</value>
+  </data>
+  <data name="txtGifScaling" xml:space="preserve">
+    <value>GIF 크기 조정/맞춤:</value>
+  </data>
+  <data name="txtHelp" xml:space="preserve">
+    <value>도움</value>
+  </data>
+  <data name="txtIgnore" xml:space="preserve">
+    <value>무시</value>
+  </data>
+  <data name="txtInstall" xml:space="preserve">
+    <value>설치</value>
+  </data>
+  <data name="txtInstallWallpaper" xml:space="preserve">
+    <value>배경화면 설치</value>
+  </data>
+  <data name="txtLabel1" xml:space="preserve">
+    <value>불러올 배경화면 속성을 선택하세요:-</value>
+  </data>
+  <data name="txtLabel10" xml:space="preserve">
+    <value>속성:</value>
+  </data>
+  <data name="txtLabel11" xml:space="preserve">
+    <value>무엇을 써야 하나요?</value>
+  </data>
+  <data name="txtLabel12" xml:space="preserve">
+    <value>속성:</value>
+  </data>
+  <data name="txtLabel120FPS" xml:space="preserve">
+    <value>120FPS 강제 UI</value>
+  </data>
+  <data name="txtLabel13" xml:space="preserve">
+    <value>저자:</value>
+  </data>
+  <data name="txtLabel14" xml:space="preserve">
+    <value>연락처:</value>
+  </data>
+  <data name="txtLabel15" xml:space="preserve">
+    <value>일반</value>
+    <comment>settings tab</comment>
+  </data>
+  <data name="txtLabel16" xml:space="preserve">
+    <value>앱 재시작 필요</value>
+    <comment>settings tab</comment>
+  </data>
+  <data name="txtLabel17" xml:space="preserve">
+    <value>비디오</value>
+    <comment>settings tab</comment>
+  </data>
+  <data name="txtLabel18" xml:space="preserve">
+    <value>Gif</value>
+    <comment>settings tab</comment>
+  </data>
+  <data name="txtLabel19" xml:space="preserve">
+    <value>웹 브라우저</value>
+    <comment>settings tab</comment>
+  </data>
+  <data name="txtLabel2" xml:space="preserve">
+    <value>혹은 원하는 방식으로 파일을 끌어다 놓기만 하면 됩니다.</value>
+  </data>
+  <data name="txtLabel20" xml:space="preserve">
+    <value>성능</value>
+    <comment>settings tab</comment>
+  </data>
+  <data name="txtLabel21" xml:space="preserve">
+    <value>실행중인 응용프로그램에 따라 배경화면 재생 동작 설정:-</value>
+  </data>
+  <data name="txtLabel22" xml:space="preserve">
+    <value>추가</value>
+  </data>
+  <data name="txtLabel23" xml:space="preserve">
+    <value>제거</value>
+  </data>
+  <data name="txtLabel24" xml:space="preserve">
+    <value>배경화면 레이아웃 선택:-</value>
+  </data>
+  <data name="txtLabel25" xml:space="preserve">
+    <value>만들 배경화면 속성 선택:-</value>
+  </data>
+  <data name="txtLabel26" xml:space="preserve">
+    <value>라이브러리 파일: Lively로 배경화면을 불러오는 공유하기 쉬운 압축파일을 만드십시오.
+파일을 배경화면으로 실행하기 위해서는, 반드시 필요한 것은 아니지만, 파일을 Lively 창으로 끌어오면 됩니다.</value>
+  </data>
+  <data name="txtLabel27" xml:space="preserve">
+    <value>웹사이트 연락처(선택):-</value>
+  </data>
+  <data name="txtLabel28" xml:space="preserve">
+    <value>라이센스(선택):-</value>
+  </data>
+  <data name="txtLabel29" xml:space="preserve">
+    <value>제목:-</value>
+  </data>
+  <data name="txtLabel3" xml:space="preserve">
+    <value>이것들은 Unity Technologies, Godot, Bizhawk, Shadertoy.com에서 지원하거나 소속되지 않았습니다</value>
+  </data>
+  <data name="txtLabel30" xml:space="preserve">
+    <value>설명:-</value>
+  </data>
+  <data name="txtLabel31" xml:space="preserve">
+    <value>파일 선택</value>
+  </data>
+  <data name="txtLabel32" xml:space="preserve">
+    <value>썸네일 (200x200)</value>
+  </data>
+  <data name="txtLabel33" xml:space="preserve">
+    <value>생성</value>
+  </data>
+  <data name="txtLabel34" xml:space="preserve">
+    <value>미리보기 Gif (192x108)</value>
+  </data>
+  <data name="txtLabel35" xml:space="preserve">
+    <value>배경화면 속성:-</value>
+  </data>
+  <data name="txtLabel36" xml:space="preserve">
+    <value>파일과 폴더는 다음 경로에 추가됩니다:-</value>
+  </data>
+  <data name="txtLabel37" xml:space="preserve">
+    <value>확인</value>
+  </data>
+  <data name="txtLabel38" xml:space="preserve">
+    <value>뒤로</value>
+  </data>
+  <data name="txtLabel39" xml:space="preserve">
+    <value>배경화면 설치하는 중</value>
+  </data>
+  <data name="txtLabel4" xml:space="preserve">
+    <value>미디어</value>
+  </data>
+  <data name="txtLabel5" xml:space="preserve">
+    <value>게임</value>
+  </data>
+  <data name="txtLabel6" xml:space="preserve">
+    <value>레트로</value>
+  </data>
+  <data name="txtLabel7" xml:space="preserve">
+    <value>기타</value>
+  </data>
+  <data name="txtLabel8" xml:space="preserve">
+    <value>웹</value>
+  </data>
+  <data name="txtLabel9" xml:space="preserve">
+    <value>오디오 비주얼라이저</value>
+  </data>
+  <data name="txtLabelApplication" xml:space="preserve">
+    <value>애플리케이션</value>
+  </data>
+  <data name="txtLabelAppName" xml:space="preserve">
+    <value>Lively</value>
+  </data>
+  <data name="txtLabelInteraction" xml:space="preserve">
+    <value>상호작용</value>
+  </data>
+  <data name="txtLabelRule" xml:space="preserve">
+    <value>규칙</value>
+  </data>
+  <data name="txtLabelSoftwareUIRendering" xml:space="preserve">
+    <value>하드웨어 가속 비활성화</value>
+  </data>
+  <data name="txtLabelStream" xml:space="preserve">
+    <value>스트림</value>
+  </data>
+  <data name="txtLabelVideoQuality" xml:space="preserve">
+    <value>비디오 품질</value>
+  </data>
+  <data name="txtLivelyAppWarning" xml:space="preserve">
+    <value>이 기능은 현재 개발중입니다.
+CHROME, STEAM같은 여러 하위 프로세스들을 생성하는 프로그램들을 실행하지 마십시오.
+버그 &amp; 충돌이 있을 수 있습니다, 조심해서 진행하십시오!!!</value>
+  </data>
+  <data name="txtLivelyErrorMsgTitle" xml:space="preserve">
+    <value>에러</value>
+    <comment>title for messagebox.</comment>
+  </data>
+  <data name="txtLivelyWaitMsgTitle" xml:space="preserve">
+    <value>기다려 주세요</value>
+    <comment>title for messagebox</comment>
+  </data>
+  <data name="txtLivelyWallpaperTypeApp" xml:space="preserve">
+    <value>애플리케이션</value>
+  </data>
+  <data name="txtLivelyWallpaperTypeGIF" xml:space="preserve">
+    <value>움직이는 GIF</value>
+  </data>
+  <data name="txtLivelyWallpaperTypeGodot" xml:space="preserve">
+    <value>Godot 애플리케이션</value>
+  </data>
+  <data name="txtLivelyWallpaperTypeUnity" xml:space="preserve">
+    <value>Unity 애플리케이션</value>
+  </data>
+  <data name="txtLivelyWallpaperTypeUnityAudio" xml:space="preserve">
+    <value>Unity 오디오 반응</value>
+  </data>
+  <data name="txtLivelyWallpaperTypeUrl" xml:space="preserve">
+    <value>온라인</value>
+  </data>
+  <data name="txtLivelyWallpaperTypeVideo" xml:space="preserve">
+    <value>비디오</value>
+  </data>
+  <data name="txtLivelyWallpaperTypeWeb" xml:space="preserve">
+    <value>웹</value>
+  </data>
+  <data name="txtLivelyWallpaperTypeWebAudio" xml:space="preserve">
+    <value>웹 오디오 반응</value>
+  </data>
+  <data name="txtLiveTile" xml:space="preserve">
+    <value>움직이는 타일:</value>
+  </data>
+  <data name="txtLiveTileToolTip" xml:space="preserve">
+    <value>(실험중) 타일에서 배경화면 미리보기.</value>
+  </data>
+  <data name="txtMoreWp" xml:space="preserve">
+    <value>더 많은 배경화면</value>
+  </data>
+  <data name="txtMouse" xml:space="preserve">
+    <value>마우스</value>
+  </data>
+  <data name="txtMsgFillAllFields" xml:space="preserve">
+    <value>필요한 모든 텍스트 상자를 채우십시오</value>
+  </data>
+  <data name="txtMsgSelectWallpaperFile" xml:space="preserve">
+    <value>배경화면 파일이 선택되지 않았습니다</value>
+  </data>
+  <data name="txtMsgUpdaterPortableUnsupported" xml:space="preserve">
+    <value>업데이터는 Lively의 포터블 버전에서는 지원되지 않습니다, 직접 웹사이트에서 최신 버전을 다운로드 받으세요.</value>
+  </data>
+  <data name="txtNotes" xml:space="preserve">
+    <value>노트:
+(1) Lively 창은 이 규칙을 무시합니다.
+(2) 오디오는 다른 앱들이 활성화 되어 있을 때 항상 음소거됩니다{예외 (1), Lively 창}.
+(3) 전경 프로세스 알고리즘은 몇몇 제한이 있습니다, 자세한 사항은 위키를 참고하십시오.
+(4) 애플리케이션 룰은 제일 높은 우선순위를 가지고 있습니다.</value>
+  </data>
+  <data name="txtOff" xml:space="preserve">
+    <value>꺼짐</value>
+  </data>
+  <data name="txtOn" xml:space="preserve">
+    <value>켜짐</value>
+  </data>
+  <data name="txtOtherAppsFocus" xml:space="preserve">
+    <value>다른 애플리케이션이 활성화되어 있을 때:</value>
+  </data>
+  <data name="txtOtherAppsFullScreen" xml:space="preserve">
+    <value>다른 애플리케이션이 전체 화면일 때:</value>
+  </data>
+  <data name="txtPauseAlgorith" xml:space="preserve">
+    <value>일시정지 알고리즘:</value>
+  </data>
+  <data name="txtPleaseWait" xml:space="preserve">
+    <value>불러오기 실패</value>
+  </data>
+  <data name="txtPleaseWait2" xml:space="preserve">
+    <value>기다려 주세요</value>
+  </data>
+  <data name="txtPreviewWallpaperNote" xml:space="preserve">
+    <value>진행하는 동안 이 창을 계속 활성화 시켜 두세요.</value>
+  </data>
+  <data name="txtSelectPreviewThumb" xml:space="preserve">
+    <value>미리보기 클립/썸네일 파일을 선택하세요.</value>
+  </data>
+  <data name="txtSetWallpaper" xml:space="preserve">
+    <value>배경화면으로 적용</value>
+  </data>
+  <data name="txtSpanWallpaperWarning" xml:space="preserve">
+    <value>일부 배경화면은 디스플레이에 제대로 표시되지 않습니다.</value>
+  </data>
+  <data name="txtStartup" xml:space="preserve">
+    <value>Windows 시작 시 실행:</value>
+  </data>
+  <data name="txtStartupToolTip" xml:space="preserve">
+    <value>lively를 제거하기 전 이 옵션을 체크 해제해 주십시오.</value>
+  </data>
+  <data name="txtSupport" xml:space="preserve">
+    <value>지원</value>
+  </data>
+  <data name="txtTileGIF" xml:space="preserve">
+    <value>움직이는 GIF</value>
+  </data>
+  <data name="txtTileGodot" xml:space="preserve">
+    <value>Godot Software</value>
+  </data>
+  <data name="txtTileHTML" xml:space="preserve">
+    <value>HTML</value>
+  </data>
+  <data name="txtTileOther" xml:space="preserve">
+    <value>기타</value>
+  </data>
+  <data name="txtTileUnity" xml:space="preserve">
+    <value>Unity Software</value>
+  </data>
+  <data name="txtTileVideo" xml:space="preserve">
+    <value>비디오</value>
+  </data>
+  <data name="txtTileWebsite" xml:space="preserve">
+    <value>웹사이트</value>
+  </data>
+  <data name="txtTitlebar" xml:space="preserve">
+    <value>Lively 배경화면 시스템</value>
+  </data>
+  <data name="txtTransparency" xml:space="preserve">
+    <value>UI 투명도:</value>
+  </data>
+  <data name="txtTransparencyToolTip" xml:space="preserve">
+    <value>lively 창을 반투명하게 만들어 줍니다.</value>
+  </data>
+  <data name="txtUpdateBanner" xml:space="preserve">
+    <value>Lively 업데이트 가능</value>
+  </data>
+  <data name="txtUpdateDownloadErrorMsg" xml:space="preserve">
+    <value>업데이트 실패. 설치 파일을 다운로드 해 보세요:</value>
+  </data>
+  <data name="txtVideoPlayer" xml:space="preserve">
+    <value>비디오 플레이어:</value>
+  </data>
+  <data name="txtVideoPlayerToolTip" xml:space="preserve">
+    <value>Directshow는 추가적인 플러그인을 필요로 합니다.</value>
+  </data>
+  <data name="txtVideoScaling" xml:space="preserve">
+    <value>비디오 크기 조절/맞춤:</value>
+  </data>
+  <data name="txtWallpaperPlayback" xml:space="preserve">
+    <value>배경화면 재생:</value>
+  </data>
+  <data name="txtWhenBattery" xml:space="preserve">
+    <value>배터리 전원을 켤 때:</value>
+  </data>
+  <data name="txtWindowTitleSelectDisplay" xml:space="preserve">
+    <value>디스플레이 선택</value>
+  </data>
+</root>
