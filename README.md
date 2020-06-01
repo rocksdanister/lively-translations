@@ -9,7 +9,8 @@ Community translation for lively wallpaper app.
  - [x] Italian
  - [x] Korean
  - [x] Portuguese
- - [x] Russian Spanish
+ - [x] Russian 
+ - [x] Spanish 
 
 ### Machine Translated
  - [x] Hindi
