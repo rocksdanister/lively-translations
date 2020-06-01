@@ -1,7 +1,9 @@
 # lively-translations
 Community translation for lively wallpaper app.
 
-### Human Translated
+To get started check the English resource file, instructions are provided; some languages are partially translated with missing translations in separate file.
+
+### Human Translated (some partial)
  - [x] Arabic/AE
  - [x] Chinese
  - [x] French
