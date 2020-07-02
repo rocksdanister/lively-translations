@@ -1,4 +1,4 @@
-﻿  // TL notes:- &amp stands for ampersand.
+  // TL notes:- &amp stands for ampersand.
   // Translate the text inside value field: <value>sample text</value>
   // Try to maintain similar spacing and newline if you can.
   // Save the file as Resources.Languagetag.resx eg: Resources.en-US.resx.  
@@ -14,16 +14,16 @@
     <value>XamlAnimatedGif</value>
   </data>
   <data name="cmbBoxGIFPlayer1ToolTip" xml:space="preserve">
-    <value>Zużycie pamięci niskie, zużycie cpu wysokie</value>
+    <value>Zużycie pamięci niskie, zużycie CPU wysokie</value>
   </data>
   <data name="cmbBoxGIFPlayer2" xml:space="preserve">
     <value>DirectShow</value>
   </data>
   <data name="cmbBoxGIFPlayer2ToolTip" xml:space="preserve">
-    <value>Niższe zużycie cpu (zależne od ustawień kodeka)</value>
+    <value>Niższe zużycie CPU (zależne od ustawień kodeka)</value>
   </data>
   <data name="cmbBoxKill" xml:space="preserve">
-    <value>Zabij(Uwolnij pamięć)</value>
+    <value>Zabij (Uwolnij pamięć)</value>
   </data>
   <data name="cmbBoxNothing" xml:space="preserve">
     <value>Nic</value>
@@ -47,22 +47,22 @@
     <value>Media Foundation</value>
   </data>
   <data name="cmbBoxVideoPlayer2" xml:space="preserve">
-    <value>DirectShow(Lav, ffdshow..)</value>
+    <value>DirectShow (Lav, ffdshow..)</value>
   </data>
 
   <data name="msgAppCommandLineArgs" xml:space="preserve">
-    <value>Podaj argumenty lini poleceń dla aplikacji (opcjonalne, zostaw puste jeśli bez argumentów):-</value>
+    <value>Podaj argumenty linii poleceń dla aplikacji (opcjonalne, zostaw puste jeśli bez argumentów):-</value>
   </data>
   <data name="msgAppCommandLineArgsTitle" xml:space="preserve">
     <value>Argumenty początkowe</value>
   </data>
   <data name="msgAppGUIFailure" xml:space="preserve">
-    <value>Wybrana tapeta(aplikacja) nie posiada interfejsu graficznego(GUI).
+    <value>Wybrana tapeta (aplikacja) nie posiada interfejsu graficznego (GUI).
 Zamykam aplikację...</value>
   </data>
   <data name="msgAppTimeout" xml:space="preserve">
-    <value>Nie można przchwycić okna aplikacji.
-Tapeta(aplikacja) uruchamia się zbyt długo(więcej niż ~30sec), powodem może być:
+    <value>Nie można przechwycić okna aplikacji.
+Tapeta (aplikacja) uruchamia się zbyt długo(więcej niż ~30sek), powodem może być:
 Skaner antywirusowy/ Aplikacja jest za duża.
 Poczekaj i spróbuj ponownie. (opcjonalnie możesz edytować czas oczekiwania, sprawdź wiki po więcej informacji.)
 Zamykam aplikację...</value>
@@ -78,7 +78,7 @@ Zamykam aplikację...</value>
   </data>
   <data name="msgDeletionFailure" xml:space="preserve">
     <value>Obecnie uruchomione jako tapeta, nie można usunąć!
-Zamknij tapetę aby usunąć.</value>
+Zamknij tapetę, aby usunąć.</value>
   </data>
   <data name="msgDeletionFailureTitle" xml:space="preserve">
     <value>Usunięcie zakończone niepowodzeniem</value>
@@ -92,7 +92,7 @@ Zamknij tapetę aby usunąć.</value>
   <data name="msgExternalAppWarning" xml:space="preserve">
     <value>Otwierasz zewnętrzną aplikację jako tapetę.
 Złośliwe aplikacje mogą zawierać malware,wirusy... niebezpieczne dla twojego systemu.
-Kontunuuj tylko jeśli aplikacja pochodzi z zaufanego źródła.</value>
+Kontunuuj, tylko jeśli aplikacja pochodzi z zaufanego źródła.</value>
   </data>
   <data name="msgExternalAppWarningTitle" xml:space="preserve">
     <value>Ostrzeżenie</value>
@@ -123,7 +123,7 @@ Zainstaluj kodek LAV i spróbuj zmienić na odtwarzacz wideo Directshow.
   </data>
   <data name="msgMediakitFailure" xml:space="preserve">
     <value>Odtwarzanie multimediów zakończone niepowodzeniem: Brak Kodeka/ Uszkodzony Plik.
-Nie zpomnij zainstalować kodeka LAV.
+Nie zapomnij zainstalować kodeka LAV.
 </value>
   </data>
   <data name="msgRestoringInProgress" xml:space="preserve">
@@ -143,7 +143,7 @@ Informacje o błędzie zapisano w:-
 Jeśli proces "livelywpf" nie odpowiada zamknij go Menadżerze Zadań i spróbuj ponownie.</value>
   </data>
   <data name="msgUrlLoad" xml:space="preserve">
-    <value>Wpisz adres strony do załadowania, (obsługuje łacza do shader'ów na stronie Shadertoy.com):-</value>
+    <value>Wpisz adres strony do załadowania, (obsługuje łącza do shader'ów na stronie Shadertoy.com):-</value>
   </data>
   <data name="msgUrlLoadTitle" xml:space="preserve">
     <value>Wczytaj stronę internetową</value>
@@ -168,12 +168,12 @@ Pobierz pełną wersję lively.</value>
 2. Kliknij prawym myszy na pustym obszarze
 3. Wybierz właściwości
 4. Wybierz Zaawansowane ustawienia systemu
-5. W zakładnce Wydajność kliknij Ustawienia
+5. W zakładce Wydajność kliknij Ustawienia
 6. Włącz Animuj formanty i elementy wewnątrz okien &amp; Zastosuj.
 
 W Windows 7 wybierz - Dostosuj do uzyskania najlepszej wydajności &amp; Zastosuj.
-Jeśli ciągle nie działa,  uruchom ponownie Lively / system windows.
-(Nie działa w wersji windows 10 insider)</value>
+Jeśli ciągle nie działa,  uruchom ponownie Lively / system Windows.
+(Nie działa w wersji Windows 10 insider)</value>
   </data>
   <data name="titleAbout" xml:space="preserve">
     <value>O programie</value>
@@ -203,13 +203,13 @@ Jeśli ciągle nie działa,  uruchom ponownie Lively / system windows.
     <value>Dźwięk wejście:</value>
   </data>
   <data name="txtAudioInToolTip" xml:space="preserve">
-    <value>Blokuje dostęp przeglądarek do dzwięku systemowego.</value>
+    <value>Blokuje dostęp przeglądarek do dźwięku systemowego.</value>
   </data>
   <data name="txtAudioLabel1" xml:space="preserve">
     <value>Dźwięk jest zawsze wyłączony w przypadku wielu monitorów.</value>
   </data>
   <data name="txtAudioLabel2" xml:space="preserve">
-    <value>"Dźwięk wejście" jest wyłaczony, wizualizacje dźwięku nie będą działać.</value>
+    <value>"Dźwięk wejście" jest wyłączony, wizualizacje dźwięku nie będą działać.</value>
   </data>
   <data name="txtAudioOut" xml:space="preserve">
     <value>Dźwięk wyjście:</value>
@@ -362,7 +362,7 @@ Jeśli ciągle nie działa,  uruchom ponownie Lively / system windows.
     <value>Wybierz rodzaj tapety do stworzenia:-</value>
   </data>
   <data name="txtLabel26" xml:space="preserve">
-    <value>Plik biblioteki: Stwórz łatwy do dzielenia się plik .zip który załadauje tapetę do biblioteki lively.
+    <value>Plik biblioteki: Stwórz łatwy do dzielenia się plik .zip który załaduje tapetę do biblioteki lively.
 To nie jest wymagane do używania pliku jako tapety;  po prostu przeciągnij i upuść plik do okna lively.</value>
   </data>
   <data name="txtLabel27" xml:space="preserve">
@@ -449,7 +449,7 @@ To nie jest wymagane do używania pliku jako tapety;  po prostu przeciągnij i u
   <data name="txtLivelyAppWarning" xml:space="preserve">
     <value>Ta funkcja jest w trakcie opracowywania.
 NIE uruchamiaj takich aplikacji jak CHROME, STEAM.. które tworzą wiele pod-procesów.
-POJAWIĄ SIĘ BŁEDY I NAGŁE WYŁĄCZENIA, POSTĘPUJ OSTROŻNIE!!!</value>
+POJAWIĄ SIĘ BŁĘDY I NAGŁE WYŁĄCZENIA, POSTĘPUJ OSTROŻNIE!!!</value>
   </data>
   <data name="txtLivelyErrorMsgTitle" xml:space="preserve">
     <value>Błąd</value>
@@ -515,10 +515,10 @@ POJAWIĄ SIĘ BŁEDY I NAGŁE WYŁĄCZENIA, POSTĘPUJ OSTROŻNIE!!!</value>
 (4) Zasady aplikacji mają najwyższy priorytet.</value>
   </data>
   <data name="txtOff" xml:space="preserve">
-    <value>Wył</value>
+    <value>Wył.</value>
   </data>
   <data name="txtOn" xml:space="preserve">
-    <value>Wł</value>
+    <value>Wł.</value>
   </data>
   <data name="txtOtherAppsFocus" xml:space="preserve">
     <value>Inne aplikacje aktywne:</value>
@@ -551,7 +551,7 @@ POJAWIĄ SIĘ BŁEDY I NAGŁE WYŁĄCZENIA, POSTĘPUJ OSTROŻNIE!!!</value>
     <value>Uruchom podczas startu systemu Windows:</value>
   </data>
   <data name="txtStartupToolTip" xml:space="preserve">
-    <value>Odzacz tą opcję zanim odinstalujesz lively.</value>
+    <value>Odznacz tą opcję zanim odinstalujesz lively.</value>
   </data>
   <data name="txtSupport" xml:space="preserve">
     <value>Wsparcie</value>
