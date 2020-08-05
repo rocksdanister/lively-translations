@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <data name="DescriptionAppRules" xml:space="preserve">
+ <data name="DescriptionAppRules" xml:space="preserve">
     <value>根据正在运行的应用程序设置壁纸播放行为</value>
   </data>
   <data name="DescriptionCancelQuestion" xml:space="preserve">
@@ -101,6 +101,12 @@ https://github.com/rocksdanister/lively/wiki</value>
   <data name="TextDeleteWallpaper" xml:space="preserve">
     <value>删除壁纸</value>
   </data>
+  <data name="TextDisplayPauseRuleAllScreen" xml:space="preserve">
+    <value>全部</value>
+  </data>
+  <data name="TextDisplayPauseRulePerScreen" xml:space="preserve">
+    <value>单独</value>
+  </data>
   <data name="TextDownload" xml:space="preserve">
     <value>Download</value>
   </data>
@@ -140,16 +146,22 @@ https://github.com/rocksdanister/lively/wiki</value>
   <data name="TextOpenLively" xml:space="preserve">
     <value>打开 Lively</value>
   </data>
+  <data name="TextPauseAlgoAllProcess" xml:space="preserve">
+    <value>所有程序 (实验性)</value>
+  </data>
+  <data name="TextPauseAlgoForegroundProcess" xml:space="preserve">
+    <value>前台程序</value>
+  </data>
   <data name="TextPauseWallpapers" xml:space="preserve">
     <value>Pause wallpaper(s)</value>
   </data>
-  <data name="TextPerformaneKill" xml:space="preserve">
-    <value>停止</value>
+  <data name="TextPerformanceKill" xml:space="preserve">
+    <value>停止 (释放内存)</value>
   </data>
-  <data name="TextPerformaneNone" xml:space="preserve">
+  <data name="TextPerformanceNone" xml:space="preserve">
     <value>保持运行</value>
   </data>
-  <data name="TextPerformanePause" xml:space="preserve">
+  <data name="TextPerformancePause" xml:space="preserve">
     <value>暂停</value>
   </data>
   <data name="TextRemove" xml:space="preserve">
