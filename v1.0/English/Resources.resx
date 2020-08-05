@@ -1,4 +1,5 @@
-﻿<!--
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
  Translation notes:
  &amp stands for ampersand.
  Translate the text inside value field: <value>sample text</value>
@@ -9,7 +10,6 @@
  I can add your name in the about page if interested, do let me know.
  Some text are just names of UI elements, leave as is.
 -->
-<?xml version="1.0" encoding="utf-8"?>
 <root>
   <data name="DescriptionAppRules" xml:space="preserve">
     <value>Wallpaper playback behaviour based on running application.</value>
