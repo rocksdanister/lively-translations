@@ -1,7 +1,5 @@
 # lively-translations
 Community translation for lively wallpaper app.
-
-*Latest v1.0 translation files are currently being added for upcoming lively release, you can get started with the English file.*
 ## Instructions 
  1. Download the language file from v1.0 folder, if language does not exist download the English file instead.
  2. Use [Resx Editor](https://sourceforge.net/projects/resx/) to open the file.
