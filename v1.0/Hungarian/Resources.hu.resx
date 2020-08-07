@@ -485,7 +485,7 @@ Az Edge a Windows 10 beépített WebView-ja (Lehetővé teszi, hogy webes tartal
     <value>Szüneteltetési Előírás Megjelenítése</value>
   </data>
   <data name="TitleGeneral" xml:space="preserve">
-    <value>Általában</value>
+    <value>Általános</value>
   </data>
   <data name="TitleHelp" xml:space="preserve">
     <value>Segítség</value>
@@ -506,7 +506,7 @@ Az Edge a Windows 10 beépített WebView-ja (Lehetővé teszi, hogy webes tartal
     <value>Lively Felépítés</value>
   </data>
   <data name="TitleMisc" xml:space="preserve">
-    <value>Vegyes</value>
+    <value>Egyéb</value>
   </data>
   <data name="TitleMute" xml:space="preserve">
     <value>Némítás</value>
