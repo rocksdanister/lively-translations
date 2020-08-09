@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<data name="DescriptionAppRules">
+		<value>txtLabel21</value>
+	</data>
+	<data name="DescriptionDeleteConfirmation">
+		<value>msgDeleteConfirmation</value>
+	</data>
+	<data name="DescriptionExternalAppWarning">
+		<value>msgExternalAppWarning</value>
+	</data>
+	<data name="DescriptionMinimizedTray">
+		<value>toolTipMinimizeMsg</value>
+	</data>
+	<data name="DescriptionRestoringWallpaper">
+		<value>msgRestoringPrevWallpapers</value>
+	</data>
+	<data name="DescriptionUpdateAvailable">
+		<value>toolTipUpdateMsg</value>
+	</data>
+	<data name="DescriptionWebpageLoad">
+		<value>msgUrlLoad</value>
+	</data>
+	<data name="LivelyExceptionAppUpdateFail">
+		<value>txtUpdateDownloadErrorMsg</value>
+	</data>
+	<data name="LivelyExceptionDamagedZipFile">
+		<value>msgDamangedLivelyFile</value>
+	</data>
+	<data name="LivelyExceptionHighContrastMode">
+		<value>msgHighContrastFailure</value>
+	</data>
+	<data name="LivelyExceptionSafeModeStart">
+		<value>toolTipUpdateMsg</value>
+	</data>
+	<data name="LivelyExceptionWorkerWSetupFail">
+		<value>msgWorkerWFailure</value>
+	</data>
+	<data name="TextAdd">
+		<value>txtLabel22</value>
+	</data>
+	<data name="TextApplication">
+		<value>txtLabelApplication</value>
+	</data>
+	<data name="TextAttribution">
+		<value>txtLabel10</value>
+	</data>		
+	<data name="TextAuthor">
+		<value>txtLabel13</value>
+	</data>
+	<data name="TextCloseWallpapers">
+		<value>txtContextMenuCloseWallpaper</value>
+	</data>
+	<data name="TextDeleteWallpaper">
+		<value>txtContextMenuDeleteWallpaper</value>
+	</data>
+	<data name="TextError">
+		<value>txtLivelyErrorMsgTitle</value>
+	</data>
+	<data name="TextExit">
+		<value>txtContextMenuExit</value>
+	</data>
+	<data name="TextExportWallpaperZip">
+		<value>txtContextMenuExport</value>
+	</data>
+	<data name="TextInstall">
+		<value>txtInstall</value>
+	</data>
+	<data name="TextMoreWallpapers">
+		<value>txtMoreWp</value>
+	</data>
+	<data name="TextOnline">
+		<value>txtLivelyWallpaperTypeUrl</value>
+	</data>
+	<data name="TextOpenLively">
+		<value>txtContextMenuOpenLively</value>
+	</data>
+	<data name="TextPerformaneKill">
+		<value>cmbBoxKill</value>
+	</data>
+	<data name="TextPerformaneNone">
+		<value>cmbBoxNothing</value>
+	</data>
+	<data name="TextPerformanePause">
+		<value>cmbBoxPause</value>
+	</data>	
+	<data name="TextRemove">
+		<value>txtLabel23</value>
+	</data>	
+	<data name="TextRemove">
+		<value>txtLabel23</value>
+	</data>		
+	<data name="TextRule">
+		<value>txtLabelRule</value>
+	</data>
+	<data name="TextSetWallpaper">
+		<value>txtSetWallpaper</value>
+	</data>
+	<data name="TextShowOnDisk">
+		<value>txtContextMenuShowOnDisk</value>
+	</data>
+	<data name="TextUpdateAvailable">
+		<value>txtContextMenuUpdate2</value>
+	</data>
+	<data name="TextupdateCheckFail">
+		<value>txtContextMenuUpdate5</value>
+	</data>
+	<data name="TextUpdateChecking">
+		<value>txtContextMenuUpdate1</value>
+	</data>	
+	<data name="TextUpdateUptodate">
+		<value>txtContextMenuUpdate4</value>
+	</data>	
+	<data name="TextVideo">
+		<value>txtLivelyWallpaperTypeVideo</value>
+	</data>
+	<data name="TextWallpaperLayoutSpan">
+		<value>cmbBoxSpan</value>
+	</data>
+	<data name="TextWallpaperType">
+		<value>titleType</value>
+	</data>
+	<data name="TextWebsite">
+		<value>txtTileWebsite</value>
+	</data>
+	<data name="TextWebStream">
+		<value>txtLabelStream</value>
+	</data>
+	<data name="TileVideoPlayer">
+		<value>txtVideoPlayer</value>
+	</data>
+	<data name="TitleAbout">
+		<value>titleAbout</value>
+	</data>
+	<data name="TitleAddWallpaper">
+		<value>txtLabel22</value>
+	</data>	
+	<data name="TitleAppFocus">
+		<value>txtOtherAppsFocus</value>
+	</data>
+	<data name="TitleAppFullScreen">
+		<value>txtOtherAppsFullScreen</value>
+	</data>		
+	<data name="TitleAppRules">
+		<value>txtApplicationRules</value>
+	</data>
+	<data name="TitleBatteryPower">
+		<value>txtWhenBattery</value>
+	</data>		
+	<data name="TitleDeleteConfirmation">
+		<value>msgDeleteConfirmationTitle</value>
+	</data>
+	<data name="TitleDisplayPauseRule">
+		<value>txtDisplayPauseRule</value>
+	</data>		
+	<data name="TitleGeneral">
+		<value>txtLabel15</value>
+	</data>
+	<data name="TitleHelp">
+		<value>txtHelp</value>
+	</data>		
+	<data name="TitleInteraction">
+		<value>txtLabelInteraction</value>
+	</data>	
+	<data name="TitleLanguage">
+		<value>txtLabel16</value>
+	</data>	
+	<data name="TitleLibrary">
+		<value>titleLibrary</value>
+	</data>	
+	<data name="TitlePauseAlgo">
+		<value>txtPauseAlgorith</value>
+	</data>	
+	<data name="TitlePerformance">
+		<value>txtLabel20</value>
+	</data>	
+	<data name="TitlePleaseWait">
+		<value>txtLivelyWaitMsgTitle</value>
+	</data>	
+	<data name="TitleSettings">
+		<value>titleSettings</value>
+	</data>	
+	<data name="TitleStreamWallpaper">
+		<value>txtLabelStream</value>
+	</data>	
+	<data name="TitleStreamWallpaperVideoQuality">
+		<value>txtLabelVideoQuality</value>
+	</data>	
+	<data name="TitleVideo">
+		<value>txtLivelyWallpaperTypeVideo</value>
+	</data>		
+	<data name="TitleWallpaperLayout">
+		<value>txtLabel24</value>
+	</data>	
+	<data name="TitleWallpaperPlayback">
+		<value>txtWallpaperPlayback</value>
+	</data>	
+	<data name="TitleWarning">
+		<value>msgUrlWarningTitle</value>
+	</data>	
+	<data name="TitleWebBrowser">
+		<value>txtBrowser</value>
+	</data>	
+	<data name="TitleWebpageLoad">
+		<value>msgUrlLoadTitle</value>
+	</data>	
+	<data name="TitleWindowsStartup">
+		<value>txtStartup</value>
+	</data>	
+	<data name="TextDisplayPauseRulePerScreen">
+		<value>cmbBoxPerDisplay</value>
+	</data>		
+	<data name="TextDisplayPauseRuleAllScreen">
+		<value>cmbBoxAllDisplays</value>
+	</data>	
+	<data name="TextPauseAlgoAllProcess">
+		<value>cmbBoxPaugeAlgorithmAllProcess</value>
+	</data>	
+	<data name="TextPauseAlgoForegroundProcess">
+		<value>cmbBoxPauseAlgorithmForeground</value>
+	</data>											
+</root>
