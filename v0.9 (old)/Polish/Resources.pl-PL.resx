@@ -1,0 +1,613 @@
+  // TL notes:- &amp stands for ampersand.
+  // Translate the text inside value field: <value>sample text</value>
+  // Try to maintain similar spacing and newline if you can.
+  // Save the file as Resources.Languagetag.resx eg: Resources.en-US.resx.  
+  // Languagetag: https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c
+  // If there are many variants of your language based on country code and you know they are similar enough then do let me know.
+  // I can add your name in the about page if interested, do let me know.
+  // Some text are just names of UI elements.
+
+  <data name="cmbBoxAllDisplays" xml:space="preserve">
+    <value>Wszystkie wyświetlacze</value>
+  </data>
+  <data name="cmbBoxGIFPlayer1" xml:space="preserve">
+    <value>XamlAnimatedGif</value>
+  </data>
+  <data name="cmbBoxGIFPlayer1ToolTip" xml:space="preserve">
+    <value>Zużycie pamięci niskie, zużycie CPU wysokie</value>
+  </data>
+  <data name="cmbBoxGIFPlayer2" xml:space="preserve">
+    <value>DirectShow</value>
+  </data>
+  <data name="cmbBoxGIFPlayer2ToolTip" xml:space="preserve">
+    <value>Niższe zużycie CPU (zależne od ustawień kodeka)</value>
+  </data>
+  <data name="cmbBoxKill" xml:space="preserve">
+    <value>Zabij (Uwolnij pamięć)</value>
+  </data>
+  <data name="cmbBoxNothing" xml:space="preserve">
+    <value>Nic</value>
+  </data>
+  <data name="cmbBoxPaugeAlgorithmAllProcess" xml:space="preserve">
+    <value>Wszystkie procesy (Eksperymentalne)</value>
+  </data>
+  <data name="cmbBoxPause" xml:space="preserve">
+    <value>Wstrzymaj</value>
+  </data>
+  <data name="cmbBoxPauseAlgorithmForeground" xml:space="preserve">
+    <value>Proces w tle</value>
+  </data>
+  <data name="cmbBoxPerDisplay" xml:space="preserve">
+    <value>Na jeden wyświetlacz</value>
+  </data>
+  <data name="cmbBoxSpan" xml:space="preserve">
+    <value>Przez wiele wyświetlaczy</value>
+  </data>
+  <data name="cmbBoxVideoPlayer1" xml:space="preserve">
+    <value>Media Foundation</value>
+  </data>
+  <data name="cmbBoxVideoPlayer2" xml:space="preserve">
+    <value>DirectShow (Lav, ffdshow..)</value>
+  </data>
+
+  <data name="msgAppCommandLineArgs" xml:space="preserve">
+    <value>Podaj argumenty linii poleceń dla aplikacji (opcjonalne, zostaw puste jeśli bez argumentów):-</value>
+  </data>
+  <data name="msgAppCommandLineArgsTitle" xml:space="preserve">
+    <value>Argumenty początkowe</value>
+  </data>
+  <data name="msgAppGUIFailure" xml:space="preserve">
+    <value>Wybrana tapeta (aplikacja) nie posiada interfejsu graficznego (GUI).
+Zamykam aplikację...</value>
+  </data>
+  <data name="msgAppTimeout" xml:space="preserve">
+    <value>Nie można przechwycić okna aplikacji.
+Tapeta (aplikacja) uruchamia się zbyt długo(więcej niż ~30sek), powodem może być:
+Skaner antywirusowy/ Aplikacja jest za duża.
+Poczekaj i spróbuj ponownie. (opcjonalnie możesz edytować czas oczekiwania, sprawdź wiki po więcej informacji.)
+Zamykam aplikację...</value>
+  </data>
+  <data name="msgDamangedLivelyFile" xml:space="preserve">
+    <value>Uszkodzony plik tapety, spróbuj pobrać ponownie.</value>
+  </data>
+  <data name="msgDeleteConfirmation" xml:space="preserve">
+    <value>Na pewno chcesz nieodwracalnie usunąć plik tapety z dysku?</value>
+  </data>
+  <data name="msgDeleteConfirmationTitle" xml:space="preserve">
+    <value>Potwierdź usunięcie</value>
+  </data>
+  <data name="msgDeletionFailure" xml:space="preserve">
+    <value>Obecnie uruchomione jako tapeta, nie można usunąć!
+Zamknij tapetę, aby usunąć.</value>
+  </data>
+  <data name="msgDeletionFailureTitle" xml:space="preserve">
+    <value>Usunięcie zakończone niepowodzeniem</value>
+  </data>
+  <data name="msgDragDropOtherFormats" xml:space="preserve">
+    <value>Ten format pliku nie obsługuje przeciągnij  i upuść, otwórz go na stronie 'Type'.</value>
+  </data>
+  <data name="msgDragDropOtherFormatsTitle" xml:space="preserve">
+    <value>Lively: Nieobsługiwane</value>
+  </data>
+  <data name="msgExternalAppWarning" xml:space="preserve">
+    <value>Otwierasz zewnętrzną aplikację jako tapetę.
+Złośliwe aplikacje mogą zawierać malware,wirusy... niebezpieczne dla twojego systemu.
+Kontunuuj, tylko jeśli aplikacja pochodzi z zaufanego źródła.</value>
+  </data>
+  <data name="msgExternalAppWarningTitle" xml:space="preserve">
+    <value>Ostrzeżenie</value>
+  </data>
+  <data name="msgGIFfailure" xml:space="preserve">
+    <value>Próba odtworzenia pliku GIF zakończona niepowodzeniem.
+Plik GIF jest uszkodzony ? Spróbuj pobrać ponownie.</value>
+  </data>
+  <data name="msgHighContrastFailure" xml:space="preserve">
+    <value>Lively nie może współpracować poprawnie z systemem Widows w trybie Duży Kontrast!
+Wyłącz tryb Duży Kontrast (Ustawienia>Ułatwienia dostępu>Duży kontrast) i spróbuj ponownie.</value>
+  </data>
+  <data name="msgLoadExternalLink" xml:space="preserve">
+    <value>Zaraz otworzysz zewnętrzną stronę internetową w swojej przeglądarce.
+
+URL:-</value>
+  </data>
+  <data name="msgLoadExternalLinkTitle" xml:space="preserve">
+    <value>Wczytać stronę internetową?</value>
+  </data>
+  <data name="msgLoadingAppWallpaper" xml:space="preserve">
+    <value>Uruchamiam zewnętrzną aplikację..</value>
+  </data>
+  <data name="msgMediaFoundationFailure" xml:space="preserve">
+    <value>Odtwarzanie multimediów zakończone niepowodzeniem: Brak Kodeka/ Uszkodzony Plik.
+Zainstaluj kodek LAV i spróbuj zmienić na odtwarzacz wideo Directshow.
+</value>
+  </data>
+  <data name="msgMediakitFailure" xml:space="preserve">
+    <value>Odtwarzanie multimediów zakończone niepowodzeniem: Brak Kodeka/ Uszkodzony Plik.
+Nie zapomnij zainstalować kodeka LAV.
+</value>
+  </data>
+  <data name="msgRestoringInProgress" xml:space="preserve">
+    <value>Przywracam teraz poprzednią tapetę, proszę czekać.</value>
+  </data>
+  <data name="msgRestoringPrevWallpapers" xml:space="preserve">
+    <value>Przywracanie poprzedniej tapety..</value>
+  </data>
+  <data name="msgSafeModeWarning" xml:space="preserve">
+    <value>Lively nie został zamknięty poprawnie, uruchamiam w trybie awaryjnym.
+Przywrócić poprzednio działające tapety?
+Informacje o błędzie zapisano w:-
+</value>
+  </data>
+  <data name="msgSingleInstanceOnly" xml:space="preserve">
+    <value>Lively jest już uruchomiony!
+Jeśli proces "livelywpf" nie odpowiada zamknij go Menadżerze Zadań i spróbuj ponownie.</value>
+  </data>
+  <data name="msgUrlLoad" xml:space="preserve">
+    <value>Wpisz adres strony do załadowania, (obsługuje łącza do shader'ów na stronie Shadertoy.com):-</value>
+  </data>
+  <data name="msgUrlLoadTitle" xml:space="preserve">
+    <value>Wczytaj stronę internetową</value>
+  </data>
+  <data name="msgUrlWarning" xml:space="preserve">
+    <value>Zaraz otworzysz zewnętrzną stronę internetową.
+Złośliwe strony mogą uszkodzić twój komputer (malware, wirus ..)
+Używaj tylko adresów stron którym ufasz.</value>
+  </data>
+  <data name="msgUrlWarningTitle" xml:space="preserve">
+    <value>Ostrzeżenie</value>
+  </data>
+  <data name="msgWebBrowserMissing" xml:space="preserve">
+    <value>Brakuje składnika przeglądarki, ściągnij osobno z:-
+https://github.com/rocksdanister/lively-cef 
+albo
+Pobierz pełną wersję lively.</value>
+  </data>
+  <data name="msgWorkerWFailure" xml:space="preserve">
+    <value>Do poprawnego działania lively wymagane są dodatkowe ustawienia:-  
+1. Otwórz Ten komputer(Mój komputer)
+2. Kliknij prawym myszy na pustym obszarze
+3. Wybierz właściwości
+4. Wybierz Zaawansowane ustawienia systemu
+5. W zakładce Wydajność kliknij Ustawienia
+6. Włącz Animuj formanty i elementy wewnątrz okien &amp; Zastosuj.
+
+W Windows 7 wybierz - Dostosuj do uzyskania najlepszej wydajności &amp; Zastosuj.
+Jeśli ciągle nie działa,  uruchom ponownie Lively / system Windows.
+(Nie działa w wersji Windows 10 insider)</value>
+  </data>
+  <data name="titleAbout" xml:space="preserve">
+    <value>O programie</value>
+  </data>
+  <data name="titleLibrary" xml:space="preserve">
+    <value>Biblioteka</value>
+  </data>
+  <data name="titleSettings" xml:space="preserve">
+    <value>Ustawienia</value>
+  </data>
+  <data name="titleType" xml:space="preserve">
+    <value>Rodzaj</value>
+  </data>
+  <data name="toolTipMinimizeMsg" xml:space="preserve">
+    <value>Jestem w zasobniku systemowym, kliknij prawym lively po więcej opcji.</value>
+  </data>
+  <data name="toolTipUpdateMsg" xml:space="preserve">
+    <value>Dostępna nowa wersja!</value>
+  </data>
+  <data name="toolTipWallpaperSkip" xml:space="preserve">
+    <value>Niektóre tapety zostały pominięte z powodu brakujących plików!</value>
+  </data>
+  <data name="txtApplicationRules" xml:space="preserve">
+    <value>Zasady aplikacji</value>
+  </data>
+  <data name="txtAudioIn" xml:space="preserve">
+    <value>Dźwięk wejście:</value>
+  </data>
+  <data name="txtAudioInToolTip" xml:space="preserve">
+    <value>Blokuje dostęp przeglądarek do dźwięku systemowego.</value>
+  </data>
+  <data name="txtAudioLabel1" xml:space="preserve">
+    <value>Dźwięk jest zawsze wyłączony w przypadku wielu monitorów.</value>
+  </data>
+  <data name="txtAudioLabel2" xml:space="preserve">
+    <value>"Dźwięk wejście" jest wyłączony, wizualizacje dźwięku nie będą działać.</value>
+  </data>
+  <data name="txtAudioOut" xml:space="preserve">
+    <value>Dźwięk wyjście:</value>
+  </data>
+  <data name="txtAudioOutToolTip" xml:space="preserve">
+    <value>Przełącz wyciszenie dla odtwarzacza wideo.</value>
+  </data>
+  <data name="txtBrowser" xml:space="preserve">
+    <value>Przeglądarka sieci web:</value>
+  </data>
+  <data name="txtBrowserToolTip" xml:space="preserve">
+    <value>Wybierz przeglądarkę dla tapet sieciowych(dostępne wkrótce)</value>
+  </data>
+  <data name="txtCloseAllWallpapers" xml:space="preserve">
+    <value>Zamknij wszystkie tapety</value>
+  </data>
+  <data name="txtComingSoon" xml:space="preserve">
+    <value>Dostępne wkrótce</value>
+  </data>
+  <data name="txtContextMenuCloseAll" xml:space="preserve">
+    <value>Zamknij wszystkie tapety</value>
+  </data>
+  <data name="txtContextMenuCloseWallpaper" xml:space="preserve">
+    <value>Zamknij tapetę</value>
+  </data>
+  <data name="txtContextMenuDeleteWallpaper" xml:space="preserve">
+    <value>Usuń tapetę</value>
+  </data>
+  <data name="txtContextMenuExit" xml:space="preserve">
+    <value>Wyjście</value>
+  </data>
+  <data name="txtContextMenuExport" xml:space="preserve">
+    <value>Eksportuj lively .zip</value>
+  </data>
+  <data name="txtContextMenuOpenLively" xml:space="preserve">
+    <value>Otwórz Lively</value>
+  </data>
+  <data name="txtContextMenuShowOnDisk" xml:space="preserve">
+    <value>Pokaż na dysku</value>
+  </data>
+  <data name="txtContextMenuUpdate1" xml:space="preserve">
+    <value>Szukam aktualizacji</value>
+  </data>
+  <data name="txtContextMenuUpdate2" xml:space="preserve">
+    <value>Aktualizacja dostępna!</value>
+  </data>
+  <data name="txtContextMenuUpdate3" xml:space="preserve">
+    <value>Czy to jest oprogramowanie w wersji Beta?</value>
+  </data>
+  <data name="txtContextMenuUpdate4" xml:space="preserve">
+    <value>Lively jest aktualny!</value>
+  </data>
+  <data name="txtContextMenuUpdate5" xml:space="preserve">
+    <value>Błąd podczas szukania aktualizacji</value>
+  </data>
+  <data name="txtCreateWallpaper" xml:space="preserve">
+    <value>Stwórz tapetę</value>
+  </data>
+  <data name="txtCreatingZip" xml:space="preserve">
+    <value>Tworzę plik Lively zip</value>
+  </data>
+  <data name="txtDisplayPauseRule" xml:space="preserve">
+    <value>Wyświetl zasady wstrzymania:</value>
+  </data>
+  <data name="txtDownload" xml:space="preserve">
+    <value>Pobierz</value>
+  </data>
+  <data name="txtGIFPlayer" xml:space="preserve">
+    <value>Odtwarzacz GIF:</value>
+  </data>
+  <data name="txtGifPlayerToolTip" xml:space="preserve">
+    <value>Directshow wymaga zainstalowania dodatkowych wtyczek.</value>
+  </data>
+  <data name="txtGifScaling" xml:space="preserve">
+    <value>GIF Skalowanie/Dopasowanie:</value>
+  </data>
+  <data name="txtHelp" xml:space="preserve">
+    <value>Pomoc</value>
+  </data>
+  <data name="txtIgnore" xml:space="preserve">
+    <value>Ignoruj</value>
+  </data>
+  <data name="txtInstall" xml:space="preserve">
+    <value>Zainstaluj</value>
+  </data>
+  <data name="txtInstallWallpaper" xml:space="preserve">
+    <value>Zainstaluj tapetę</value>
+  </data>
+  <data name="txtLabel1" xml:space="preserve">
+    <value>Wybierz rodzaj tapety do załadowania:-</value>
+  </data>
+  <data name="txtLabel10" xml:space="preserve">
+    <value>Przypisanie:</value>
+  </data>
+  <data name="txtLabel11" xml:space="preserve">
+    <value>Co wybrać?</value>
+  </data>
+  <data name="txtLabel12" xml:space="preserve">
+    <value>Rodzaj:</value>
+  </data>
+  <data name="txtLabel120FPS" xml:space="preserve">
+    <value>Wymuś 120FPS UI</value>
+  </data>
+  <data name="txtLabel13" xml:space="preserve">
+    <value>Autor:</value>
+  </data>
+  <data name="txtLabel14" xml:space="preserve">
+    <value>Kontakt:</value>
+  </data>
+  <data name="txtLabel15" xml:space="preserve">
+    <value>Ogólne</value>
+    <comment>settings tab</comment>
+  </data>
+  <data name="txtLabel16" xml:space="preserve">
+    <value>Wymaga ponownego uruchomienia</value>
+    <comment>settings tab</comment>
+  </data>
+  <data name="txtLabel17" xml:space="preserve">
+    <value>Wideo</value>
+    <comment>settings tab</comment>
+  </data>
+  <data name="txtLabel18" xml:space="preserve">
+    <value>Gif</value>
+    <comment>settings tab</comment>
+  </data>
+  <data name="txtLabel19" xml:space="preserve">
+    <value>Przeglądarka sieci web</value>
+    <comment>settings tab</comment>
+  </data>
+  <data name="txtLabel2" xml:space="preserve">
+    <value>Jeśli wolisz po prostu przeciągnij i upuść pliki.</value>
+  </data>
+  <data name="txtLabel20" xml:space="preserve">
+    <value>Wydajność</value>
+    <comment>settings tab</comment>
+  </data>
+  <data name="txtLabel21" xml:space="preserve">
+    <value>Ustaw zachowanie się tapet podczas odtwarzania na podstawie uruchomionych aplikacji:-</value>
+  </data>
+  <data name="txtLabel22" xml:space="preserve">
+    <value>Dodaj</value>
+  </data>
+  <data name="txtLabel23" xml:space="preserve">
+    <value>Usuń</value>
+  </data>
+  <data name="txtLabel24" xml:space="preserve">
+    <value>Wybierz układ tapety:-</value>
+  </data>
+  <data name="txtLabel25" xml:space="preserve">
+    <value>Wybierz rodzaj tapety do stworzenia:-</value>
+  </data>
+  <data name="txtLabel26" xml:space="preserve">
+    <value>Plik biblioteki: Stwórz łatwy do dzielenia się plik .zip który załaduje tapetę do biblioteki lively.
+To nie jest wymagane do używania pliku jako tapety;  po prostu przeciągnij i upuść plik do okna lively.</value>
+  </data>
+  <data name="txtLabel27" xml:space="preserve">
+    <value>Strona kontaktowa(opcjonalne):-</value>
+  </data>
+  <data name="txtLabel28" xml:space="preserve">
+    <value>Licencja(opcjonalne):-</value>
+  </data>
+  <data name="txtLabel29" xml:space="preserve">
+    <value>Tytuł:-</value>
+  </data>
+  <data name="txtLabel3" xml:space="preserve">
+    <value>Te materiały nie są sponsorowane lub powiązane z Unity Technologies, Godot, Bizhawk, Shadertoy.com</value>
+  </data>
+  <data name="txtLabel30" xml:space="preserve">
+    <value>Opis:-</value>
+  </data>
+  <data name="txtLabel31" xml:space="preserve">
+    <value>Wybierz plik</value>
+  </data>
+  <data name="txtLabel32" xml:space="preserve">
+    <value>Miniatura (200x200)</value>
+  </data>
+  <data name="txtLabel33" xml:space="preserve">
+    <value>Stwórz</value>
+  </data>
+  <data name="txtLabel34" xml:space="preserve">
+    <value>Gif podglądu (192x108)</value>
+  </data>
+  <data name="txtLabel35" xml:space="preserve">
+    <value>Rodzaj tapety:-</value>
+  </data>
+  <data name="txtLabel36" xml:space="preserve">
+    <value>Pliki i foldery do dodania:-</value>
+  </data>
+  <data name="txtLabel37" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="txtLabel38" xml:space="preserve">
+    <value>Powrót</value>
+  </data>
+  <data name="txtLabel39" xml:space="preserve">
+    <value>Instaluję tapetę</value>
+  </data>
+  <data name="txtLabel4" xml:space="preserve">
+    <value>Media</value>
+  </data>
+  <data name="txtLabel5" xml:space="preserve">
+    <value>Gry</value>
+  </data>
+  <data name="txtLabel6" xml:space="preserve">
+    <value>Retro</value>
+  </data>
+  <data name="txtLabel7" xml:space="preserve">
+    <value>Inne</value>
+  </data>
+  <data name="txtLabel8" xml:space="preserve">
+    <value>Sieć web</value>
+  </data>
+  <data name="txtLabel9" xml:space="preserve">
+    <value>Wizualizacja dźwięku</value>
+  </data>
+  <data name="txtLabelApplication" xml:space="preserve">
+    <value>Aplikacja</value>
+  </data>
+  <data name="txtLabelAppName" xml:space="preserve">
+    <value>Lively</value>
+  </data>
+  <data name="txtLabelInteraction" xml:space="preserve">
+    <value>Interakcja</value>
+  </data>
+  <data name="txtLabelRule" xml:space="preserve">
+    <value>Zasada</value>
+  </data>
+  <data name="txtLabelSoftwareUIRendering" xml:space="preserve">
+    <value>Wyłącz akcelerację sprzętową</value>
+  </data>
+  <data name="txtLabelStream" xml:space="preserve">
+    <value>Strumieniowanie</value>
+  </data>
+  <data name="txtLabelVideoQuality" xml:space="preserve">
+    <value>Jakość wideo</value>
+  </data>
+  <data name="txtLivelyAppWarning" xml:space="preserve">
+    <value>Ta funkcja jest w trakcie opracowywania.
+NIE uruchamiaj takich aplikacji jak CHROME, STEAM.. które tworzą wiele pod-procesów.
+POJAWIĄ SIĘ BŁĘDY I NAGŁE WYŁĄCZENIA, POSTĘPUJ OSTROŻNIE!!!</value>
+  </data>
+  <data name="txtLivelyErrorMsgTitle" xml:space="preserve">
+    <value>Błąd</value>
+    <comment>title for messagebox.</comment>
+  </data>
+  <data name="txtLivelyWaitMsgTitle" xml:space="preserve">
+    <value>Proszę czekać</value>
+    <comment>title for messagebox</comment>
+  </data>
+  <data name="txtLivelyWallpaperTypeApp" xml:space="preserve">
+    <value>Aplikacja</value>
+  </data>
+  <data name="txtLivelyWallpaperTypeGIF" xml:space="preserve">
+    <value>Animowany GIF</value>
+  </data>
+  <data name="txtLivelyWallpaperTypeGodot" xml:space="preserve">
+    <value>Aplikacja Godot</value>
+  </data>
+  <data name="txtLivelyWallpaperTypeUnity" xml:space="preserve">
+    <value>Aplikacja Unity</value>
+  </data>
+  <data name="txtLivelyWallpaperTypeUnityAudio" xml:space="preserve">
+    <value>Unity Audio Reactive</value>
+  </data>
+  <data name="txtLivelyWallpaperTypeUrl" xml:space="preserve">
+    <value>Online</value>
+  </data>
+  <data name="txtLivelyWallpaperTypeVideo" xml:space="preserve">
+    <value>Wideo</value>
+  </data>
+  <data name="txtLivelyWallpaperTypeWeb" xml:space="preserve">
+    <value>Sieć Web</value>
+  </data>
+  <data name="txtLivelyWallpaperTypeWebAudio" xml:space="preserve">
+    <value>Web Audio Reactive</value>
+  </data>
+  <data name="txtLiveTile" xml:space="preserve">
+    <value>Animowany kafelek:</value>
+  </data>
+  <data name="txtLiveTileToolTip" xml:space="preserve">
+    <value>(Eksperymentalne) Podgląd tapety na kafelku.</value>
+  </data>
+  <data name="txtMoreWp" xml:space="preserve">
+    <value>Więcej tapet...</value>
+  </data>
+  <data name="txtMouse" xml:space="preserve">
+    <value>Mysz</value>
+  </data>
+  <data name="txtMsgFillAllFields" xml:space="preserve">
+    <value>Wypełnij wszystkie wymagane pola.</value>
+  </data>
+  <data name="txtMsgSelectWallpaperFile" xml:space="preserve">
+    <value>Nie wybrano pliku tapety</value>
+  </data>
+  <data name="txtMsgUpdaterPortableUnsupported" xml:space="preserve">
+    <value>Updater nie jest wspierany w przenośnej wersji Lively, pobierz ostatnie wydanie ze strony.</value>
+  </data>
+  <data name="txtNotes" xml:space="preserve">
+    <value>Uwagi:
+(1) Okno Lively ignoruje te zasady.
+(2) Dźwięk jest zawsze wyciszony kiedy inne aplikacje są aktywne {oprócz (1), okna Lively}.
+(3) Algorytm procesu w tle ma pewne ograniczenia, po więcej informacji sprawdź wiki.
+(4) Zasady aplikacji mają najwyższy priorytet.</value>
+  </data>
+  <data name="txtOff" xml:space="preserve">
+    <value>Wył.</value>
+  </data>
+  <data name="txtOn" xml:space="preserve">
+    <value>Wł.</value>
+  </data>
+  <data name="txtOtherAppsFocus" xml:space="preserve">
+    <value>Inne aplikacje aktywne:</value>
+  </data>
+  <data name="txtOtherAppsFullScreen" xml:space="preserve">
+    <value>Inne aplikacje pełny ekran:</value>
+  </data>
+  <data name="txtPauseAlgorith" xml:space="preserve">
+    <value>Algorytm wstrzymania:</value>
+  </data>
+  <data name="txtPleaseWait" xml:space="preserve">
+    <value>Wczytywanie nieudane</value>
+  </data>
+  <data name="txtPleaseWait2" xml:space="preserve">
+    <value>Proszę czekać</value>
+  </data>
+  <data name="txtPreviewWallpaperNote" xml:space="preserve">
+    <value>Utrzymuj to okno jako aktywne podczas przetwarzania.</value>
+  </data>
+  <data name="txtSelectPreviewThumb" xml:space="preserve">
+    <value>Wybierz klip podglądu/plik miniatury.</value>
+  </data>
+  <data name="txtSetWallpaper" xml:space="preserve">
+    <value>Ustaw jako tapetę</value>
+  </data>
+  <data name="txtSpanWallpaperWarning" xml:space="preserve">
+    <value>Niektóre tapety nie są wyświetlane poprawnie na wielu monitorach.</value>
+  </data>
+  <data name="txtStartup" xml:space="preserve">
+    <value>Uruchom podczas startu systemu Windows:</value>
+  </data>
+  <data name="txtStartupToolTip" xml:space="preserve">
+    <value>Odznacz tą opcję zanim odinstalujesz lively.</value>
+  </data>
+  <data name="txtSupport" xml:space="preserve">
+    <value>Wsparcie</value>
+  </data>
+  <data name="txtTileGIF" xml:space="preserve">
+    <value>Animowany GIF</value>
+  </data>
+  <data name="txtTileGodot" xml:space="preserve">
+    <value>Oprogramowanie Godot</value>
+  </data>
+  <data name="txtTileHTML" xml:space="preserve">
+    <value>HTML</value>
+  </data>
+  <data name="txtTileOther" xml:space="preserve">
+    <value>Inne</value>
+  </data>
+  <data name="txtTileUnity" xml:space="preserve">
+    <value>Oprogramowanie Unity</value>
+  </data>
+  <data name="txtTileVideo" xml:space="preserve">
+    <value>Wideo</value>
+  </data>
+  <data name="txtTileWebsite" xml:space="preserve">
+    <value>Strona Sieci Web</value>
+  </data>
+  <data name="txtTitlebar" xml:space="preserve">
+    <value>Lively Wallpaper System</value>
+  </data>
+  <data name="txtTransparency" xml:space="preserve">
+    <value>Przeźroczyste UI:</value>
+  </data>
+  <data name="txtTransparencyToolTip" xml:space="preserve">
+    <value>Czyni okno lively półprzezroczystym .</value>
+  </data>
+  <data name="txtUpdateBanner" xml:space="preserve">
+    <value>Dostępna aktualizacja Lively</value>
+  </data>
+  <data name="txtUpdateDownloadErrorMsg" xml:space="preserve">
+    <value>Aktualizacja zakończona niepowodzeniem.Spróbuj pobrać instalator z</value>
+  </data>
+  <data name="txtVideoPlayer" xml:space="preserve">
+    <value>Odtwarzacz wideo:</value>
+  </data>
+  <data name="txtVideoPlayerToolTip" xml:space="preserve">
+    <value>Directshow wymaga zainstalowania dodatkowych wtyczek.</value>
+  </data>
+  <data name="txtVideoScaling" xml:space="preserve">
+    <value>Wideo Skalowanie/Dopasowanie:</value>
+  </data>
+  <data name="txtWallpaperPlayback" xml:space="preserve">
+    <value>Odtwarzanie tapety:</value>
+  </data>
+  <data name="txtWhenBattery" xml:space="preserve">
+    <value>Jeśli na zasilaniu bateryjnym:</value>
+  </data>
+  <data name="txtWindowTitleSelectDisplay" xml:space="preserve">
+    <value>Wybierz wyświetlacz</value>
+  </data>
+</root>
