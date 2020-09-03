@@ -440,7 +440,7 @@ Tutto il processo: più pesante, analizza tutto il processo per determinare il c
     <value>Per i sistemi di fascia bassa selezionare la modalità Lite.</value>
   </data>
   <data name="TipVideoPlayer" xml:space="preserve">
-    <value>Seleziona il lettore utilizzato per lo sfondo del video. libVLC è consigliato.</value>
+    <value>Seleziona il lettore utilizzato per lo sfondo del video.</value>
   </data>
   <data name="TipWallpaperDir" xml:space="preserve">
     <value>Percorso utilizzato per memorizzare gli wallpapers.</value>
@@ -507,7 +507,7 @@ Edge è la visualizzazione Web integrata di Windows 10.</value>
     <value>Enter URL</value>
   </data>
   <data name="TitleGeneral" xml:space="preserve">
-    <value>Generale:</value>
+    <value>Generale</value>
   </data>
   <data name="TitleHelp" xml:space="preserve">
     <value>Aiuto</value>
@@ -594,7 +594,7 @@ Edge è la visualizzazione Web integrata di Windows 10.</value>
     <value>Avvertimento</value>
   </data>
   <data name="TitleWebBrowser" xml:space="preserve">
-    <value>Web Browser:</value>
+    <value>Web Browser</value>
   </data>
   <data name="TitleWebBrowserDiskCache" xml:space="preserve">
     <value>Disk cache</value>
@@ -616,22 +616,22 @@ Edge è la visualizzazione Web integrata di Windows 10.</value>
   </data>
   <data name="TextClose" xml:space="preserve">
     <value>Close</value>
-  </data> 
+  </data>
   <data name="TextCustomise" xml:space="preserve">
     <value>Customise</value>
-  </data>     
+  </data>
   <data name="DescriptionScreenLayout" xml:space="preserve">
     <value>Choose Display</value>
-  </data>    
+  </data>
   <data name="TextWallpaperLayoutPerScreen" xml:space="preserve">
     <value>Selected screen only</value>
-  </data>  
+  </data>
   <data name="TipWallpaperLayout" xml:space="preserve">
     <value>How wallpaper is applied to connected display devices.</value>
-  </data> 
+  </data>
   <data name="TitleWallpaperDirMoveExisting" xml:space="preserve">
     <value>Move existing wallpapers to new folder</value>
-  </data>   
+  </data>
   <data name="LivelyExceptionMediaPlayback" xml:space="preserve">
     <value>Media playback failed :(
 Try changing the videoplayer in lively settings.
@@ -639,23 +639,32 @@ Try changing the videoplayer in lively settings.
 In order to better understand this error and fix the issue, share the log file with the developer.
 Instructions for sharing log file:
 https://github.com/rocksdanister/lively/wiki</value>
-  </data> 
+  </data>
   <data name="TextOff" xml:space="preserve">
     <value>OFF</value>
   </data>
   <data name="TextOn" xml:space="preserve">
     <value>ON</value>
-  </data>   
+  </data>
   <data name="TextMouse" xml:space="preserve">
     <value>Mouse</value>
-  </data>  
+  </data>
   <data name="TextKeyboard" xml:space="preserve">
     <value>Keyboard</value>
-  </data>  
+  </data>
   <data name="TitleDocumentation" xml:space="preserve">
     <value>Documentation</value>
-  </data> 
+  </data>
   <data name="TitleCommunity" xml:space="preserve">
     <value>Community</value>
-  </data>    
+  </data>
+    <data name="DescriptionDeleteConfirmationLibrary" xml:space="preserve">
+    <value>Are you sure you want to delete this wallpaper from the Library?</value>
+  </data>
+    <data name="TipAudioMaster" xml:space="preserve">
+    <value>Volume level of all wallpapers.</value>
+  </data>
+    <data name="TitleAudioMaster" xml:space="preserve">
+    <value>Master Volume</value>
+  </data>
 </root>

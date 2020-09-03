@@ -472,8 +472,7 @@ All Process: Heavier, Scans all the process to determine playback behaviour.</va
     <value>對於低端系統，請選擇精簡模式。</value>
   </data>
   <data name="TipVideoPlayer" xml:space="preserve">
-    <value>選擇用於背景的影片播放器。
-建議使用libVLC。</value>
+    <value>選擇用於背景的影片播放器。</value>
   </data>
   <data name="TipWallpaperDir" xml:space="preserve">
     <value>儲存背景的路徑</value>
@@ -652,5 +651,14 @@ Edge is the built in webview of windows 10.</value>
   </data>
   <data name="TitleWindowsStartup" xml:space="preserve">
     <value>開機啟動</value>
+  </data>
+    <data name="DescriptionDeleteConfirmationLibrary" xml:space="preserve">
+    <value>Are you sure you want to delete this wallpaper from the Library?</value>
+  </data>
+    <data name="TipAudioMaster" xml:space="preserve">
+    <value>Volume level of all wallpapers.</value>
+  </data>
+    <data name="TitleAudioMaster" xml:space="preserve">
+    <value>Master Volume</value>
   </data>
 </root>

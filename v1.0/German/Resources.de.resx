@@ -437,8 +437,7 @@ All Process: Heavier, Scans all the process to determine playback behaviour.</va
     <value>For low-end systems select Lite mode.</value>
   </data>
   <data name="TipVideoPlayer" xml:space="preserve">
-    <value>Select the player used for video wallpaper.
-libVLC is recommended.</value>
+    <value>Select the player used for video wallpaper.</value>
   </data>
   <data name="TipWallpaperDir" xml:space="preserve">
     <value>Path used to store wallpaper files.</value>
@@ -655,5 +654,14 @@ https://github.com/rocksdanister/lively/wiki</value>
   </data> 
   <data name="TitleCommunity" xml:space="preserve">
     <value>Community</value>
+  </data>
+    <data name="DescriptionDeleteConfirmationLibrary" xml:space="preserve">
+    <value>Are you sure you want to delete this wallpaper from the Library?</value>
+  </data>
+    <data name="TipAudioMaster" xml:space="preserve">
+    <value>Volume level of all wallpapers.</value>
+  </data>
+    <data name="TitleAudioMaster" xml:space="preserve">
+    <value>Master Volume</value>
   </data>   
 </root>

@@ -438,8 +438,7 @@ A kész vagy menj a http://localhost:portnumber hogy hozzáférj a fejlesztői k
     <value>Az alsó kategóriás rendszerekhez válaszd az Egyszerű módot.</value>
   </data>
   <data name="TipVideoPlayer" xml:space="preserve">
-    <value>Válaszd ki a lejátszót, amit videó háttérhez szoktál használni.
-libVLC javasolt.</value>
+    <value>Válaszd ki a lejátszót, amit videó háttérhez szoktál használni.</value>
   </data>
   <data name="TipWallpaperDir" xml:space="preserve">
     <value>Az Path (fájl elérési útja) a háttérkép fájlok tárolására van használva.</value>
@@ -657,4 +656,13 @@ https://github.com/rocksdanister/lively/wiki</value>
   <data name="TitleCommunity" xml:space="preserve">
     <value>Community</value>
   </data>    
+    <data name="DescriptionDeleteConfirmationLibrary" xml:space="preserve">
+    <value>Are you sure you want to delete this wallpaper from the Library?</value>
+  </data>
+    <data name="TipAudioMaster" xml:space="preserve">
+    <value>Volume level of all wallpapers.</value>
+  </data>
+    <data name="TitleAudioMaster" xml:space="preserve">
+    <value>Master Volume</value>
+  </data>
 </root>

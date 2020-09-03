@@ -438,8 +438,7 @@ All Process: Heavier, Scans all the process to determine playback behaviour.</va
     <value>低端系统建议使用Lite模式</value>
   </data>
   <data name="TipVideoPlayer" xml:space="preserve">
-    <value>选择背景使用的视频播放器.建议使用
-libVLC</value>
+    <value>选择背景使用的视频播放器.</value>
   </data>
   <data name="TipWallpaperDir" xml:space="preserve">
     <value>储存背景的路径</value>
@@ -656,5 +655,14 @@ https://github.com/rocksdanister/lively/wiki</value>
   </data> 
   <data name="TitleCommunity" xml:space="preserve">
     <value>Community</value>
-  </data>    
+  </data> 
+    <data name="DescriptionDeleteConfirmationLibrary" xml:space="preserve">
+    <value>Are you sure you want to delete this wallpaper from the Library?</value>
+  </data>
+    <data name="TipAudioMaster" xml:space="preserve">
+    <value>Volume level of all wallpapers.</value>
+  </data>
+    <data name="TitleAudioMaster" xml:space="preserve">
+    <value>Master Volume</value>
+  </data>   
 </root>

@@ -475,8 +475,7 @@ Alla proceser: Tyngre, Skannar alla proceser för att bestämma uppspelningsbete
     <value>För Lite-end-system väljer du Lite-läge.</value>
   </data>
   <data name="TipVideoPlayer" xml:space="preserve">
-    <value>Välj den spelare som används för videotapet.
-libVLC rekommenderas.</value>
+    <value>Välj den spelare som används för videotapet.</value>
   </data>
   <data name="TipWallpaperDir" xml:space="preserve">
     <value>Sökväg som används för att lagra tapetfiler.</value>
@@ -655,5 +654,14 @@ Edge är den inbyggda webbvisningen av Windows 10.</value>
   </data>
   <data name="TitleWindowsStartup" xml:space="preserve">
     <value>Starta med Windows</value>
+  </data>
+    <data name="DescriptionDeleteConfirmationLibrary" xml:space="preserve">
+    <value>Are you sure you want to delete this wallpaper from the Library?</value>
+  </data>
+    <data name="TipAudioMaster" xml:space="preserve">
+    <value>Volume level of all wallpapers.</value>
+  </data>
+    <data name="TitleAudioMaster" xml:space="preserve">
+    <value>Master Volume</value>
   </data>
 </root>
