@@ -613,22 +613,22 @@ Edge es la vista web integrada en Windows 10.</value>
   </data>
   <data name="TextClose" xml:space="preserve">
     <value>Cerrar</value>
-  </data> 
+  </data>
   <data name="TextCustomise" xml:space="preserve">
     <value>Personalizar</value>
-  </data>     
+  </data>
   <data name="DescriptionScreenLayout" xml:space="preserve">
     <value>Elegir Pantalla</value>
-  </data>    
+  </data>
   <data name="TextWallpaperLayoutPerScreen" xml:space="preserve">
     <value>Solo la pantalla seleccionada</value>
-  </data>  
+  </data>
   <data name="TipWallpaperLayout" xml:space="preserve">
     <value>Cómo se aplica el fondo a las pantallas conectadas.</value>
-  </data> 
+  </data>
   <data name="TitleWallpaperDirMoveExisting" xml:space="preserve">
     <value>Mover los fondos de pantalla existentes al nuevo directorio</value>
-  </data>   
+  </data>
   <data name="LivelyExceptionMediaPlayback" xml:space="preserve">
     <value>El reproducto de contenido ha fallado :(
 Inta cambiar el reproducto de video desde la configuración de Lively.
@@ -636,50 +636,50 @@ Inta cambiar el reproducto de video desde la configuración de Lively.
 Para enteder mejor este error y solucionar el problema, comparte el archivo de registro con el desarrollador.
 Visita el siguiente enlace con instrucciones sobre como compartir el archivo de registro:
 https://github.com/rocksdanister/lively/wiki</value>
-  </data> 
+  </data>
   <data name="TextOff" xml:space="preserve">
     <value>APAGADO</value>
   </data>
   <data name="TextOn" xml:space="preserve">
     <value>ENCENDIDO</value>
-  </data>   
+  </data>
   <data name="TextMouse" xml:space="preserve">
     <value>Ratón</value>
-  </data>  
+  </data>
   <data name="TextKeyboard" xml:space="preserve">
     <value>Teclado</value>
-  </data>  
+  </data>
   <data name="TitleDocumentation" xml:space="preserve">
     <value>Documentación</value>
-  </data> 
+  </data>
   <data name="TitleCommunity" xml:space="preserve">
     <value>Comunidad</value>
-  </data>  
-    <data name="DescriptionDeleteConfirmationLibrary" xml:space="preserve">
-    <value>Are you sure you want to delete this wallpaper from the Library?</value>
   </data>
-    <data name="TipAudioMaster" xml:space="preserve">
-    <value>Volume level of all wallpapers.</value>
+  <data name="DescriptionDeleteConfirmationLibrary" xml:space="preserve">
+    <value>¿Está seguro que desea eliminar este fondo de pantalla de la biblioteca?</value>
   </data>
-    <data name="TitleAudioMaster" xml:space="preserve">
-    <value>Master Volume</value>
+  <data name="TipAudioMaster" xml:space="preserve">
+    <value>Volumen de todos los fondos de pantalla.</value>
   </data>
-    <data name="TextWallpaperFitFill" xml:space="preserve">
-    <value>Fill</value>
+  <data name="TitleAudioMaster" xml:space="preserve">
+    <value>Volumen principal</value>
+  </data>
+  <data name="TextWallpaperFitFill" xml:space="preserve">
+    <value>Completar</value>
   </data>
   <data name="TextWallpaperFitNone" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
   </data>
   <data name="TextWallpaperFitUniform" xml:space="preserve">
-    <value>Uniform</value>
+    <value>Uniforme</value>
   </data>
   <data name="TextWallpaperFitUniformToFill" xml:space="preserve">
-    <value>Uniform Fill</value>
+    <value>Completar de manera uniforme.</value>
   </data>
-    <data name="TipWallpaperFit" xml:space="preserve">
-    <value>Wallpaper scaling algorithm.</value>
+  <data name="TipWallpaperFit" xml:space="preserve">
+    <value>Algoritmo de escalado del fondo de pantalla.</value>
   </data>
-    <data name="TitleWallpaperFit" xml:space="preserve">
-    <value>Choose a fit</value>
+  <data name="TitleWallpaperFit" xml:space="preserve">
+    <value>Elije un ajuste.</value>
   </data>
 </root>
