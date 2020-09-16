@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DescriptionAddWallpaper" xml:space="preserve">
-    <value>Select a file or specify a website url to set as a wallpaper.</value>
+    <value>Wählen Sie eine Datei aus oder geben Sie eine Website-URL an, die als Hintergrundbild festgelegt werden soll.</value>
   </data>
   <data name="DescriptionAppRules" xml:space="preserve">
     <value>Legen Sie das Wiedergabeverhalten von Hintergrundbildern basierend auf der laufenden Anwendung fest</value>
   </data>
   <data name="DescriptionCancelQuestion" xml:space="preserve">
-    <value>Are you sure you want to cancel?</value>
+    <value>Bist du dir sicher abzubrechen?</value>
   </data>
   <data name="DescriptionDeleteConfirmation" xml:space="preserve">
     <value>Sind Sie sicher das Hintergrundbild permanent von Ihrem Laufwerk zu löschen?</value>
   </data>
   <data name="DescriptionDragDropFIle" xml:space="preserve">
-    <value>Simply drag and drop files into Library.</value>
+    <value>Ziehen Sie einfach Dateien per Drag &amp; Drop in die Bibliothek.</value>
   </data>
   <data name="DescriptionExternalAppWarning" xml:space="preserve">
     <value>Sie öffnen eine externe Anwendung als Hintergrundbild.
@@ -141,19 +141,19 @@ Fahren Sie nur fort, wenn diese Anwendung aus einer vertrauenswürdigen Quelle s
     <value>Lively ist in das systemtray minimiert, rechtsklicken Sie das Lively-Symbol für mehr optionen.</value>
   </data>
   <data name="DescriptionRecordStart" xml:space="preserve">
-    <value>Press to begin recording.</value>
+    <value>Drücke um die Aufnahme zu starten.</value>
   </data>
   <data name="DescriptionRestoringWallpaper" xml:space="preserve">
     <value>Das letzte/ Die letzten Hintergrundbild/er wird/werden wiederhergestellt</value>
   </data>
   <data name="DescriptionUpdateAvailable" xml:space="preserve">
-    <value>Eine Version ist verfügbar!</value>
+    <value>Eine neuere Version ist verfügbar!</value>
   </data>
   <data name="DescriptionWebpageLoad" xml:space="preserve">
     <value>Geben Sie die Internetseiten-URL ein, Shadertoy.com shader links werden nicht unterstützt</value>
   </data>
   <data name="DescriptionWelcomeWizard" xml:space="preserve">
-    <value>This wizard will get you started on setting up Lively.</value>
+    <value>Dieses Setup hilft dir Lively einzustellen!</value>
   </data>
   <data name="LivelyExceptionAppUpdateFail" xml:space="preserve">
     <value>Aktualisierung fehlgeschlagen. Versuchen Sie, das Installationsprogramm neu herunterzuladen</value>
@@ -172,7 +172,7 @@ https://github.com/rocksdanister/lively/wiki</value>
 Schalten Sie den Hohen Kontrast Modus aus &amp; versuchen Sie es erneut.</value>
   </data>
   <data name="LivelyExceptionNotLivelyZip" xml:space="preserve">
-    <value>Not Lively wallpaper file.</value>
+    <value>Keine Lively wallpaper Datei.</value>
   </data>
   <data name="LivelyExceptionSafeModeStart" xml:space="preserve">
     <value>Eine Version ist verfügbar!</value>
@@ -206,7 +206,7 @@ Wenn es immer noch nicht funktioniert, schließen  &amp; starte Lively neu oder 
     <value>Back</value>
   </data>
   <data name="TextBrowse" xml:space="preserve">
-    <value>Browse</value>
+    <value>Suche</value>
   </data>
   <data name="TextCloseWallpapers" xml:space="preserve">
     <value>Schließe Hintergrund</value>
@@ -215,7 +215,7 @@ Wenn es immer noch nicht funktioniert, schließen  &amp; starte Lively neu oder 
     <value>Completed!</value>
   </data>
   <data name="TextConvertVideo" xml:space="preserve">
-    <value>Convert to Video</value>
+    <value>Convertiere zum Video Format</value>
   </data>
   <data name="TextCustomiseWallpaper" xml:space="preserve">
     <value>Customise Wallpaper</value>
@@ -242,13 +242,13 @@ Wenn es immer noch nicht funktioniert, schließen  &amp; starte Lively neu oder 
     <value>Exportiere lively .zip</value>
   </data>
   <data name="TextGIF" xml:space="preserve">
-    <value>Animated GIF</value>
+    <value>Animiertes GIF</value>
   </data>
   <data name="TextGo" xml:space="preserve">
     <value>GO</value>
   </data>
   <data name="TextHelpTranslate" xml:space="preserve">
-    <value>Help translate Lively.</value>
+    <value>Helfe Lively zu übersetzen</value>
   </data>
   <data name="TextInstall" xml:space="preserve">
     <value>Installieren</value>
@@ -287,7 +287,7 @@ Wenn es immer noch nicht funktioniert, schließen  &amp; starte Lively neu oder 
     <value>Kill</value>
   </data>
   <data name="TextPerformanceNone" xml:space="preserve">
-    <value>Nothing</value>
+    <value>Nichts</value>
   </data>
   <data name="TextPerformancePause" xml:space="preserve">
     <value>Pause</value>
@@ -299,10 +299,10 @@ Wenn es immer noch nicht funktioniert, schließen  &amp; starte Lively neu oder 
     <value>Regel</value>
   </data>
   <data name="TextScreen" xml:space="preserve">
-    <value>Screen</value>
+    <value>Bildschirm</value>
   </data>
   <data name="TextSearch" xml:space="preserve">
-    <value>Search</value>
+    <value>Suche</value>
   </data>
   <data name="TextSetWallpaper" xml:space="preserve">
     <value>Als Hintergrund festlegen</value>
@@ -344,7 +344,7 @@ Wenn es immer noch nicht funktioniert, schließen  &amp; starte Lively neu oder 
     <value>Update verfügbar!</value>
   </data>
   <data name="TextUpdateCheck" xml:space="preserve">
-    <value>Check for update</value>
+    <value>Nach Updates suchen.</value>
   </data>
   <data name="TextupdateCheckFail" xml:space="preserve">
     <value>Suche nach Updates fehlgeschlagen.</value>
@@ -374,10 +374,10 @@ Wenn es immer noch nicht funktioniert, schließen  &amp; starte Lively neu oder 
     <value>Stream</value>
   </data>
   <data name="TextWelcome" xml:space="preserve">
-    <value>Welcome</value>
+    <value>Willkommen</value>
   </data>
   <data name="TextYes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Ja</value>
   </data>
   <data name="TileVideoPlayer" xml:space="preserve">
     <value>Videoplayer</value>
@@ -613,22 +613,22 @@ Edge is the built in webview of windows 10.</value>
   </data>
   <data name="TextClose" xml:space="preserve">
     <value>Close</value>
-  </data> 
+  </data>
   <data name="TextCustomise" xml:space="preserve">
     <value>Customise</value>
-  </data>     
+  </data>
   <data name="DescriptionScreenLayout" xml:space="preserve">
     <value>Choose Display</value>
-  </data>    
+  </data>
   <data name="TextWallpaperLayoutPerScreen" xml:space="preserve">
     <value>Selected screen only</value>
-  </data>  
+  </data>
   <data name="TipWallpaperLayout" xml:space="preserve">
     <value>How wallpaper is applied to connected display devices.</value>
-  </data> 
+  </data>
   <data name="TitleWallpaperDirMoveExisting" xml:space="preserve">
     <value>Move existing wallpapers to new folder</value>
-  </data>   
+  </data>
   <data name="LivelyExceptionMediaPlayback" xml:space="preserve">
     <value>Media playback failed :(
 Try changing the videoplayer in lively settings.
@@ -636,35 +636,35 @@ Try changing the videoplayer in lively settings.
 In order to better understand this error and fix the issue, share the log file with the developer.
 Instructions for sharing log file:
 https://github.com/rocksdanister/lively/wiki</value>
-  </data> 
+  </data>
   <data name="TextOff" xml:space="preserve">
     <value>OFF</value>
   </data>
   <data name="TextOn" xml:space="preserve">
     <value>ON</value>
-  </data>   
+  </data>
   <data name="TextMouse" xml:space="preserve">
     <value>Mouse</value>
-  </data>  
+  </data>
   <data name="TextKeyboard" xml:space="preserve">
     <value>Keyboard</value>
-  </data>  
+  </data>
   <data name="TitleDocumentation" xml:space="preserve">
     <value>Documentation</value>
-  </data> 
+  </data>
   <data name="TitleCommunity" xml:space="preserve">
     <value>Community</value>
   </data>
-    <data name="DescriptionDeleteConfirmationLibrary" xml:space="preserve">
+  <data name="DescriptionDeleteConfirmationLibrary" xml:space="preserve">
     <value>Are you sure you want to delete this wallpaper from the Library?</value>
   </data>
-    <data name="TipAudioMaster" xml:space="preserve">
+  <data name="TipAudioMaster" xml:space="preserve">
     <value>Volume level of all wallpapers.</value>
   </data>
-    <data name="TitleAudioMaster" xml:space="preserve">
+  <data name="TitleAudioMaster" xml:space="preserve">
     <value>Master Volume</value>
   </data>
-    <data name="TextWallpaperFitFill" xml:space="preserve">
+  <data name="TextWallpaperFitFill" xml:space="preserve">
     <value>Fill</value>
   </data>
   <data name="TextWallpaperFitNone" xml:space="preserve">
@@ -676,10 +676,10 @@ https://github.com/rocksdanister/lively/wiki</value>
   <data name="TextWallpaperFitUniformToFill" xml:space="preserve">
     <value>Uniform Fill</value>
   </data>
-    <data name="TipWallpaperFit" xml:space="preserve">
+  <data name="TipWallpaperFit" xml:space="preserve">
     <value>Wallpaper scaling algorithm.</value>
   </data>
-    <data name="TitleWallpaperFit" xml:space="preserve">
+  <data name="TitleWallpaperFit" xml:space="preserve">
     <value>Choose a fit</value>
-  </data>   
+  </data>
 </root>
