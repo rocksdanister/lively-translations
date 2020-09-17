@@ -252,7 +252,7 @@ Nếu vẫn không thể hoạt động, đóng lại &amp;amp; khởi động l
     <value>Tất cả màn hình</value>
   </data>
   <data name="TextDisplayPauseRulePerScreen" xml:space="preserve">
-    <value>Tưng màn hình</value>
+    <value>Từng màn hình</value>
   </data>
   <data name="TextDownload" xml:space="preserve">
     <value>Tải xuống</value>
@@ -264,7 +264,7 @@ Nếu vẫn không thể hoạt động, đóng lại &amp;amp; khởi động l
     <value>Thoát</value>
   </data>
   <data name="TextExportWallpaperZip" xml:space="preserve">
-    <value>Xuát lively .zip</value>
+    <value>Xuất lively .zip</value>
   </data>
   <data name="TextGIF" xml:space="preserve">
     <value>GIFđộng</value>
@@ -321,10 +321,10 @@ Nếu vẫn không thể hoạt động, đóng lại &amp;amp; khởi động l
     <value>Tạm dừng hình nền</value>
   </data>
   <data name="TextPerformanceKill" xml:space="preserve">
-    <value>Diệt</value>
+    <value>Dừng hẳn</value>
   </data>
   <data name="TextPerformanceNone" xml:space="preserve">
-    <value>Không có gì</value>
+    <value>Không đổi</value>
   </data>
   <data name="TextPerformancePause" xml:space="preserve">
     <value>Tạm dừng</value>
@@ -333,7 +333,7 @@ Nếu vẫn không thể hoạt động, đóng lại &amp;amp; khởi động l
     <value>Xóa</value>
   </data>
   <data name="TextRule" xml:space="preserve">
-    <value>Qui tắc</value>
+    <value>Quy tắc</value>
   </data>
   <data name="TextScreen" xml:space="preserve">
     <value>Mán hình</value>
@@ -459,10 +459,10 @@ Nếu vẫn không thể hoạt động, đóng lại &amp;amp; khởi động l
     <value>Mức âm lượng của tất cả các hình nền.</value>
   </data>
   <data name="TipBatteryPower" xml:space="preserve">
-    <value>(Dành cho laptop,...) Thay đổi qui luật phát lại khi nguồn AC bị ngắt.</value>
+    <value>(Dành cho laptop,...) Thay đổi quy luật phát lại khi nguồn AC bị ngắt.</value>
   </data>
   <data name="TipBrowserDebuggingPort" xml:space="preserve">
-    <value>Nhập cổng để debug webpage hình nền, bắt buoojjc phải khởi động lại trình duyệt để thay đổi có hiệu lực.
+    <value>Nhập cổng để debug webpage hình nền, bắt buộc phải khởi động lại trình duyệt để thay đổi có hiệu lực.
 Khi sắn sàng, đi tới http://localhost:portnumber để truy cập bảng điều khiển cho nhà phát triển.</value>
   </data>
   <data name="TipDisplayPauseRule" xml:space="preserve">
@@ -523,7 +523,7 @@ Edge là webview được tích hợp sẵn của windows 10.</value>
     <value>Lively cần chạy trong nền để phát lại hình nền.</value>
   </data>
   <data name="TitleAbout" xml:space="preserve">
-    <value>Về</value>
+    <value>Giới thiệu</value>
   </data>
   <data name="TitleAddWallpaper" xml:space="preserve">
     <value>Thêm hình nền</value>
@@ -538,7 +538,7 @@ Edge là webview được tích hợp sẵn của windows 10.</value>
     <value>Hình nền Lively</value>
   </data>
   <data name="TitleAppRules" xml:space="preserve">
-    <value>Qui tắc của các ứng dụng</value>
+    <value>quy tắc của các ứng dụng</value>
   </data>
   <data name="TitleAppTheme" xml:space="preserve">
     <value>Chủ đề</value>
@@ -655,10 +655,10 @@ Edge là webview được tích hợp sẵn của windows 10.</value>
     <value>Di chuyển các hình nền hiện có vào thư mục mới</value>
   </data>
   <data name="TitleWallpaperFit" xml:space="preserve">
-    <value>Chọn một phù hợp</value>
+    <value>Chọn tỉ lệ hình nền</value>
   </data>
   <data name="TitleWallpaperInput" xml:space="preserve">
-    <value>Nhập hình nền</value>
+    <value>Tương tác bằng</value>
   </data>
   <data name="TitleWallpaperLayout" xml:space="preserve">
     <value>phương pháp sắp xếp</value>
