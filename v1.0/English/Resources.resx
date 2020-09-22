@@ -126,6 +126,9 @@
   <data name="DescriptionCancelQuestion" xml:space="preserve">
     <value>Are you sure you want to cancel?</value>
   </data>
+  <data name="DescriptionDebug" xml:space="preserve">
+    <value>Show developer menu</value>
+  </data>
   <data name="DescriptionDeleteConfirmation" xml:space="preserve">
     <value>Are you sure you want to permanently delete this wallpaper from the disk?</value>
   </data>
@@ -172,7 +175,7 @@ https://github.com/rocksdanister/lively/releases</value>
     <value>Damaged wallpaper file, try redownloading.</value>
   </data>
   <data name="LivelyExceptionGeneral" xml:space="preserve">
-    <value>Oops... Looks like something wen't wrong :(
+    <value>Oops... Looks like something went wrong :(
 In order to better understand this error and fix the issue, share the log file with the developer.
 Instructions for sharing log file:
 https://github.com/rocksdanister/lively/wiki</value>
@@ -211,6 +214,9 @@ If still not working, close &amp;amp; start Lively again/ restart windows.
   </data>
   <data name="TextAdd" xml:space="preserve">
     <value>Add</value>
+  </data>
+  <data name="TextAllFiles" xml:space="preserve">
+    <value>All Files</value>
   </data>
   <data name="TextApplication" xml:space="preserve">
     <value>Application</value>
@@ -265,6 +271,9 @@ If still not working, close &amp;amp; start Lively again/ restart windows.
   </data>
   <data name="TextExportWallpaperZip" xml:space="preserve">
     <value>Export lively .zip</value>
+  </data>
+  <data name="TextFileNotFound" xml:space="preserve">
+    <value>File not found</value>
   </data>
   <data name="TextGIF" xml:space="preserve">
     <value>Animated GIF</value>
@@ -328,6 +337,9 @@ If still not working, close &amp;amp; start Lively again/ restart windows.
   </data>
   <data name="TextPerformancePause" xml:space="preserve">
     <value>Pause</value>
+  </data>
+  <data name="TextPreviewWallpaper" xml:space="preserve">
+    <value>Preview Wallpaper</value>
   </data>
   <data name="TextRemove" xml:space="preserve">
     <value>Remove</value>
@@ -563,6 +575,9 @@ Edge is the built in webview of windows 10.</value>
   </data>
   <data name="TitleCommunity" xml:space="preserve">
     <value>Community</value>
+  </data>
+  <data name="TitleDebug" xml:space="preserve">
+    <value>Debug</value>
   </data>
   <data name="TitleDeleteConfirmation" xml:space="preserve">
     <value>Confirm Deletion</value>

@@ -684,4 +684,16 @@ Edgeはwindows 10に組み込まれているWebビューです。</value>
   <data name="TitleWindowsStartup" xml:space="preserve">
     <value>ウィンドウズ起動時に同時に起動します。</value>
   </data>
+  <data name="TextPreviewWallpaper" xml:space="preserve">
+    <value>Preview Wallpaper</value>
+  </data>
+  <data name="TextAllFiles" xml:space="preserve">
+    <value>All Files</value>
+  </data>
+  <data name="TitleDebug" xml:space="preserve">
+    <value>Debug</value>
+  </data>
+  <data name="DescriptionDebug" xml:space="preserve">
+    <value>Show developer menu</value>
+  </data>
 </root>
