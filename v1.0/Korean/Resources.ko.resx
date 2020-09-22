@@ -696,4 +696,7 @@ Edge는 Windows 10의 내장 웹뷰입니다.</value>
   <data name="TipDebug" xml:space="preserve">
     <value>Show developer menu</value>
   </data>
+  <data name="TextFileNotFound" xml:space="preserve">
+    <value>File not found</value>
+  </data>  
 </root>

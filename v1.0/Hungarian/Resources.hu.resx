@@ -695,4 +695,7 @@ https://github.com/rocksdanister/lively/wiki</value>
   <data name="TipDebug" xml:space="preserve">
     <value>Show developer menu</value>
   </data>
+  <data name="TextFileNotFound" xml:space="preserve">
+    <value>File not found</value>
+  </data>  
 </root>
