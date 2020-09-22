@@ -679,7 +679,7 @@ Edge - встроенный в Windows 10 WebView.</value>
   <data name="TitleWindowsStartup" xml:space="preserve">
     <value>Запускать с Windows</value>
   </data>
-  <data name="LivelyExceptionMediaPlayback" xml:space="preserve">	
+  <data name="LivelyExceptionMediaPlayback" xml:space="preserve">
     <value>Ошибка воспроизведения медиа :(	
 Попробуйте изменить видеоплеер в настройках Lively.
 
@@ -693,7 +693,7 @@ https://github.com/rocksdanister/lively/wiki</value>
   <data name="TitleDebug" xml:space="preserve">
     <value>Debug</value>
   </data>
-  <data name="DescriptionDebug" xml:space="preserve">
+  <data name="TipDebug" xml:space="preserve">
     <value>Show developer menu</value>
   </data>
 </root>

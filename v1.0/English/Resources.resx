@@ -126,9 +126,6 @@
   <data name="DescriptionCancelQuestion" xml:space="preserve">
     <value>Are you sure you want to cancel?</value>
   </data>
-  <data name="DescriptionDebug" xml:space="preserve">
-    <value>Show developer menu</value>
-  </data>
   <data name="DescriptionDeleteConfirmation" xml:space="preserve">
     <value>Are you sure you want to permanently delete this wallpaper from the disk?</value>
   </data>
@@ -476,6 +473,9 @@ If still not working, close &amp;amp; start Lively again/ restart windows.
   <data name="TipBrowserDebuggingPort" xml:space="preserve">
     <value>Enter the port for debugging webpage wallpapers, browser restart is required for changes to take effect.
 When ready navigate to http://localhost:portnumber to access developer console.</value>
+  </data>
+  <data name="TipDebug" xml:space="preserve">
+    <value>Show developer menu</value>
   </data>
   <data name="TipDisplayPauseRule" xml:space="preserve">
     <value>Per: Pause wallpaper only on the screen in which application is focused/fullscreen.

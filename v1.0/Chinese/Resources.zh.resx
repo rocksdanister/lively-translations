@@ -615,22 +615,22 @@ Edge 是 Windows 10 内置的浏览器。</value>
   </data>
   <data name="TextClose" xml:space="preserve">
     <value>关闭</value>
-  </data> 
+  </data>
   <data name="TextCustomise" xml:space="preserve">
     <value>自定义</value>
-  </data>     
+  </data>
   <data name="DescriptionScreenLayout" xml:space="preserve">
     <value>选择屏幕</value>
-  </data>    
+  </data>
   <data name="TextWallpaperLayoutPerScreen" xml:space="preserve">
     <value>仅选中的屏幕</value>
-  </data>  
+  </data>
   <data name="TipWallpaperLayout" xml:space="preserve">
     <value>壁纸应用于连接的显示设备的方式。</value>
-  </data> 
+  </data>
   <data name="TitleWallpaperDirMoveExisting" xml:space="preserve">
     <value>移动现有的壁纸到新的文件夹</value>
-  </data>   
+  </data>
   <data name="LivelyExceptionMediaPlayback" xml:space="preserve">
     <value>媒体播放失败 :(
 请尝试在 Lively 设置中改变视频播放器。
@@ -638,35 +638,35 @@ Edge 是 Windows 10 内置的浏览器。</value>
 为了更好地了解这个错误并修复问题，请将日志文件分享给开发者。
 分享日志文件的说明：
 https://github.com/rocksdanister/lively/wiki</value>
-  </data> 
+  </data>
   <data name="TextOff" xml:space="preserve">
     <value>关</value>
   </data>
   <data name="TextOn" xml:space="preserve">
     <value>开</value>
-  </data>   
+  </data>
   <data name="TextMouse" xml:space="preserve">
     <value>鼠标</value>
-  </data>  
+  </data>
   <data name="TextKeyboard" xml:space="preserve">
     <value>键盘</value>
-  </data>  
+  </data>
   <data name="TitleDocumentation" xml:space="preserve">
     <value>文档</value>
-  </data> 
+  </data>
   <data name="TitleCommunity" xml:space="preserve">
     <value>社区</value>
-  </data> 
-    <data name="DescriptionDeleteConfirmationLibrary" xml:space="preserve">
+  </data>
+  <data name="DescriptionDeleteConfirmationLibrary" xml:space="preserve">
     <value>您确定要从图库中删除这张壁纸吗？</value>
   </data>
-    <data name="TipAudioMaster" xml:space="preserve">
+  <data name="TipAudioMaster" xml:space="preserve">
     <value>所有壁纸的音量大小。</value>
   </data>
-    <data name="TitleAudioMaster" xml:space="preserve">
+  <data name="TitleAudioMaster" xml:space="preserve">
     <value>主音量</value>
   </data>
-    <data name="TextWallpaperFitFill" xml:space="preserve">
+  <data name="TextWallpaperFitFill" xml:space="preserve">
     <value>填充</value>
   </data>
   <data name="TextWallpaperFitNone" xml:space="preserve">
@@ -678,13 +678,13 @@ https://github.com/rocksdanister/lively/wiki</value>
   <data name="TextWallpaperFitUniformToFill" xml:space="preserve">
     <value>统一填充</value>
   </data>
-    <data name="TipWallpaperFit" xml:space="preserve">
+  <data name="TipWallpaperFit" xml:space="preserve">
     <value>壁纸缩放算法。</value>
   </data>
-    <data name="TitleWallpaperFit" xml:space="preserve">
+  <data name="TitleWallpaperFit" xml:space="preserve">
     <value>选择契合度</value>
   </data>
-    <data name="TextPreviewWallpaper" xml:space="preserve">
+  <data name="TextPreviewWallpaper" xml:space="preserve">
     <value>Preview Wallpaper</value>
   </data>
   <data name="TextAllFiles" xml:space="preserve">
@@ -693,7 +693,7 @@ https://github.com/rocksdanister/lively/wiki</value>
   <data name="TitleDebug" xml:space="preserve">
     <value>Debug</value>
   </data>
-  <data name="DescriptionDebug" xml:space="preserve">
+  <data name="TipDebug" xml:space="preserve">
     <value>Show developer menu</value>
-  </data>   
+  </data>
 </root>

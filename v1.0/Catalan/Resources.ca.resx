@@ -688,10 +688,10 @@ https://github.com/rocksdanister/lively/wiki</value>
   <data name="TitleDebug" xml:space="preserve">
     <value>Debug</value>
   </data>
-  <data name="DescriptionDebug" xml:space="preserve">
+  <data name="TipDebug" xml:space="preserve">
     <value>Show developer menu</value>
   </data>
   <data name="TextAllFiles" xml:space="preserve">
     <value>All Files</value>
-  </data>    
+  </data>
 </root>
