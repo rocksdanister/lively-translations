@@ -706,6 +706,6 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>不支持的文件格式!</value>
   </data>
   <data name="TextProcessingWallpaper" xml:space="preserve">
-    <value>处理中...</value>
+    <value>处理中</value>
   </data>  
 </root>
