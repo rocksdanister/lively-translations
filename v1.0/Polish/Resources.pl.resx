@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -613,22 +613,22 @@ Edge jest przeglądarką wbudowaną w windows 10.</value>
   </data>
   <data name="TextClose" xml:space="preserve">
     <value>Zamknij</value>
-  </data> 
+  </data>
   <data name="TextCustomise" xml:space="preserve">
     <value>Dostosuj</value>
-  </data>     
+  </data>
   <data name="DescriptionScreenLayout" xml:space="preserve">
     <value>Zamknij wyświetlacz</value>
-  </data>    
+  </data>
   <data name="TextWallpaperLayoutPerScreen" xml:space="preserve">
     <value>Tylko wybrany ekran</value>
-  </data>  
+  </data>
   <data name="TipWallpaperLayout" xml:space="preserve">
     <value>Jak zastosowywana jest tapeta do podłączonych urządzeń odtwarzania.</value>
-  </data> 
+  </data>
   <data name="TitleWallpaperDirMoveExisting" xml:space="preserve">
     <value>Przenieś istniejące tapety do nowego folderu</value>
-  </data>   
+  </data>
   <data name="LivelyExceptionMediaPlayback" xml:space="preserve">
     <value>Niepowodzenie odtwarzania multimediów :(
 Spróbuj zmienić odtwarzacz wideo w ustawieniach lively.
@@ -636,32 +636,74 @@ Spróbuj zmienić odtwarzacz wideo w ustawieniach lively.
 Aby lepiej zrozumieć i pomóc w naprawie błędu, wyślij plik dziennika do twórcy aplikacji.
 Instrukcje jak to zrobić znajdziesz pod adresem:
 https://github.com/rocksdanister/lively/wiki</value>
-  </data> 
+  </data>
   <data name="TextOff" xml:space="preserve">
     <value>Wył</value>
   </data>
   <data name="TextOn" xml:space="preserve">
     <value>Wł</value>
-  </data>   
+  </data>
   <data name="TextMouse" xml:space="preserve">
     <value>Mysz</value>
-  </data>  
+  </data>
   <data name="TextKeyboard" xml:space="preserve">
     <value>Klawiatura</value>
-  </data>  
+  </data>
   <data name="TitleDocumentation" xml:space="preserve">
     <value>Dokumentacja</value>
-  </data> 
+  </data>
   <data name="TitleCommunity" xml:space="preserve">
     <value>Społeczność</value>
-  </data>    
-    <data name="DescriptionDeleteConfirmationLibrary" xml:space="preserve">
+  </data>
+  <data name="DescriptionDeleteConfirmationLibrary" xml:space="preserve">
     <value>Na pewno chcesz usunąć tapetę z Biblioteki?</value>
   </data>
-    <data name="TipAudioMaster" xml:space="preserve">
+  <data name="TipAudioMaster" xml:space="preserve">
     <value>Poziom dźwięku dla wszystkich tapet.</value>
   </data>
-    <data name="TitleAudioMaster" xml:space="preserve">
+  <data name="TitleAudioMaster" xml:space="preserve">
     <value>Głośność główna</value>
+  </data>
+  <data name="TextWallpaperFitFill" xml:space="preserve">
+    <value>Wypełnij</value>
+  </data>
+  <data name="TextWallpaperFitNone" xml:space="preserve">
+    <value>Bez dopasowania</value>
+  </data>
+  <data name="TextWallpaperFitUniform" xml:space="preserve">
+    <value>Równomierne</value>
+  </data>
+  <data name="TextWallpaperFitUniformToFill" xml:space="preserve">
+    <value>Wypełnij równomiernie</value>
+  </data>
+  <data name="TipWallpaperFit" xml:space="preserve">
+    <value>Algorytm skalowania tapety.</value>
+  </data>
+  <data name="TitleWallpaperFit" xml:space="preserve">
+    <value>Wybierz dopasowanie</value>
+  </data>
+  <data name="TextPreviewWallpaper" xml:space="preserve">
+    <value>Podgląd tapety</value>
+  </data>
+  <data name="TextAllFiles" xml:space="preserve">
+    <value>Wszystkie pliki</value>
+  </data>
+  <data name="TitleDebug" xml:space="preserve">
+    <value>Debugowanie</value>
+  </data>
+  <data name="TipDebug" xml:space="preserve">
+    <value>Pokaż menu dewelopera</value>
+  </data>
+  <data name="TextFileNotFound" xml:space="preserve">
+    <value>Nie znaleziono pliku</value>
+  </data>
+  <data name="TextPicture" xml:space="preserve">
+    <value>Obraz</value>
+  </data>
+  <data name="TextUnsupportedFile" xml:space="preserve">
+    <value>Nieobsługiwany format pliku</value>
+  </data>
+  <data name="TextProcessingWallpaper" xml:space="preserve">
+    <value>Przetwarzam</value>
   </data>
 </root>
