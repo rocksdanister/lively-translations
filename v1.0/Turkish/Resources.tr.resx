@@ -702,4 +702,19 @@ Edge ise windows 10 için geçerli web gösterim motorudur.</value>
   <data name="TitleWindowsStartup" xml:space="preserve">
     <value>Başlangıçta çalıştır</value>
   </data>
+  <data name="TextTitle" xml:space="preserve">
+    <value>Title</value>
+  </data>
+  <data name="TextDescription" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="TextOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="TextCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="TextCreatePreview" xml:space="preserve">
+    <value>Create Preview</value>
+  </data>  
 </root>
