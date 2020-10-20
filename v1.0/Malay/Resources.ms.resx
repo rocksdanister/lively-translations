@@ -699,12 +699,27 @@ Edge ialah Webview sedia ada bagi Windows 10.</value>
     <value>Fail tidak dijumpai</value>
   </data>
   <data name="TextPicture" xml:space="preserve">
-    <value>Picture</value>
+    <value>Gambar</value>
   </data>
   <data name="TextUnsupportedFile" xml:space="preserve">
-    <value>File format not supported</value>
+    <value>Format fail tidak disokong.</value>
   </data>
   <data name="TextProcessingWallpaper" xml:space="preserve">
-    <value>Processing</value>
-  </data>  
+    <value>Sedang memproses</value>
+  </data>
+  <data name="TextTitle" xml:space="preserve">
+    <value>Judul</value>
+  </data>
+  <data name="TextDescription" xml:space="preserve">
+    <value>Deskripsi</value>
+  </data>
+  <data name="TextOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="TextCancel" xml:space="preserve">
+    <value>Batal</value>
+  </data>
+  <data name="TextCreatePreview" xml:space="preserve">
+    <value>Cipta Previu</value>
+  </data>    
 </root>
