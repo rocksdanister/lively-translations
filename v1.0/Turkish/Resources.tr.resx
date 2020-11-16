@@ -190,7 +190,7 @@ Günlük dosyasını paylaşma hakkında detaylı bilgi:
 https://github.com/rocksdanister/lively/wiki</value>
   </data>
   <data name="LivelyExceptionNotLivelyZip" xml:space="preserve">
-    <value>Lively duvar kağıdı dosyası değil</value>
+    <value>Not Lively duvar kağıdı dosyası</value>
   </data>
   <data name="LivelyExceptionSafeModeStart" xml:space="preserve">
     <value>Lively düzgün kapatılamadı, güvenli modda başlatılıyor.
@@ -703,18 +703,24 @@ Edge ise windows 10 için geçerli web gösterim motorudur.</value>
     <value>Başlangıçta çalıştır</value>
   </data>
   <data name="TextTitle" xml:space="preserve">
-    <value>Başlık</value>
+    <value>Title</value>
   </data>
   <data name="TextDescription" xml:space="preserve">
-    <value>Açıklama</value>
+    <value>Description</value>
   </data>
   <data name="TextOK" xml:space="preserve">
-    <value>Tamam</value>
+    <value>OK</value>
   </data>
   <data name="TextCancel" xml:space="preserve">
-    <value>İptal</value>
+    <value>Cancel</value>
   </data>
   <data name="TextCreatePreview" xml:space="preserve">
-    <value>Önizleme oluştur</value>
+    <value>Create Preview</value>
+  </data>
+  <data name="TitleGifPlayer" xml:space="preserve">
+    <value>Gif Player</value>
+  </data>
+  <data name="TipGifPlayer" xml:space="preserve">
+    <value>Select the player used for gif wallpaper.</value>
   </data>  
 </root>
