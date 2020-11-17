@@ -723,9 +723,9 @@ Edge ialah Webview sedia ada bagi Windows 10.</value>
     <value>Cipta Previu</value>
   </data>
   <data name="TitleGifPlayer" xml:space="preserve">
-    <value>Gif Player</value>
+    <value>Pemain Gif</value>
   </data>
   <data name="TipGifPlayer" xml:space="preserve">
-    <value>Select the player used for gif wallpaper.</value>
+    <value>Memilih pemain yang digunakan untuk wallpaper gif.</value>
   </data>    
 </root>
