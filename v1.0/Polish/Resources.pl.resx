@@ -722,9 +722,9 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Stwórz podgląd</value>
   </data>
   <data name="TitleGifPlayer" xml:space="preserve">
-    <value>Gif Player</value>
+    <value>Odtwarzacz Gif</value>
   </data>
   <data name="TipGifPlayer" xml:space="preserve">
-    <value>Select the player used for gif wallpaper.</value>
+    <value>Wybierz odtwarzacz dla tapet typu gif.</value>
   </data>    
 </root>
