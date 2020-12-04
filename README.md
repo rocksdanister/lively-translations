@@ -2,7 +2,9 @@
 Community translation files for Lively Wallpaper software.
 ## Instructions : Submitting translation
  1. Download the language file from v1.0 folder, if language does not exist download the English file instead.
- <img src="/Docks/file_download.png" width="900" height="272"/>
+ 
+ <img src="/Docs/file_download.png" width="900" height="272"/>
+ 
  2. Use [Resx Editor](https://sourceforge.net/projects/resx/) to open the file.
  3. Save the file as Resources.Languagetag.resx 
  Example: Resources.en-US.resx
