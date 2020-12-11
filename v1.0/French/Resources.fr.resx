@@ -719,9 +719,22 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Créer un Preview</value>
   </data>
   <data name="TitleGifPlayer" xml:space="preserve">
-    <value>Gif Player</value>
+    <value>Lecteur de Gif</value>
   </data>
   <data name="TipGifPlayer" xml:space="preserve">
-    <value>Select the player used for gif wallpaper.</value>
+    <value>Selectionner le lecteur utilisé pour le fond d'écran gif</value>
+  </data>
+  <data name="TextFeatureMissing" xml:space="preserve">
+    <value>Des fonctionnalités ne sont pas disponibles dans cette version de Lively.</value>
+  </data>
+    <data name="TextControlPanelOpen" xml:space="preserve">
+    <value>Cliquer ici pour gérer les fonds d'écran.</value>
+  </data>
+    <data name="TextStoreReview" xml:space="preserve">
+    <value>Vous aimez Lively? Laissez un commentaire :)</value>
+  </data>
+  <data name="TitleStore" xml:space="preserve">
+    <value>Magasin</value>
+    <comment>Pour une version différente de Lively, exemple : Microsoft Store</comment>
   </data>  
 </root>
