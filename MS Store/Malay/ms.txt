@@ -1,0 +1,19 @@
+Penerangan:
+Lively ialah sebuah perisian percuma dan sumber terbuka (FOSS) untuk mengesetkan GIF, video dan laman web sebagai wallpaper desktop anda.
+Dikuasakan oleh pelayar Chromium dan pemain MPV, wallpaper anda menyokong teknologi web dan standard video yang paling terkini.
+
+Ini merupakan sebuah projek sumber terbuka dan penyertaan komuniti amatlah digalakkan.
+Untuk turut serta, sila layari:
+https://github.com/rocksdanister/lively
+
+Ciri-ciri:
+
+Main semula wallpaper dihentikan (0% penggunaan sumber) ketika menjalankan permainan/kerja.
+Menyokong monitor berganda yang terdiri daripada apa-apa nisbah aspek dan resolusi.
+Dengan main semula video dipercepatkan oleh perkakasan komputer (hardware-accelerated playback) yang dikuasakan oleh pemain MPV, anda boleh mengesetkan sebarang video sebagai wallpaper.
+Dikuasakan oleh Chromium Embedded Framework (CEF), justeru anda juga boleh mengesetkan sebarang laman web sebagai wallpaper.
+Menggunakan Lively Audio API untuk mereka wallpaper yang berinteraksi dengan audio sistem anda.
+Menggunakan Lively System API untuk mereka widget yang memaparkan informasi system anda.
+Menyokong strim video atas talian dan pautan Shadertoy.com.
+Sumber terbuka secara lengkap dan percuma, tiada ciri-ciri yang dilindungi skim bayaran.
+Menyokong tema terang dan gelap.
