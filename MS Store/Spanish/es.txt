@@ -1,0 +1,17 @@
+Descripción: 
+Aplicación gratis y de código abierto para aplicar GIFs, Videos y páginas web como tu fondo de escritorio.
+Usando el motor del Explorador Chromium y reproductores de MPV, tus fondos de pantalla tendrán el soporte de las últimas tecnologías web y estándares de video.
+
+Este es un Proyecto de código abierto y la participación de la comunidad es bienvenida. Para participar por favor visita
+https://github.com/rocksdanister/lively
+
+Features:
+El fondo de pantallas es pausado (0% recursos usados) cuando jugando/trabajando.
+Soporta múltiple pantallas de cualquier tamaño y resolución.
+Asigna cualquier video como tu fondo de pantalla, reproducción de video acelerado por hardware usando el reproductor MPV.
+Asigna cualquier página web como tu fondo de pantalla, gracias a CEF (Chromium Embedded Framework).
+Usa Lively Audio API para hacer que tus fondos reaccionen al audio del Sistema.
+Usa Lively System API para crear widgets que muestran información del sistema.
+Soporte para reproducción de videos en vivo y enlaces a Shadertoy.com.
+Completamente abierto y gratis, ninguna característica es pagada.
+Soporta modo Oscuro o Claro.
