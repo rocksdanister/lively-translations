@@ -462,7 +462,7 @@ Daha önce çalışan duvar kağıdını geri yüklemek ister misiniz?</value>
     <value>Tam ekran uygulamalar çalışırken davranışı seçin.</value>
   </data>
   <data name="TipAppRules" xml:space="preserve">
-    <value>Çalışan uygulamalar için değişik özel kurallar belirleyin.</value>
+    <value>Çalışan uygulamalar için özel kurallar belirleyin.</value>
   </data>
   <data name="TipAppTheme" xml:space="preserve">
     <value>Lively sistem temasına adapte olur, değiştirmek için</value>
