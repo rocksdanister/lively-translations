@@ -200,7 +200,7 @@ Daha önce çalışan duvar kağıdını geri yüklemek ister misiniz?</value>
     <value>Görünüşe göre Lively çalışmak için bazı ayarlara ihtiyaç duyuyor:  
 1. Win + R tuşlarına birlikte basarak Çalıştır'ı açın
 2. SystemPropertiesPerformance.exe yazın ve çalıştırın.
-3. "Animate controls and elements inside windows" yazılı düğmeyi işaretleyin &amp; Tamam.
+3. "Denetim ve öğe animasyonlarını pencere içinde göster" yazılı düğmeyi işaretleyin &amp; Tamam.
 4. Uygula ve Tamam diyerek pencereyi kapatın.</value>
   </data>
   <data name="TextAdd" xml:space="preserve">
