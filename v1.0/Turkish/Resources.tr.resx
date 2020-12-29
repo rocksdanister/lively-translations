@@ -737,12 +737,12 @@ Edge ise windows 10 için geçerli web gösterim motorudur.</value>
     <comment>Lively'nin farklı bir sürümü için, örnek: Microsoft Store</comment>
   </data> 
   <data name="DescriptionWindowsNCodecInstall" xml:space="preserve">
-    <value>Your Windows N/KN version will require the download of additional codecs to support video playback in wallpapers.</value>
+    <value>Windows N/KN versiyonunuzda video duvar kağıtlarının oynatılabilmesi için ek çözümleyicilerin indirilmesi gerekiyor.</value>
   </data>
   <data name="TextLicense" xml:space="preserve">
-    <value>License</value>
+    <value>Lisans</value>
   </data>
   <data name="TextPrivacyPolicy" xml:space="preserve">
-    <value>Privacy Policy</value>
+    <value>Gizlilik Politikası</value>
   </data> 
 </root>
