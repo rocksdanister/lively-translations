@@ -750,6 +750,6 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Polityka Prywatności</value>
   </data>
   <data name="TitleAudioDesktopOnly" xml:space="preserve">
-    <value>Play audio only when desktop is focused</value>
+    <value>Odtwarzaj dźwięk tylko jeśli pulpit ma fokus</value>
   </data>
 </root>
