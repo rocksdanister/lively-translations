@@ -750,4 +750,7 @@ Edge ialah Webview sedia ada bagi Windows 10.</value>
   <data name="TextPrivacyPolicy" xml:space="preserve">
     <value>Polisi Privasi</value>
   </data>
+  <data name="TitleAudioDesktopOnly" xml:space="preserve">
+    <value>Hanya main audio jika desktop di dalam fokus</value>
+  </data>
 </root>
