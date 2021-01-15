@@ -416,7 +416,7 @@ Tous les écrans : Suspendre la lecture sur tous les écrans si une application 
 Lively continuera à fonctionner même avec l'icône masquée.</value>
   </data>
   <data name="TipLanguage" xml:space="preserve">
-    <value>Lively doir redémarrer pour appliquer la nouvelle langue.</value>
+    <value>Lively doit redémarrer pour appliquer la nouvelle langue.</value>
   </data>
   <data name="TipLivelySetupOnClose" xml:space="preserve">
     <value>Terminez la configuration pour continuer.</value>
