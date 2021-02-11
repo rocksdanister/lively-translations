@@ -1,0 +1,17 @@
+Description:
+Free and open-source application for setting GIFs, Videos and WebPages as your desktop wallpaper.
+Powered by Chromium browser and MPV player, your wallpapers supports the latest web technologies and video standards.
+
+This is an open source project and community participation is welcome. To participate please visit
+https://github.com/rocksdanister/lively
+
+Features:
+Wallpaper playback is paused (0% resource usage) when running games/work.
+Supports multiple displays of any aspect ratio and resolution.
+Hardware accelerated video playback powered by mpv player, set any video as wallpaper.
+Powered by Chromium Embedded Framework (CEF), set any website as wallpaper.
+Use Lively Audio API make wallpapers that react to system audio.
+Use Lively System API to make widgets that show system information.
+Supports online video streams and Shadertoy.com links.
+Fully opensource and free, no features behind paywall.
+Supports Dark and Light theme.

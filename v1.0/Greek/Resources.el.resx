@@ -217,7 +217,7 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Εφαρμογή</value>
   </data>
   <data name="TextAttribution" xml:space="preserve">
-    <value>Απόδοση</value>
+    <value>Περί</value>
   </data>
   <data name="TextAuthor" xml:space="preserve">
     <value>Συντάκτης</value>
@@ -400,7 +400,7 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Μεγάλο</value>
   </data>
   <data name="TextTileSizeNormal" xml:space="preserve">
-    <value>Νορμάλ</value>
+    <value>Κανονικό</value>
   </data>
   <data name="TextTileSizeSmall" xml:space="preserve">
     <value>Μικρό</value>
@@ -415,7 +415,7 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Ελαφρύ</value>
   </data>
   <data name="TextUINormal" xml:space="preserve">
-    <value>Νορμάλ</value>
+    <value>Κανονικό</value>
   </data>
   <data name="TextUnsupportedFile" xml:space="preserve">
     <value>Η μορφή αρχείου δεν υποστηρίζεται</value>
@@ -739,5 +739,17 @@ https://github.com/rocksdanister/lively/wiki</value>
   </data>
   <data name="TitleWindowsStartup" xml:space="preserve">
     <value>Εκκίνηση με τα Windows</value>
+  </data>
+  <data name="DescriptionWindowsNCodecInstall" xml:space="preserve">
+    <value>Η έκδοση των Windows N/KN θα απαιτήσει τη λήψη πρόσθετων κωδικοποιητών για την υποστήριξη της αναπαραγωγής βίντεο σε ταπετσαρίες.</value>
+  </data>
+  <data name="TextLicense" xml:space="preserve">
+    <value>Άδεια</value>
+  </data>
+  <data name="TextPrivacyPolicy" xml:space="preserve">
+    <value>Πολιτική Απορρήτου</value>
+  </data>
+  <data name="TitleAudioDesktopOnly" xml:space="preserve">
+    <value>Αναπαραγωγή ήχου μόνο όταν η επιφάνεια εργασίας είναι εστιασμένη</value>
   </data>
 </root>

@@ -1,0 +1,17 @@
+Açıklama:
+GIF, Video ve Web sayfalarını duvar kağıdı olarak kullanmak için geliştirilen ücretsiz ve açık kaynaklı uygulama.
+Chromium tarayıcısı ve MPV oynatıcısı kullanılarak tasarlanan bu uygulama ile en yeni standartlardaki video ve web sayfalarını duvar kağıdı olarak kullanabilirsiniz.
+
+Bu proje açık kaynaklıdır ve her türlü katkı minnetle karşılanır. Katkıda bulunmak için:
+https://github.com/rocksdanister/lively
+
+Özellikler:
+Duvar kağıdı oynatılması, oyun oynarken veya başka bir işle ilgilenilirken duraklatılır. (Arkaplanda %0 kaynak kullanımı)
+Birden fazla ekranı ve tüm ekran çözünürlüklerini destekler.
+MPV Oynatıcı ile donanım destekli video oynatıcı, istediğiniz videoyu duvar kağıdı olarak kullanabilirsiniz.
+Chromium Embedded Framework (CEF) ile istediğiniz web sayfasını duvar kağıdı olarak kullanabilirsiniz
+Lively Audio API kullanarak sistem sesine duyarlı duvar kağıtları oluşturabilirsiniz.
+Lively System API kullanarak sistem durumunu gösteren widgetler oluşturabilirsiniz.
+Canlı yayınları ve Shadertoy.com linklerini destekler.
+Tamamen açık kaynaklı ve ücretsiz, hiçbir özellik ödeme gerektirmez.
+Açık ve Koyu tema özelliği.

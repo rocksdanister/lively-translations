@@ -164,6 +164,9 @@ Only continue if this application comes from a trusted source.</value>
   <data name="DescriptionWelcomeWizard" xml:space="preserve">
     <value>This wizard will get you started on setting up Lively.</value>
   </data>
+  <data name="DescriptionWindowsNCodecInstall" xml:space="preserve">
+    <value>Your Windows N/KN version will require the download of additional codecs to support video playback in wallpapers.</value>
+  </data>
   <data name="LivelyExceptionAppUpdateFail" xml:space="preserve">
     <value>Failed to update; try downloading the installer from:
 https://github.com/rocksdanister/lively/releases</value>
@@ -300,6 +303,9 @@ If still not working, close &amp; start Lively again/restart windows.
   <data name="TextKeyboard" xml:space="preserve">
     <value>Keyboard</value>
   </data>
+  <data name="TextLicense" xml:space="preserve">
+    <value>License</value>
+  </data>
   <data name="TextmoreInfo" xml:space="preserve">
     <value>Information</value>
   </data>
@@ -356,6 +362,9 @@ If still not working, close &amp; start Lively again/restart windows.
   </data>
   <data name="TextPreviewWallpaper" xml:space="preserve">
     <value>Preview Wallpaper</value>
+  </data>
+  <data name="TextPrivacyPolicy" xml:space="preserve">
+    <value>Privacy Policy</value>
   </data>
   <data name="TextProcessingWallpaper" xml:space="preserve">
     <value>Processing</value>
@@ -591,6 +600,9 @@ Edge is the built in webview of windows 10.</value>
   </data>
   <data name="TitleAudio" xml:space="preserve">
     <value>Audio</value>
+  </data>
+  <data name="TitleAudioDesktopOnly" xml:space="preserve">
+    <value>Play audio only when desktop is focused</value>
   </data>
   <data name="TitleAudioMaster" xml:space="preserve">
     <value>Master Volume</value>
