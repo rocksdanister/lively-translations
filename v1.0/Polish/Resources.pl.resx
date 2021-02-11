@@ -740,4 +740,16 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Sklep</value>
     <comment>Do różnych wersji Lively, przykład: Microsoft Store</comment>
   </data>
+  <data name="DescriptionWindowsNCodecInstall" xml:space="preserve">
+    <value>Twój Windows w wersji N/KN wymaga pobrania dodatkowych kodeków aby móc odtwarzać video w tapetach.</value>
+  </data>
+  <data name="TextLicense" xml:space="preserve">
+    <value>Licencja</value>
+  </data>
+  <data name="TextPrivacyPolicy" xml:space="preserve">
+    <value>Polityka Prywatności</value>
+  </data>
+  <data name="TitleAudioDesktopOnly" xml:space="preserve">
+    <value>Odtwarzaj dźwięk tylko jeśli pulpit ma fokus</value>
+  </data>
 </root>
