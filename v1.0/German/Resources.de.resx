@@ -308,7 +308,7 @@ Wenn es immer noch nicht funktioniert, schließen  &amp; starte Lively neu oder 
     <value>Als Hintergrund festlegen</value>
   </data>
   <data name="TextShowOnDisk" xml:space="preserve">
-    <value>Auf Festplatte anzeiegen</value>
+    <value>Auf Festplatte anzeigen</value>
   </data>
   <data name="TextSource" xml:space="preserve">
     <value>Quelle</value>
