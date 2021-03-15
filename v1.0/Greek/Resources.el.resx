@@ -752,4 +752,19 @@ https://github.com/rocksdanister/lively/wiki</value>
   <data name="TitleAudioDesktopOnly" xml:space="preserve">
     <value>Αναπαραγωγή ήχου μόνο όταν η επιφάνεια εργασίας είναι εστιασμένη</value>
   </data>
+  <data name="TipExportLogs" xml:space="preserve">
+    <value>Δημιουργία αρχείου αναφοράς καταγραφής.</value>
+  </data>
+  <data name="TitleExportLogs" xml:space="preserve">
+    <value>Αρχείο καταγραφής</value>
+  </data>
+  <data name="TitleReportBug" xml:space="preserve">
+    <value>Αναφορά προβλήματος</value>
+  </data>
+  <data name="TitleVideoHardwareDecode" xml:space="preserve">
+    <value>Αποκωδικοποίηση GPU</value>
+  </data>
+  <data name="TipVideoHardwareDecode" xml:space="preserve">
+    <value>Χρησιμοποιήστε την επιτάχυνση υλικού όταν είναι δυνατόν.</value>
+  </data>
 </root>
