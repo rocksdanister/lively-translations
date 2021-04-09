@@ -765,7 +765,6 @@ Edge는 Windows 10의 내장 웹뷰입니다.</value>
     <value>GPU 디코딩</value>
   </data>
   <data name="TipVideoHardwareDecode" xml:space="preserve">
-    <value>하드웨어 가속 가능 시 사용하기
-</value>
+    <value>하드웨어 가속 가능 시 사용하기</value>
   </data>
 </root>
