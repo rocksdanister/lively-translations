@@ -767,4 +767,19 @@ https://github.com/rocksdanister/lively/wiki</value>
   <data name="TipVideoHardwareDecode" xml:space="preserve">
     <value>Χρησιμοποιήστε την επιτάχυνση υλικού όταν είναι δυνατόν.</value>
   </data>
+  <data name="DescriptionPleaseStop" xml:space="preserve">
+  <value>Παρακαλούμε να σταματήσετε πριν συνεχίσετε παρακάτω.</value>
+</data>
+<data name="TextEditWallpaper" xml:space="preserve">
+  <value>Επεξεργασία</value>
+</data>
+<data name="TitleLocation" xml:space="preserve">
+  <value>Τοποθεσία</value>
+</data>
+<data name="TitleSkipConfirm" xml:space="preserve">
+  <value>Παράλειψη Επιβεβαίωσης</value>
+</data>
+<data name="TextWallpaperCommandlineArgs" xml:space="preserve">
+  <value>Εισαγάγετε προαιρετικά ορίσματα γραμμής εντολών</value>
+</data>
 </root>
