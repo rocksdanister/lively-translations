@@ -284,10 +284,10 @@ Jeśli ciągle nie działa,  uruchom ponownie Lively / system Windows.
     <value>Wstrzymaj tapety</value>
   </data>
   <data name="TextPerformanceKill" xml:space="preserve">
-    <value>Zabij</value>
+    <value>Wyłącz</value>
   </data>
   <data name="TextPerformanceNone" xml:space="preserve">
-    <value>Nic</value>
+    <value>Bez zmiany</value>
   </data>
   <data name="TextPerformancePause" xml:space="preserve">
     <value>Pauza</value>
@@ -389,10 +389,10 @@ Jeśli ciągle nie działa,  uruchom ponownie Lively / system Windows.
     <value>Ustaw strone internetową z powyższego adresu jako tapeta.</value>
   </data>
   <data name="TipAppFocus" xml:space="preserve">
-    <value>Ustaw co robić kiedy aplikacja ma skupienie.</value>
+    <value>Zachowanie, gdy inna aplikacja jest na pierwszym planie.</value>
   </data>
   <data name="TipAppFullScreen" xml:space="preserve">
-    <value>Ustaw co robić kiedy  uruchomione są aplikacja/gry pełoekranowe.</value>
+    <value>Zachowanie, gdy uruchomione są aplikacje/gry pełoekranowe.</value>
   </data>
   <data name="TipAppRules" xml:space="preserve">
     <value>Ustaw rożne reguły odtwarzania dla uruchomionych aplikacji.</value>
@@ -401,15 +401,15 @@ Jeśli ciągle nie działa,  uruchom ponownie Lively / system Windows.
     <value>Lively dostosuje się do kompozycji systemu, aby zmienić wygląd przejdź do</value>
   </data>
   <data name="TipBatteryPower" xml:space="preserve">
-    <value>(Tylko dla systemów pracujących na baterii) Zmień odtwarzanie kiedy odłączono źródło zasilania.</value>
+    <value>(Tylko dla systemów działających na baterii) Zachowanie przy odłączonym źródle zasilania.</value>
   </data>
   <data name="TipBrowserDebuggingPort" xml:space="preserve">
     <value>Wprowadź port dla debugowania tapet internetowych, aby zastosować zmiany wymagane jest ponowne uruchomienie przeglądarki.
 Następnie przejdź pod adres http://localhost:numerportu aby uzyskać dostęp do konsoli dewelopera.</value>
   </data>
   <data name="TipDisplayPauseRule" xml:space="preserve">
-    <value>Jeden: Zatrzymaj tapetę tylko na ekranie z aplikacją w trybie skupienia/pełnego ekranu.
-Wszystkie: Zatrzymaj tapetę na wszystkich ekranach jeśli jakakolwiek aplikacja ma skupienie.</value>
+    <value>Jeden: Zatrzymaj tapetę tylko na ekranie na którym inna aplikacja jest na pierwszym planie lub w trybie pełnoekranowym.
+Wszystkie: Zatrzymaj tapetę na wszystkich ekranach jeśli jakakolwiek aplikacja jest na pierwszym planie lub w trybie pełnoekranowym.</value>
   </data>
   <data name="TipHideSysTray" xml:space="preserve">
     <value>Widoczność ikony zasobnika systemowego, ikona będzie ukryta podczas pracy lively.</value>
@@ -421,8 +421,8 @@ Wszystkie: Zatrzymaj tapetę na wszystkich ekranach jeśli jakakolwiek aplikacja
     <value>Zakończ ustawianie aby kontunuować.</value>
   </data>
   <data name="TipPauseAlgorithm" xml:space="preserve">
-    <value>Tło: Lekkie obciążenie, sprawdza tylko pojedyńczy proces znajdujący się w tle aby określić sposób odtwarzania tapety.
-Wszystkie procesy: Cięższy, skanuje wszystkie procesy aby określić sposób odtwarzania.</value>
+    <value>Tło: Niewielkie obciążenie procesora, sprawdza tylko pojedyńczy proces znajdujący się na pierwszym planie, aby określić sposób odtwarzania tapety.
+Wszystkie procesy: Większe obciążenie procesora, skanuje wszystkie procesy aby określić sposób odtwarzania tapety.</value>
   </data>
   <data name="TipStreamWallpaperDetect" xml:space="preserve">
     <value>Jeśli wykryto obsługiwany strumień wideo zamiast ładować stronę internetową użyj odtwarzacza.</value>
@@ -465,10 +465,10 @@ Edge jest przeglądarką wbudowaną w windows 10.</value>
     <value>Dodaj</value>
   </data>
   <data name="TitleAppFocus" xml:space="preserve">
-    <value>Inne aplikacje aktywne</value>
+    <value>Inne aktywne aplikacje</value>
   </data>
   <data name="TitleAppFullScreen" xml:space="preserve">
-    <value>Inne aplikacje pełny ekran</value>
+    <value>Inne aplikacje pełnoekranowe</value>
   </data>
   <data name="TitleAppName" xml:space="preserve">
     <value>Tapeta Lively</value>
@@ -486,7 +486,7 @@ Edge jest przeglądarką wbudowaną w windows 10.</value>
     <value>Odtwarzaj dźwięk na ekranie</value>
   </data>
   <data name="TitleBatteryPower" xml:space="preserve">
-    <value>Jeśli na zasilaniu bateryjnym</value>
+    <value>Zasilanie bateryjne</value>
   </data>
   <data name="TitleBrowseFile" xml:space="preserve">
     <value>Przeglądaj pliki wideo, gif, stron internetowych do ustawienia jako tapeta</value>
@@ -498,7 +498,7 @@ Edge jest przeglądarką wbudowaną w windows 10.</value>
     <value>Potwierdź usunięcie</value>
   </data>
   <data name="TitleDisplayPauseRule" xml:space="preserve">
-    <value>Wyświetl reguły wstrzymania</value>
+    <value>Stosowanie reguł wstrzymania</value>
   </data>
   <data name="TitleEnterUrl" xml:space="preserve">
     <value>Wprowadź URL</value>
@@ -531,7 +531,7 @@ Edge jest przeglądarką wbudowaną w windows 10.</value>
     <value>Wycisz</value>
   </data>
   <data name="TitlePauseAlgo" xml:space="preserve">
-    <value>Algorytm wstrzymania</value>
+    <value>Algorytm pauzowania</value>
   </data>
   <data name="TitlePerformance" xml:space="preserve">
     <value>Wydajność</value>
