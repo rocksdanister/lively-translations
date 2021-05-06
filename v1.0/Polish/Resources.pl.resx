@@ -260,7 +260,7 @@ Jeśli ciągle nie działa,  uruchom ponownie Lively / system Windows.
     <value>Więcej tapet...</value>
   </data>
   <data name="TextMouseInteractOnDesktop" xml:space="preserve">
-    <value>Zachowanie myszy kiedy aplikacja ma skupienie</value>
+    <value>Przechwytywanie myszy w trakcie korzystania z innej aplikacji</value>
   </data>
   <data name="TextNext" xml:space="preserve">
     <value>Next</value>
@@ -443,7 +443,7 @@ Wszystkie procesy: Większe obciążenie procesora, skanuje wszystkie procesy ab
     <value>Ścieżka przechowywania plików tapety.</value>
   </data>
   <data name="TipWallpaperInput" xml:space="preserve">
-    <value>Wybierz sposoby interakcji z tapetą.</value>
+    <value>Wybierz sposób interakcji z tapetą.</value>
   </data>
   <data name="TipWallpaperPlayback" xml:space="preserve">
     <value>Zatrzymaj tapetę kiedy pulpiy nie posiada skupienia.</value>
@@ -579,7 +579,7 @@ Edge jest przeglądarką wbudowaną w windows 10.</value>
     <value>Folder tapet</value>
   </data>
   <data name="TitleWallpaperInput" xml:space="preserve">
-    <value>Dane wejściowe tapety</value>
+    <value>Kontrolowanie tapety</value>
   </data>
   <data name="TitleWallpaperLayout" xml:space="preserve">
     <value>Wybierz układ tapety</value>
@@ -665,19 +665,19 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Głośność główna</value>
   </data>
   <data name="TextWallpaperFitFill" xml:space="preserve">
-    <value>Wypełnij</value>
+    <value>Rozciągnij</value>
   </data>
   <data name="TextWallpaperFitNone" xml:space="preserve">
     <value>Bez dopasowania</value>
   </data>
   <data name="TextWallpaperFitUniform" xml:space="preserve">
-    <value>Równomierne</value>
+    <value>Rozszerz</value>
   </data>
   <data name="TextWallpaperFitUniformToFill" xml:space="preserve">
-    <value>Wypełnij równomiernie</value>
+    <value>Wypełnij</value>
   </data>
   <data name="TipWallpaperFit" xml:space="preserve">
-    <value>Algorytm skalowania tapety.</value>
+    <value>Wybierz dopasowanie.</value>
   </data>
   <data name="TitleWallpaperFit" xml:space="preserve">
     <value>Wybierz dopasowanie</value>
@@ -762,7 +762,7 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Zgłoś błąd</value>
   </data>
   <data name="TitleVideoHardwareDecode" xml:space="preserve">
-    <value>GPU dekodowania</value>
+    <value>Dekodowanie przy pomocy GPU</value>
   </data>
   <data name="TipVideoHardwareDecode" xml:space="preserve">
     <value>Jeśli możliwe użyj przyśpieszenia sprzętowego.</value>
