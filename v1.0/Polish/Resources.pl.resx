@@ -197,7 +197,7 @@ Jeśli ciągle nie działa,  uruchom ponownie Lively / system Windows.
     <value>Aplikacja</value>
   </data>
   <data name="TextAttribution" xml:space="preserve">
-    <value>Przypisanie</value>
+    <value>Kontrybucje</value>
   </data>
   <data name="TextAuthor" xml:space="preserve">
     <value>Autor:</value>
@@ -386,7 +386,7 @@ Jeśli ciągle nie działa,  uruchom ponownie Lively / system Windows.
     <value>Ustaw wszystkie obsługiwane typy plików dla tapety.</value>
   </data>
   <data name="TipAddWallpaperURL" xml:space="preserve">
-    <value>Ustaw strone internetową z powyższego adresu jako tapeta.</value>
+    <value>Ustaw stronę internetową z powyższego adresu jako tapetę.</value>
   </data>
   <data name="TipAppFocus" xml:space="preserve">
     <value>Zachowanie, gdy inna aplikacja jest na pierwszym planie.</value>
