@@ -431,7 +431,7 @@ Wszystkie procesy: Większe obciążenie procesora, skanuje wszystkie procesy ab
     <value>Wybierz żądaną jakość wideo dla strumieniowania online.</value>
   </data>
   <data name="TipTileSize" xml:space="preserve">
-    <value>Rozmiar kafli tapety w Bibliotece.</value>
+    <value>Rozmiar kafli w Bibliotece.</value>
   </data>
   <data name="TipUIMode" xml:space="preserve">
     <value>Dla słabszych systemów wybierz tryb Uproszczony.</value>
@@ -456,7 +456,7 @@ Wszystkie procesy: Większe obciążenie procesora, skanuje wszystkie procesy ab
 Edge jest przeglądarką wbudowaną w windows 10.</value>
   </data>
   <data name="TipWindowsStartup" xml:space="preserve">
-    <value> Aby odtwarzać tapety Lively musi być uruchomiony w tle.</value>
+    <value> Lively musi być uruchomiony w tle, aby móc odtwarzać tapety.</value>
   </data>
   <data name="TitleAbout" xml:space="preserve">
     <value>O programie</value>
@@ -516,7 +516,7 @@ Edge jest przeglądarką wbudowaną w windows 10.</value>
     <value>Interakcja</value>
   </data>
   <data name="TitleLanguage" xml:space="preserve">
-    <value>Wymaga ponownego uruchomienia</value>
+    <value>Wybór języka</value>
   </data>
   <data name="TitleLibrary" xml:space="preserve">
     <value>Biblioteka</value>
