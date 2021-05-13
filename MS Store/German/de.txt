@@ -1,0 +1,17 @@
+Beschreibung:
+Kostenlose und quelloffene Anwendung um GIFs, Videos und Webseiten als Desktophintergrund festzulegen.
+Angetrieben durch den Chromium-Browser und MPV player, unterstützen Ihre Hintergründe die aktuellsten Web-Technologien und Videostandards.
+
+Dies ist ein Open-Source-Projekt und das Beitragen der Community ist sehr willkommen. Um sich zu beteiligen, besuchen Sie
+https://github.com/rocksdanister/lively
+
+Funktionen:
+Wiedergabe von Hintergründen wird beim Ausführen von Spielen/Anwendung angehalten (0% Ressourcenverbrauch).
+Unterstützt mehrere Bildschirme unterschiedlicher Seitenverhältnisse und Auflösungen.
+Hardwarebeschleunigte Wiedergabe von Videos durch mpv player, um jedes Video als Hintergrund festzulegen.
+Angetrieben vom Chromium Embedded Framework (CEF), um jede Webseite als Hintergrund festzulegen.
+Lively Audio API verwenden, um Hintergründe zu erstellen die auf die Audioausgabe des Systems reagieren.
+Lively System API verwenden, um Widgets zur Anzeige von Systeminformtionen zu erstellen.
+Unterstützt Links für Online-Videostreams und Shadertoy.com.
+Vollständig quelloffen und kostenlos. Keine kostenpflichtigen Funktionen.
+Unterstützt dunkle und helle Themen.
