@@ -573,7 +573,7 @@ Edge ialah Webview sedia ada bagi Windows 10.</value>
     <value>Setup Lively</value>
   </data>
   <data name="TitleMisc" xml:space="preserve">
-    <value>Pelbagai</value>
+    <value>Lain-lain</value>
   </data>
   <data name="TitleMute" xml:space="preserve">
     <value>Senyap</value>
@@ -787,7 +787,7 @@ Edge ialah Webview sedia ada bagi Windows 10.</value>
     <value>Letakkan bintang di Lively jika anda menyukai program ini</value>
   </data>
   <data name="DescIncompatibleTaskbarTheme" xml:space="preserve">
-    <value>Tema taskbar dinyahaktifkan kerana program yang tidak serasi dijumpai.</value>
+    <value>Tema taskbar dinyahaktifkan kerana terjumpa program yang tidak serasi.</value>
   </data>
   <data name="TitleTaskbarTheme" xml:space="preserve">
     <value>Tema Taskbar</value>
@@ -808,10 +808,10 @@ Edge ialah Webview sedia ada bagi Windows 10.</value>
     <value>Ubah penampilan taskbar sistem.</value>
   </data>
   <data name="TextTaskbarThemeBlur" xml:space="preserve">
-    <value>Kaburkan</value>
+    <value>Kabur</value>
   </data>
   <data name="TextTaskbarThemeClear" xml:space="preserve">
-    <value>Kosongkan</value>
+    <value>Jelas</value>
   </data>
   <data name="TextTaskbarThemeColor" xml:space="preserve">
     <value>Warna</value>
