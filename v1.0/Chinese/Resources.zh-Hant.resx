@@ -650,7 +650,7 @@ Edge 是 Windows 10 的內建網頁渲染器。</value>
     <value>音訊</value>
   </data>
   <data name="TitleAudioDesktopOnly" xml:space="preserve">
-    <value>僅在桌面為焦點時播放音訊/value>
+    <value>僅在桌面為焦點時播放音訊</value>
   </data>
   <data name="TitleAudioMaster" xml:space="preserve">
     <value>主音量</value>
