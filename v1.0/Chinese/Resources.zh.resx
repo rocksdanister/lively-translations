@@ -727,7 +727,7 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Gif播放器</value>
   </data>
   <data name="TipGifPlayer" xml:space="preserve">
-    <value>Select the player used for gif wallpaper.</value>
+    <value>选择GIF使用的图片播放器</value>
   </data>
   <data name="TextFeatureMissing" xml:space="preserve">
     <value>此版本不提供某些功能。</value>
