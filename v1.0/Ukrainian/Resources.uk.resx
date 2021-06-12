@@ -118,19 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DescriptionAddWallpaper" xml:space="preserve">
-    <value>Select a file or specify a website url to set as a wallpaper.</value>
+    <value>Виберіть файл або вкажіть URL-адресу веб-сайту, який потрібно встановити як шпалери.</value>
   </data>
   <data name="DescriptionAppRules" xml:space="preserve">
     <value>Встановіть поведінку відтворення шпалер на основі запущеної програми</value>
   </data>
   <data name="DescriptionCancelQuestion" xml:space="preserve">
-    <value>Are you sure you want to cancel?</value>
+    <value>Ви впевнені, що хочете скасувати?</value>
   </data>
   <data name="DescriptionDeleteConfirmation" xml:space="preserve">
     <value>Ви справді бажаєте остаточно видалити шпалери з диску?</value>
   </data>
   <data name="DescriptionDragDropFIle" xml:space="preserve">
-    <value>Simply drag and drop files into Library.</value>
+    <value>Просто перетягніть файли в бібліотеку.</value>
   </data>
   <data name="DescriptionExternalAppWarning" xml:space="preserve">
     <value>Ви відкриваєте зовнішню програму як шпалери.
@@ -141,7 +141,7 @@
     <value>Я згорнувся до системного трею, натисніть правою кнопкою миші на значок lively для додаткових опцій.</value>
   </data>
   <data name="DescriptionRecordStart" xml:space="preserve">
-    <value>Press to begin recording.</value>
+    <value>Натисніть, щоб розпочати запис.</value>
   </data>
   <data name="DescriptionRestoringWallpaper" xml:space="preserve">
     <value>Відновлення попередніх шпалерів..</value>
@@ -153,7 +153,7 @@
     <value>Введіть посилання на сторінку, підтримуються посилання Shadertoy.com</value>
   </data>
   <data name="DescriptionWelcomeWizard" xml:space="preserve">
-    <value>This wizard will get you started on setting up Lively.</value>
+    <value>Цей майстер допоможе вам розпочати налаштування Lively.</value>
   </data>
   <data name="LivelyExceptionAppUpdateFail" xml:space="preserve">
     <value>Помилка оновлення. Спробуйте завантажити інсталятор з</value>
@@ -162,9 +162,9 @@
     <value>Файл шпалерів пошкоджено, спробуйте завантажити заново.</value>
   </data>
   <data name="LivelyExceptionGeneral" xml:space="preserve">
-    <value>Oops... Looks like something wen't wrong :(
-In order to better understand this error and fix the issue, share the log file with the developer.
-Instructions for sharing log file:
+    <value>Упс... Схоже, щось не так :(
+Щоб краще зрозуміти цю помилку та виправити проблему, надайте файл журналу розробнику.
+Інструкції щодо надсилання файлу журналу:
 https://github.com/rocksdanister/lively/wiki</value>
   </data>
   <data name="LivelyExceptionHighContrastMode" xml:space="preserve">
@@ -172,7 +172,7 @@ https://github.com/rocksdanister/lively/wiki</value>
 Вимкніть режим високої контрастності і спробуйте знову.</value>
   </data>
   <data name="LivelyExceptionNotLivelyZip" xml:space="preserve">
-    <value>Not Lively wallpaper file.</value>
+    <value>Непідтримуваний файл шпалер.</value>
   </data>
   <data name="LivelyExceptionSafeModeStart" xml:space="preserve">
     <value>Доступна нова версія!</value>
@@ -197,28 +197,28 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Додаток</value>
   </data>
   <data name="TextAttribution" xml:space="preserve">
-    <value>Attribution</value>
+    <value>Атрибути</value>
   </data>
   <data name="TextAuthor" xml:space="preserve">
     <value>Автор</value>
   </data>
   <data name="TextBack" xml:space="preserve">
-    <value>Back</value>
+    <value>Назад</value>
   </data>
   <data name="TextBrowse" xml:space="preserve">
-    <value>Browse</value>
+    <value>Огляд</value>
   </data>
   <data name="TextCloseWallpapers" xml:space="preserve">
     <value>Закрити шпалери</value>
   </data>
   <data name="TextCompleted" xml:space="preserve">
-    <value>Completed!</value>
+    <value>Готово!</value>
   </data>
   <data name="TextConvertVideo" xml:space="preserve">
-    <value>Convert to Video</value>
+    <value>Перетворення в відео</value>
   </data>
   <data name="TextCustomiseWallpaper" xml:space="preserve">
-    <value>Customise Wallpaper</value>
+    <value>Налаштувати шпалер</value>
   </data>
   <data name="TextDeleteWallpaper" xml:space="preserve">
     <value>Видалити шпалери</value>
@@ -230,7 +230,7 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Певний екран</value>
   </data>
   <data name="TextDownload" xml:space="preserve">
-    <value>Download</value>
+    <value>Завантажити</value>
   </data>
   <data name="TextError" xml:space="preserve">
     <value>Помилка</value>
@@ -242,34 +242,34 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Експортувати lively .zip</value>
   </data>
   <data name="TextGIF" xml:space="preserve">
-    <value>Animated GIF</value>
+    <value>GIF-анімація</value>
   </data>
   <data name="TextGo" xml:space="preserve">
-    <value>GO</value>
+    <value>Добавити</value>
   </data>
   <data name="TextHelpTranslate" xml:space="preserve">
-    <value>Help translate Lively.</value>
+    <value>Допожіть з перекладом Lively.</value>
   </data>
   <data name="TextInstall" xml:space="preserve">
     <value>Встановити</value>
   </data>
   <data name="TextmoreInfo" xml:space="preserve">
-    <value>Information</value>
+    <value>Інформація</value>
   </data>
   <data name="TextMoreWallpapers" xml:space="preserve">
     <value>Більше шпалер...</value>
   </data>
   <data name="TextMouseInteractOnDesktop" xml:space="preserve">
-    <value>Mouse interaction when application focused</value>
+    <value>Миша взаємодіє з шпалерами, коли на передньому плані відкрито додаток</value>
   </data>
   <data name="TextNext" xml:space="preserve">
-    <value>Next</value>
+    <value>Далі</value>
   </data>
   <data name="TextNo" xml:space="preserve">
-    <value>No</value>
+    <value>Ні</value>
   </data>
   <data name="TextOnline" xml:space="preserve">
-    <value>Online</value>
+    <value>Онлайн</value>
   </data>
   <data name="TextOpenLively" xml:space="preserve">
     <value>Відкрити Lively</value>
@@ -281,16 +281,16 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Процес переднього плану</value>
   </data>
   <data name="TextPauseWallpapers" xml:space="preserve">
-    <value>Pause Wallpapers</value>
+    <value>Призупинити шпалери</value>
   </data>
   <data name="TextPerformanceKill" xml:space="preserve">
-    <value>Kill</value>
+    <value>Вбити</value>
   </data>
   <data name="TextPerformanceNone" xml:space="preserve">
-    <value>Nothing</value>
+    <value>Нічого</value>
   </data>
   <data name="TextPerformancePause" xml:space="preserve">
-    <value>Pause</value>
+    <value>Пауза</value>
   </data>
   <data name="TextRemove" xml:space="preserve">
     <value>Видалити</value>
@@ -299,10 +299,10 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Правило</value>
   </data>
   <data name="TextScreen" xml:space="preserve">
-    <value>Screen</value>
+    <value>Екран</value>
   </data>
   <data name="TextSearch" xml:space="preserve">
-    <value>Search</value>
+    <value>Пошук</value>
   </data>
   <data name="TextSetWallpaper" xml:space="preserve">
     <value>Встановити як шпалери</value>
@@ -311,43 +311,43 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Показати на диску</value>
   </data>
   <data name="TextSource" xml:space="preserve">
-    <value>Source</value>
+    <value>Джерело</value>
   </data>
   <data name="TextStart" xml:space="preserve">
-    <value>Start</value>
+    <value>Старт</value>
   </data>
   <data name="TextStop" xml:space="preserve">
-    <value>Stop</value>
+    <value>Стоп</value>
   </data>
   <data name="TextTags" xml:space="preserve">
-    <value>Tags</value>
+    <value>Теги</value>
   </data>
   <data name="TextTileSizeLarge" xml:space="preserve">
-    <value>Large</value>
+    <value>Великі</value>
   </data>
   <data name="TextTileSizeNormal" xml:space="preserve">
-    <value>Normal</value>
+    <value>Нормальні</value>
   </data>
   <data name="TextTileSizeSmall" xml:space="preserve">
-    <value>Small</value>
+    <value>Малі</value>
   </data>
   <data name="TextUIHeadless" xml:space="preserve">
     <value>Headless</value>
   </data>
   <data name="TextUILite" xml:space="preserve">
-    <value>Lite</value>
+    <value>Простий</value>
   </data>
   <data name="TextUINormal" xml:space="preserve">
-    <value>Normal</value>
+    <value>Нормальний</value>
   </data>
   <data name="TextUpdateAvailable" xml:space="preserve">
     <value>Доступне оновлення!</value>
   </data>
   <data name="TextUpdateCheck" xml:space="preserve">
-    <value>Check for update</value>
+    <value>Перевірити оновлення</value>
   </data>
   <data name="TextupdateCheckFail" xml:space="preserve">
-    <value>Помилка перевірки оновлення</value>
+    <value>Помилка перевірки оновлень</value>
   </data>
   <data name="TextUpdateChecking" xml:space="preserve">
     <value>Перевірити оновлення</value>
@@ -359,7 +359,7 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Відео</value>
   </data>
   <data name="TextWallpaperLayoutDuplicate" xml:space="preserve">
-    <value>Duplicate same wallpaper</value>
+    <value>Дублювати шпалери</value>
   </data>
   <data name="TextWallpaperLayoutSpan" xml:space="preserve">
     <value>Перекривати</value>
@@ -374,89 +374,89 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Стрім</value>
   </data>
   <data name="TextWelcome" xml:space="preserve">
-    <value>Welcome</value>
+    <value>Вітаємо</value>
   </data>
   <data name="TextYes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Так</value>
   </data>
   <data name="TileVideoPlayer" xml:space="preserve">
     <value>Відео програвач</value>
   </data>
   <data name="TipAddWallpaperFileBrowse" xml:space="preserve">
-    <value>Set all supported file types as wallpaper.</value>
+    <value>Встановіть шпалери з файлу підтримуваного формату.</value>
   </data>
   <data name="TipAddWallpaperURL" xml:space="preserve">
-    <value>Set the web page of the URL you entered as wallpaper.</value>
+    <value>Встановіть веб-сторінку в якості шпалер використовуючи її веб-адресу.</value>
   </data>
   <data name="TipAppFocus" xml:space="preserve">
-    <value>Set what to do when any application is in focus.</value>
+    <value>Вкажіть, що робити, коли на передньому плані відкрито будь-який додаток.</value>
   </data>
   <data name="TipAppFullScreen" xml:space="preserve">
-    <value>Set what to do when fullscreen games/applications are running.</value>
+    <value>Вкажіть, що робити, коли відкрито повноекранний додаток/гра.</value>
   </data>
   <data name="TipAppRules" xml:space="preserve">
-    <value>Set different wallpaper playback rules based on running application.</value>
+    <value>Встановіть правила відтворення шпалер в залежності від відкритої програми.</value>
   </data>
   <data name="TipAppTheme" xml:space="preserve">
-    <value>Lively adapts to system theme settings, to change appearance goto</value>
+    <value>Lively використовує системні налаштування для встановлення теми. Шоб змінити це, перейдіть в</value>
   </data>
   <data name="TipBatteryPower" xml:space="preserve">
-    <value>(For battery operated systems only) Change playback when AC power is disconnected.</value>
+    <value>(Для систем працюючих від акумулятора) Змінити режим відтворення при відключенні від мережі.</value>
   </data>
   <data name="TipBrowserDebuggingPort" xml:space="preserve">
-    <value>Enter the port for debugging webpage wallpapers, browser restart is required for changes to take effect.
-When ready navigate to http://localhost:portnumber to access developer console.</value>
+    <value>Введіть порт для налагодження веб шпалер. Для прийняття змін необхідне перезавантаження браузера.
+Коли будете готові, переходьте на http://localhost:port для отримання доступу до консолі розробника.</value>
   </data>
   <data name="TipDisplayPauseRule" xml:space="preserve">
-    <value>Per: Pause wallpaper only on the screen in which application is focused/fullscreen.
-All: Pause wallpaper on all screen(s) if any application is focused/fullscreen.</value>
+    <value>Для кожного: Призупиняти шпалери тільки на тому екрані, де відрито додаток на передньому плані/на весь екран.
+Всі: Припиняти шпалери на всіх екранах, якщо відкрито додаток на передньому плані/на весь екран.</value>
   </data>
   <data name="TipHideSysTray" xml:space="preserve">
-    <value>System-tray icon visibility, lively will continue to run with the icon hidden.</value>
+    <value>Видимість значка на панелі задач. Якщо іконку приховати, Lively все одно продовжить працювати.</value>
   </data>
   <data name="TipLanguage" xml:space="preserve">
-    <value>Lively will restart to apply the new language.</value>
+    <value>Потрібен перезапуск Lively для зміни мови.</value>
   </data>
   <data name="TipLivelySetupOnClose" xml:space="preserve">
-    <value>Finish the setup to continue.</value>
+    <value>Закінчіть встановлення, щоб продовжити.</value>
   </data>
   <data name="TipPauseAlgorithm" xml:space="preserve">
-    <value>Foreground: Lightweight, only checks the single process that is in foreground to determine wallpaper playback behaviour.
-All Process: Heavier, Scans all the process to determine playback behaviour.</value>
+    <value>Процес переднього плану: Швидкий. Сканує тільки процес на передньому плані, щоб визначити режим відтворення.
+Всі процеси: Повільний. Сканує всі процеси, щоб визначити режим відтворення.</value>
   </data>
   <data name="TipStreamWallpaperDetect" xml:space="preserve">
-    <value>If supported video stream link is detected use the video player instead of loading the webpage.</value>
+    <value>Якщо виявлено підтримуване посилання, використовувати відеоплеєр замість підвантаження веб-сторінки.</value>
   </data>
   <data name="TipStreamWallpaperVideoQuality" xml:space="preserve">
-    <value>Select the desired video quality for online streams.</value>
+    <value>Виберіть бажану якість потокового відео.</value>
   </data>
   <data name="TipTileSize" xml:space="preserve">
-    <value>Size of the wallpaper tiles in Library.</value>
+    <value>Розміл плиток з шпалерами в Бібліотеці.</value>
   </data>
   <data name="TipUIMode" xml:space="preserve">
-    <value>For low-end systems select Lite mode.</value>
+    <value>Якщо у вас низькопродуктивна система, вибирайте Простий режим.</value>
   </data>
   <data name="TipVideoPlayer" xml:space="preserve">
-    <value>Select the player used for video wallpaper.</value>
+    <value>Выберите плеер для видео-обоев.</value>
   </data>
   <data name="TipWallpaperDir" xml:space="preserve">
-    <value>Path used to store wallpaper files.</value>
+    <value>Шлях, по якому зберігаються файли шпалер.</value>
   </data>
   <data name="TipWallpaperInput" xml:space="preserve">
-    <value>Select ways to interact with wallpaper.</value>
+    <value>Виберіть спосіб взаємодії зі шпалерами.</value>
   </data>
   <data name="TipWallpaperPlayback" xml:space="preserve">
-    <value>Pause wallpaper playback when desktop is not focused.</value>
+    <value>Призупинити відтворення шпалер, коли робочий стіл не в фокусі.</value>
   </data>
   <data name="TipWebBrowserDiskCache" xml:space="preserve">
-    <value>Store temporary files on disk instead of memory, settings gets restored when browser is restarted.</value>
+    <value>Зберігайте тимчасові файли на диску, а не в оперативній пам'яті. Дозволяє зберігати налаштування для шпалер веб-сайтів.</value>
   </data>
   <data name="TipWebBrowserEngine" xml:space="preserve">
-    <value>CEF(Chromium Embedded Framework) is a lightweight chromium engine.
-Edge is the built in webview of windows 10.</value>
+    <value>CEF(Chromium Embedded Framework) - полегшений веб-двигун Chromium.
+Edge - веб-двигун з Windows 10 WebView.</value>
   </data>
   <data name="TipWindowsStartup" xml:space="preserve">
-    <value>Lively needs to run in the background for wallpaper playback.</value>
+    <value>Lively необходимо работать в фоне для воспроизведения обоев.</value>
   </data>
   <data name="TitleAbout" xml:space="preserve">
     <value>Про програму</value>
@@ -477,22 +477,22 @@ Edge is the built in webview of windows 10.</value>
     <value>Правила для програм</value>
   </data>
   <data name="TitleAppTheme" xml:space="preserve">
-    <value>Theme</value>
+    <value>Тема</value>
   </data>
   <data name="TitleAudio" xml:space="preserve">
-    <value>Audio</value>
+    <value>Аудіо</value>
   </data>
   <data name="TitleAudioPlayOnScreen" xml:space="preserve">
-    <value>Play audio on screen</value>
+    <value>Грати музику на екрані</value>
   </data>
   <data name="TitleBatteryPower" xml:space="preserve">
     <value>Коли працює від акумулятора</value>
   </data>
   <data name="TitleBrowseFile" xml:space="preserve">
-    <value>Browse for video, gif, webpage... file to set as wallpaper</value>
+    <value>Виберіть відео, GIF, веб-сторінку ... щоб встановити як шпалери</value>
   </data>
   <data name="TitleBrowserDebuggingPort" xml:space="preserve">
-    <value>Debugging Port</value>
+    <value>Порт налагодження</value>
   </data>
   <data name="TitleDeleteConfirmation" xml:space="preserve">
     <value>Підтвердіть видалення</value>
@@ -501,7 +501,7 @@ Edge is the built in webview of windows 10.</value>
     <value>Правило зупинки екрану</value>
   </data>
   <data name="TitleEnterUrl" xml:space="preserve">
-    <value>Enter URL</value>
+    <value>Введіть URL</value>
   </data>
   <data name="TitleGeneral" xml:space="preserve">
     <value>Основні</value>
@@ -510,7 +510,7 @@ Edge is the built in webview of windows 10.</value>
     <value>Допомога</value>
   </data>
   <data name="TitleHideSysTray" xml:space="preserve">
-    <value>System-tray Icon</value>
+    <value>Іконка на панелі задач</value>
   </data>
   <data name="TitleInteraction" xml:space="preserve">
     <value>Взаємодія</value>
@@ -522,13 +522,13 @@ Edge is the built in webview of windows 10.</value>
     <value>Бібліотека</value>
   </data>
   <data name="TitleLivelySetup" xml:space="preserve">
-    <value>Lively Setup</value>
+    <value>Встановлення Lively</value>
   </data>
   <data name="TitleMisc" xml:space="preserve">
-    <value>Miscellaneous</value>
+    <value>Інше</value>
   </data>
   <data name="TitleMute" xml:space="preserve">
-    <value>Mute</value>
+    <value>Вимкнути</value>
   </data>
   <data name="TitlePauseAlgo" xml:space="preserve">
     <value>Алгоритм зупинки</value>
@@ -537,19 +537,19 @@ Edge is the built in webview of windows 10.</value>
     <value>Продуктивність</value>
   </data>
   <data name="TitlePlaylist" xml:space="preserve">
-    <value>Playlist</value>
+    <value>Плейлист</value>
   </data>
   <data name="TitlePleaseWait" xml:space="preserve">
     <value>Будь ласка, зачекайте</value>
   </data>
   <data name="TitleScalingFit" xml:space="preserve">
-    <value>Scaling/Fit</value>
+    <value>Масштабування/Розміщення</value>
   </data>
   <data name="TitleScreenLayout" xml:space="preserve">
-    <value>Screen Layout</value>
+    <value>Макет шпалер</value>
   </data>
   <data name="TitleSelectFile" xml:space="preserve">
-    <value>Select File</value>
+    <value>Виберіть файл</value>
   </data>
   <data name="TitleSettings" xml:space="preserve">
     <value>Налаштування</value>
@@ -558,7 +558,7 @@ Edge is the built in webview of windows 10.</value>
     <value>Стрім</value>
   </data>
   <data name="TitleStreamWallpaperDetect" xml:space="preserve">
-    <value>Detect Streams</value>
+    <value>Виявляти потокове відео</value>
   </data>
   <data name="TitleStreamWallpaperVideoQuality" xml:space="preserve">
     <value>Якість відео</value>
