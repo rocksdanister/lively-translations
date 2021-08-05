@@ -570,6 +570,9 @@ Edge ist die eingebaute Webansicht von Windows 10.</value>
   <data name="TitleUIMode" xml:space="preserve">
     <value>Benutzeroberfläche</value>
   </data>
+  <data name="TitleUpdates" xml:space="preserve">
+    <value>Aktualisierungen</value>
+  </data>
   <data name="TitleVideo" xml:space="preserve">
     <value>Video</value>
   </data>
@@ -650,6 +653,9 @@ https://github.com/rocksdanister/lively/wiki</value>
   <data name="TextKeyboard" xml:space="preserve">
     <value>Tastatur</value>
   </data>
+  <data name="TextLastChecked" xml:space="preserve">
+    <value>Zuletzt geprüft/value>
+  </data>
   <data name="TitleDocumentation" xml:space="preserve">
     <value>Dokumentation</value>
   </data>
@@ -718,6 +724,9 @@ https://github.com/rocksdanister/lively/wiki</value>
   </data>
   <data name="TextCancel" xml:space="preserve">
     <value>Abbrechen</value>
+  </data>
+  <data name="TextChangeWallpaper" xml:space="preserve">
+    <value>Hintergründe ändern</value>
   </data>
   <data name="TextCreatePreview" xml:space="preserve">
     <value>Vorschau erstellen</value>
