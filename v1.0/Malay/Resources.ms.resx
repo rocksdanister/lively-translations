@@ -885,7 +885,7 @@ Edge ialah Webview sedia ada bagi Windows 10.</value>
     <value>Tukar ke beta (Saluran Developer)</value>
   </data>
   <data name="TextSwitchBranchOfficial" xml:space="preserve">
-    <value>Switch to stable (Default channel)Tukar ke stabil (Saluran Piawai)</value>
+    <value>Tukar ke stabil (Saluran Piawai)</value>
   </data>
   <data name="TipSwitchSoftwareBranch" xml:space="preserve">
     <value>Tukar binaan software daripade beta ke piawai dan sebaliknya</value>
