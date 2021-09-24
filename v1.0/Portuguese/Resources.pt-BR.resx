@@ -898,4 +898,16 @@ Atualizações serão frequentes e podem ter bugs!</value>
   <data name="TitleScreensaverLockOnResume" xml:space="preserve">
     <value>Ao retornar, exibir tela de logon</value>
   </data>
+  <data name="TipPowerSavingModePower" xml:space="preserve">
+    <value>Mudar reprodução quando o modo de economia de bateria do Windows estiver ativo.</value>
+  </data>
+  <data name="TitlePowerSavingModePower" xml:space="preserve">
+    <value>Quando estiver na Economia de Bateria</value>
+  </data>
+  <data name="TipRemoteDesktopPower" xml:space="preserve">
+    <value>Mudar reprodução quando estiver em uma sessão da Área de Trabalho Remota.</value>
+  </data>
+  <data name="TitleRemoteDesktopPower" xml:space="preserve">
+    <value>Quando estiver na Área de Trabalho Remota</value>
+  </data>
 </root>
