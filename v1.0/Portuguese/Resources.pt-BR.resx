@@ -910,4 +910,9 @@ Atualizações serão frequentes e podem ter bugs!</value>
   <data name="TitleRemoteDesktopPower" xml:space="preserve">
     <value>Quando estiver na Área de Trabalho Remota</value>
   </data>
+  <data name="DescExplorerCrash" xml:space="preserve">
+    <value>Lively encontrou um erro fatal.
+
+O Explorador do Windows reiniciou duas vezes nos últimos 30 segundos! Isso pode ser um conflito entre o Lively e outro software de customização ou o Windows. Para evitar maiores problemas, todos os planos de fundo foram encerrados.</value>
+  </data>
 </root>
