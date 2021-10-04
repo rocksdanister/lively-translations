@@ -126,23 +126,23 @@
   <data name="DescExplorerCrash" xml:space="preserve">
     <value>Livelyで致命的なエラーが発生しました。
 
-エクスプローラーは30秒以内に2回再起動しました！ This may be a conflict between Lively and other desktop customization software or Windows. To avoid further issues, all wallpapers are terminated.</value>
+エクスプローラーは30秒以内に2回再起動しました！ これはLivelyと他のデスクトップカスタマイズソフトウェアまたはWindowsとの間で競合している可能性があります。すべての壁紙は終了します。 さらなる問題を避けるために全ての壁紙を終了します</value>
   </data>
   <data name="DescIncompatibleTaskbarTheme" xml:space="preserve">
-    <value>Incompatible program found, taskbar theming disabled.</value>
+    <value>互換性のないプログラムが見つかりました。タスクバーのテーマは無効になります。</value>
   </data>
   <data name="DescOfficialWebpage" xml:space="preserve">
-    <value>Official webpage of Lively Wallpaper</value>
+    <value>Lively Wallpaper の公式Webサイト</value>
   </data>
   <data name="DescOledScreensaverNotice" xml:space="preserve">
-    <value>Most modern LCD and LED displays do not suffer from burn-in issue and therefore any wallpaper can be used as screensaver.
+    <value>最近の液晶ディスプレイやLEDディスプレイのほとんどは画面の焼き付きがないため、どんな壁紙でもスクリーンセーバーとして使用できます。
 
-For OLED, Plasma or CRT displays which are susceptibe to burn-in it is advised to use wallpaper with regular motion and an overall dark theme which is supposed to mitigate burn-in but this feature is untested and its effectiveness cannot be guaranteed.
+焼き付きの影響を受けやすい有機ELやプラズマ、ブラウン管のディスプレイでは焼き付きを軽減するために動きのある壁紙や全体的に暗いテーマを使用することをお勧めしますが、この機能は検証されておらず、その効果は保証されていません。
 
-The main purpose of Lively's screensavers is to add another layer of customization to your pc, use screensavers as burn-in protection at your own risk!</value>
+Livelyのスクリーンセーバーの主な目的はあなたのPCのカスタマイズをより深めることであり、焼き付きの保護のために使用するのは自己責任です！</value>
   </data>
   <data name="DescReportBug" xml:space="preserve">
-    <value>Report a problem with the software</value>
+    <value>ソフトウェアの不具合を報告する</value>
   </data>
   <data name="DescriptionAddWallpaper" xml:space="preserve">
     <value>Select a file or specify a website url to set as a wallpaper.</value>
