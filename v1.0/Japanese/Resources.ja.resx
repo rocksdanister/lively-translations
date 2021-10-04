@@ -118,15 +118,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DescCommunity" xml:space="preserve">
-    <value>Online discussion forum</value>
+    <value>オンラインのディスカッションフォーラム</value>
   </data>
   <data name="DescDocumentation" xml:space="preserve">
-    <value>API documentation and help</value>
+    <value>APIのドキュメントとヘルプ</value>
   </data>
   <data name="DescExplorerCrash" xml:space="preserve">
-    <value>Lively has encountered a fatal error.
+    <value>Livelyで致命的なエラーが発生しました。
 
-Windows Explorer restarted twice in the last 30 seconds! This may be a conflict between Lively and other desktop customization software or Windows. To avoid further issues, all wallpapers are terminated.</value>
+エクスプローラーは30秒以内に2回再起動しました！ This may be a conflict between Lively and other desktop customization software or Windows. To avoid further issues, all wallpapers are terminated.</value>
   </data>
   <data name="DescIncompatibleTaskbarTheme" xml:space="preserve">
     <value>Incompatible program found, taskbar theming disabled.</value>
