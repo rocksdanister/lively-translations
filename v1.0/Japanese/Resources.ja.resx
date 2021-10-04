@@ -126,7 +126,7 @@
   <data name="DescExplorerCrash" xml:space="preserve">
     <value>Livelyで致命的なエラーが発生しました。
 
-エクスプローラーは30秒以内に2回再起動しました！ これはLivelyと他のデスクトップカスタマイズソフトウェアまたはWindowsとの間で競合している可能性があります。すべての壁紙は終了します。 さらなる問題を避けるために全ての壁紙を終了します</value>
+エクスプローラーは30秒以内に2回再起動しました！ これはLivelyと他のデスクトップカスタマイズソフトウェアまたはWindowsとの間で競合している可能性があります。 さらなる問題を避けるために全ての壁紙を終了します</value>
   </data>
   <data name="DescIncompatibleTaskbarTheme" xml:space="preserve">
     <value>互換性のないプログラムが見つかりました。タスクバーのテーマは無効になります。</value>
@@ -145,341 +145,341 @@ Livelyのスクリーンセーバーの主な目的はあなたのPCのカスタ
     <value>ソフトウェアの不具合を報告する</value>
   </data>
   <data name="DescriptionAddWallpaper" xml:space="preserve">
-    <value>Select a file or specify a website url to set as a wallpaper.</value>
+    <value>ファイルを選択するか、ウェブサイトのURLを指定して壁紙として設定します。</value>
   </data>
   <data name="DescriptionAppRules" xml:space="preserve">
-    <value>Wallpaper playback behaviour based on running application.</value>
+    <value>実行中のアプリケーションに基づく壁紙の再生動作です。</value>
   </data>
   <data name="DescriptionCancelQuestion" xml:space="preserve">
-    <value>Are you sure you want to cancel?</value>
+    <value>本当にキャンセルしますか？</value>
   </data>
   <data name="DescriptionDeleteConfirmation" xml:space="preserve">
-    <value>Are you sure you want to permanently delete this wallpaper from the disk?</value>
+    <value>ディスクからこの壁紙を永久に削除しますか？</value>
   </data>
   <data name="DescriptionDeleteConfirmationLibrary" xml:space="preserve">
-    <value>Are you sure you want to delete this wallpaper from the Library?</value>
+    <value>この壁紙をライブラリから削除してもよろしいですか？</value>
   </data>
   <data name="DescriptionDragDropFIle" xml:space="preserve">
-    <value>Simply drag and drop files into Library.</value>
+    <value>ライブラリにファイルをドラッグ＆ドロップしてください。</value>
   </data>
   <data name="DescriptionExternalAppWarning" xml:space="preserve">
-    <value>You are opening an external application as wallpaper.
-Malicious applications can host malware, virus.. and do harm to your system.
-Only continue if this application comes from a trusted source.</value>
+    <value>壁紙として外部アプリケーションを開いています。
+悪意のあるアプリケーションは、マルウェアやウイルスをホストし、システムに害を及ぼす可能性があります。
+このアプリケーションが信頼できるソースから来ている場合のみ続行してください。</value>
   </data>
   <data name="DescriptionMinimizedTray" xml:space="preserve">
-    <value>Lively is minimized to systemtray, right click lively icon to continue.</value>
+    <value>Livelyはシステムトレイに最小化されています。Livelyのアイコンを右クリックして続行します。</value>
   </data>
   <data name="DescriptionPleaseRestartLively" xml:space="preserve">
-    <value>Please restart Lively for settings to take effect.</value>
+    <value>設定を反映させるためには、Livelyを再起動してください。</value>
   </data>
   <data name="DescriptionPleaseStop" xml:space="preserve">
-    <value>Please stop before proceeding.</value>
+    <value>続行する前に停止してください。</value>
   </data>
   <data name="DescriptionRecordStart" xml:space="preserve">
-    <value>Press to begin recording.</value>
+    <value>押して録画を開始します。</value>
   </data>
   <data name="DescriptionRestoringWallpaper" xml:space="preserve">
-    <value>Currently restoring previous wallpaper(s), please wait...</value>
+    <value>前の壁紙を復元中、お待ちください...</value>
   </data>
   <data name="DescriptionScreenLayout" xml:space="preserve">
-    <value>Choose Display</value>
+    <value>ディスプレイの選択</value>
   </data>
   <data name="DescriptionUpdateAvailable" xml:space="preserve">
-    <value>A new version of software is available!</value>
+    <value>新しいバージョンのソフトウェアが利用可能です！</value>
   </data>
   <data name="DescriptionWebpageLoad" xml:space="preserve">
-    <value>Enter website link to load, shadertoy.com shader links are supported</value>
+    <value>ロードするウェブサイトのリンクを入力してください。shadertoy.comのシェーダーリンクがサポートされています</value>
   </data>
   <data name="DescriptionWelcomeWizard" xml:space="preserve">
-    <value>This wizard will get you started on setting up Lively.</value>
+    <value>このウィザードではLivelyのセットアップを開始します。</value>
   </data>
   <data name="DescriptionWindowsNCodecInstall" xml:space="preserve">
-    <value>Your Windows N/KN version will require the download of additional codecs to support video playback in wallpapers.</value>
+    <value>お使いのWindows N/KN エディションでは、壁紙での動画再生をサポートするために追加のコーデックをダウンロードする必要があります。</value>
   </data>
   <data name="DescSupperDev" xml:space="preserve">
-    <value>Show support by buying the developer coffee</value>
+    <value>開発者にコーヒーを買ってサポートする</value>
   </data>
   <data name="DescSwitchBranchBetaWarning" xml:space="preserve">
-    <value>You are about to change to beta (developer) build of Lively.
-Updates will be frequent and may contain bugs!</value>
+    <value>Livelyのベータ（開発者）版に変更しようとしています。
+アップデートが頻繁に行われ、バグを含む可能性があります！</value>
   </data>
   <data name="LivelyExceptionAppUpdateFail" xml:space="preserve">
-    <value>Failed to update; try downloading the installer from:
+    <value>アップデートに失敗しました。 下のサイトからインストーラーをダウンロードしてください。:
 https://github.com/rocksdanister/lively/releases</value>
   </data>
   <data name="LivelyExceptionDamagedZipFile" xml:space="preserve">
-    <value>Damaged wallpaper file, try redownloading.</value>
+    <value>壁紙のファイルが破損しています。再ダウンロードをしてください。</value>
   </data>
   <data name="LivelyExceptionGeneral" xml:space="preserve">
-    <value>Oops... Looks like something went wrong :(
-In order to better understand this error and fix the issue, share the log file with the developer.
-Instructions for sharing log file:
+    <value>おっと... 何かがうまくいかなかったようです :(
+このエラーを理解し問題を解決するために、ログファイルを開発者に共有してください。
+ログファイルを共有するための手順:
 https://github.com/rocksdanister/lively/wiki</value>
   </data>
   <data name="LivelyExceptionHighContrastMode" xml:space="preserve">
-    <value>Lively cannot work properly with Windows High Contrast mode enabled!
-Disable High Contrast mode and try again.</value>
+    <value>Windowsのハイコントラストモードが有効な状態では、Livelyが正常に動作しません！
+ハイコントラストモードを無効にしてから再度お試しください。</value>
   </data>
   <data name="LivelyExceptionMediaPlayback" xml:space="preserve">
-    <value>Media playback failed :(
-Try changing the videoplayer in lively settings.
+    <value>メディアの再生に失敗しました。 :(
+Livelyの設定から動画プレイヤーを変更してみてください。
 
-In order to better understand this error and fix the issue, share the log file with the developer.
-Instructions for sharing log file:
+このエラーを理解し問題を解決するために、ログファイルを開発者に共有してください。
+ログファイルを共有するための手順:
 https://github.com/rocksdanister/lively/wiki</value>
   </data>
   <data name="LivelyExceptionNotLivelyZip" xml:space="preserve">
-    <value>Not Lively wallpaper file.</value>
+    <value>Livelyの壁紙ファイルではありません。</value>
   </data>
   <data name="LivelyExceptionSafeModeStart" xml:space="preserve">
-    <value>Lively was not closed properly, starting in safe mode.
-Do you wish to restore previously running wallpapers?</value>
+    <value>Livelyが適切に閉じられず、セーフモードで起動しました。
+以前に実行した壁紙を復元しますか？</value>
   </data>
   <data name="LivelyExceptionWorkerWSetupFail" xml:space="preserve">
-    <value>It looks like some settings need to be set to make Lively work:  
-1. Press the Win + R keys to open Run, 
-2. Type SystemPropertiesPerformance.exe into Run, click on "OK" to open Performance Options.
-3. Enable/Check "Animate controls and elements inside windows" (If already checked, then uncheck and check) &amp; Apply.
-4. Click "Apply" then press "OK" to close the window.
+    <value>Livelyを動作させるためには、いくつかの設定が必要なようです。  
+1.  Win + R を押して"ファイル名を指定して実行"を開きます, 
+2. SystemPropertiesPerformance.exe と入力して"OK"を押し、パフォーマンス オプションを開きます.
+3. "Windows 内のアニメーション コントロールと要素" の項目にチェックを入れて（既にチェックがついている場合は、一度チェックを外してからもう一度チェックを入れます）有効にします。
+4. "適用"をクリックしたら"OK"を押してウインドウを閉じます。
 
-If Windows 7 just set - Adjust for best appearance &amp;amp; Apply.
-If still not working, close &amp; start Lively again/restart windows.
-(Does not work in some insider windows 10 builds)</value>
+Windows 7 の場合は、"パフォーマンスを優先する"を選択するだけです。
+それでも動作しない場合は、Livelyを再起動するか、Windowsを再起動してください。
+(一部のWindows 10 Insider ビルドでは動作しません)</value>
   </data>
   <data name="TextAdd" xml:space="preserve">
-    <value>Add</value>
+    <value>追加</value>
   </data>
   <data name="TextAllFiles" xml:space="preserve">
-    <value>All Files</value>
+    <value>すべてのファイル</value>
   </data>
   <data name="TextApplication" xml:space="preserve">
-    <value>Application</value>
+    <value>アプリケーション</value>
   </data>
   <data name="TextAttribution" xml:space="preserve">
-    <value>Attribution</value>
+    <value>属性</value>
   </data>
   <data name="TextAuthor" xml:space="preserve">
-    <value>Author</value>
+    <value>作者</value>
   </data>
   <data name="TextBack" xml:space="preserve">
-    <value>Back</value>
+    <value>戻る</value>
   </data>
   <data name="TextBrowse" xml:space="preserve">
-    <value>Browse</value>
+    <value>参照</value>
   </data>
   <data name="TextCancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>キャンセル</value>
   </data>
   <data name="TextChangeWallpaper" xml:space="preserve">
-    <value>Change Wallpapers</value>
+    <value>壁紙を変更</value>
   </data>
   <data name="TextClose" xml:space="preserve">
-    <value>Close</value>
+    <value>閉じる</value>
   </data>
   <data name="TextCloseWallpapers" xml:space="preserve">
-    <value>Close Wallpapers</value>
+    <value>壁紙を閉じる</value>
   </data>
   <data name="TextCompleted" xml:space="preserve">
-    <value>Completed!</value>
+    <value>完成！</value>
   </data>
   <data name="TextControlPanelOpen" xml:space="preserve">
-    <value>Click here to manage wallpapers.</value>
+    <value>クリックで壁紙の管理へ</value>
   </data>
   <data name="TextConvertVideo" xml:space="preserve">
-    <value>Convert to Video</value>
+    <value>動画に変換</value>
   </data>
   <data name="TextCreatePreview" xml:space="preserve">
-    <value>Create Preview</value>
+    <value>プレビューの作成</value>
   </data>
   <data name="TextCustomise" xml:space="preserve">
-    <value>Customise</value>
+    <value>カスタマイズ</value>
   </data>
   <data name="TextCustomiseWallpaper" xml:space="preserve">
-    <value>Customise Wallpaper</value>
+    <value>壁紙のカスタマイズ</value>
   </data>
   <data name="TextDeleteWallpaper" xml:space="preserve">
-    <value>Delete</value>
+    <value>削除</value>
   </data>
   <data name="TextDescription" xml:space="preserve">
-    <value>Description</value>
+    <value>説明</value>
   </data>
   <data name="TextDisplayPauseRuleAllScreen" xml:space="preserve">
-    <value>All Screen</value>
+    <value>全画面</value>
   </data>
   <data name="TextDisplayPauseRulePerScreen" xml:space="preserve">
-    <value>Per Screen</value>
+    <value>１画面当たり</value>
   </data>
   <data name="TextDownload" xml:space="preserve">
-    <value>Download</value>
+    <value>ダウンロード</value>
   </data>
   <data name="TextEditWallpaper" xml:space="preserve">
-    <value>Edit</value>
+    <value>編集</value>
   </data>
   <data name="TextError" xml:space="preserve">
-    <value>Error</value>
+    <value>エラー</value>
   </data>
   <data name="TextExit" xml:space="preserve">
-    <value>Exit</value>
+    <value>終了</value>
   </data>
   <data name="TextExportWallpaperZip" xml:space="preserve">
-    <value>Export lively .zip</value>
+    <value>lively.zip を出力する</value>
   </data>
   <data name="TextFeatureMissing" xml:space="preserve">
-    <value>Some features are not available in this version of Lively.</value>
+    <value>このバージョンのLivelyでは利用できない機能があります。</value>
   </data>
   <data name="TextFileNotFound" xml:space="preserve">
-    <value>File not found</value>
+    <value>ファイルが存在しません</value>
   </data>
   <data name="TextGIF" xml:space="preserve">
-    <value>Animated GIF</value>
+    <value>アニメーションGIF</value>
   </data>
   <data name="TextGitHubStar" xml:space="preserve">
-    <value>Show some love by dropping a star</value>
+    <value>ソフトウェアへの愛をスターで与える</value>
   </data>
   <data name="TextGo" xml:space="preserve">
     <value>GO</value>
   </data>
   <data name="TextHelpTranslate" xml:space="preserve">
-    <value>Help translate</value>
+    <value>Livelyの翻訳を手伝ってください。</value>
   </data>
   <data name="TextHours" xml:space="preserve">
-    <value>hour(s)</value>
+    <value>時間</value>
   </data>
   <data name="TextInstall" xml:space="preserve">
-    <value>Install</value>
+    <value>インストール</value>
   </data>
   <data name="TextKeyboard" xml:space="preserve">
-    <value>Keyboard</value>
+    <value>キーボード</value>
   </data>
   <data name="TextLastChecked" xml:space="preserve">
-    <value>Last checked</value>
+    <value>最終チェック</value>
   </data>
   <data name="TextLearnMore" xml:space="preserve">
-    <value>Learn more</value>
+    <value>もっと詳しく</value>
   </data>
   <data name="TextLicense" xml:space="preserve">
-    <value>License</value>
+    <value>ライセンス</value>
   </data>
   <data name="TextMinutes" xml:space="preserve">
-    <value>minute(s)</value>
+    <value>分</value>
   </data>
   <data name="TextmoreInfo" xml:space="preserve">
-    <value>Information</value>
+    <value>インフォメーション</value>
   </data>
   <data name="TextMoreWallpapers" xml:space="preserve">
-    <value>More Wallpapers</value>
+    <value>他の壁紙を見る</value>
   </data>
   <data name="TextMouse" xml:space="preserve">
-    <value>Mouse</value>
+    <value>マウス</value>
   </data>
   <data name="TextMouseInteractOnDesktop" xml:space="preserve">
-    <value>Mouse interaction when application focused</value>
+    <value>アプリケーションにフォーカスしたときにマウスのインタラクションを有効にする</value>
   </data>
   <data name="TextNext" xml:space="preserve">
-    <value>Next</value>
+    <value>次へ</value>
   </data>
   <data name="TextNo" xml:space="preserve">
-    <value>No</value>
+    <value>いいえ</value>
   </data>
   <data name="TextOff" xml:space="preserve">
-    <value>OFF</value>
+    <value>オフ</value>
   </data>
   <data name="TextOK" xml:space="preserve">
     <value>OK</value>
   </data>
   <data name="TextOn" xml:space="preserve">
-    <value>ON</value>
+    <value>オン</value>
   </data>
   <data name="TextOnline" xml:space="preserve">
-    <value>Online</value>
+    <value>オンライン</value>
   </data>
   <data name="TextOpenLively" xml:space="preserve">
-    <value>Open Lively</value>
+    <value>Livelyを開く</value>
   </data>
   <data name="TextPauseAlgoAllProcess" xml:space="preserve">
-    <value>All Process</value>
+    <value>すべてのプロセス</value>
   </data>
   <data name="TextPauseAlgoExclusiveMode" xml:space="preserve">
     <value>Direct3D</value>
   </data>
   <data name="TextPauseAlgoForegroundProcess" xml:space="preserve">
-    <value>Foreground Process</value>
+    <value>フォアグラウンドプロセス</value>
   </data>
   <data name="TextPauseWallpapers" xml:space="preserve">
-    <value>Pause Wallpapers</value>
+    <value>壁紙を一時停止する</value>
   </data>
   <data name="TextPerformanceKill" xml:space="preserve">
-    <value>Kill</value>
+    <value>停止</value>
   </data>
   <data name="TextPerformanceNone" xml:space="preserve">
-    <value>Nothing</value>
+    <value>何もしない</value>
   </data>
   <data name="TextPerformancePause" xml:space="preserve">
-    <value>Pause</value>
+    <value>一時停止</value>
   </data>
   <data name="TextPicture" xml:space="preserve">
-    <value>Picture</value>
+    <value>画像</value>
   </data>
   <data name="TextPreviewWallpaper" xml:space="preserve">
-    <value>Preview</value>
+    <value>プレビュー</value>
   </data>
   <data name="TextPrivacyPolicy" xml:space="preserve">
-    <value>Privacy Policy</value>
+    <value>個人情報保護方針</value>
   </data>
   <data name="TextProcessingWallpaper" xml:space="preserve">
-    <value>Processing</value>
+    <value>処理</value>
   </data>
   <data name="TextRemove" xml:space="preserve">
-    <value>Remove</value>
+    <value>削除</value>
   </data>
   <data name="TextRule" xml:space="preserve">
-    <value>Rule</value>
+    <value>ルール</value>
   </data>
   <data name="TextScreen" xml:space="preserve">
-    <value>Screen</value>
+    <value>画面</value>
   </data>
   <data name="TextSearch" xml:space="preserve">
-    <value>Search</value>
+    <value>検索</value>
   </data>
   <data name="TextSetWallpaper" xml:space="preserve">
-    <value>Set as Wallpaper</value>
+    <value>壁紙として設定する</value>
   </data>
   <data name="TextShowOnDisk" xml:space="preserve">
-    <value>Open File Location</value>
+    <value>ファイルの場所を開く</value>
   </data>
   <data name="TextSource" xml:space="preserve">
-    <value>Source</value>
+    <value>ソース</value>
   </data>
   <data name="TextStart" xml:space="preserve">
-    <value>Start</value>
+    <value>スタート</value>
   </data>
   <data name="TextStop" xml:space="preserve">
-    <value>Stop</value>
+    <value>ストップ</value>
   </data>
   <data name="TextStoreReview" xml:space="preserve">
-    <value>Do you enjoy using Lively? Leave a review :)</value>
+    <value>Livelyの使用を楽しんでいますか？ コメントをください :)</value>
   </data>
   <data name="TextSupport" xml:space="preserve">
-    <value>Support</value>
+    <value>サポート</value>
   </data>
   <data name="TextSwitchBranchDev" xml:space="preserve">
-    <value>Switch to beta (Dev channel)</value>
+    <value>ベータ版に切り替える（Devチャンネル）</value>
   </data>
   <data name="TextSwitchBranchOfficial" xml:space="preserve">
-    <value>Switch to stable (Default channel)</value>
+    <value>安定版に切り替える（Defaultチャンネル）</value>
   </data>
   <data name="TextTags" xml:space="preserve">
-    <value>Tags</value>
+    <value>タグ</value>
   </data>
   <data name="TextTaskbarThemeBlur" xml:space="preserve">
-    <value>Blur</value>
+    <value>ぼかし</value>
   </data>
   <data name="TextTaskbarThemeClear" xml:space="preserve">
-    <value>Clear</value>
+    <value>透明</value>
   </data>
   <data name="TextTaskbarThemeColor" xml:space="preserve">
-    <value>Color</value>
+    <value>カラー</value>
   </data>
   <data name="TextTaskbarThemeFluent" xml:space="preserve">
     <value>Fluent</value>
