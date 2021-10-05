@@ -335,7 +335,7 @@ Windows 7 の場合は、"パフォーマンスを優先する"を選択する�
     <value>アニメーションGIF</value>
   </data>
   <data name="TextGitHubStar" xml:space="preserve">
-    <value>ソフトウェアへの愛をスターで与える</value>
+    <value>Starをあげてソフトウェアへの愛を伝える</value>
   </data>
   <data name="TextGo" xml:space="preserve">
     <value>GO</value>
@@ -482,97 +482,97 @@ Windows 7 の場合は、"パフォーマンスを優先する"を選択する�
     <value>カラー</value>
   </data>
   <data name="TextTaskbarThemeFluent" xml:space="preserve">
-    <value>Fluent</value>
+    <value>なめらか</value>
   </data>
   <data name="TextTaskbarThemeWallpaper" xml:space="preserve">
-    <value>Wallpaper</value>
+    <value>壁紙の色</value>
   </data>
   <data name="TextTaskbarThemeWallpaperFluent" xml:space="preserve">
-    <value>Wallpaper Fluent</value>
+    <value>壁紙の色（なめらか）</value>
   </data>
   <data name="TextTileSizeLarge" xml:space="preserve">
-    <value>Large</value>
+    <value>大</value>
   </data>
   <data name="TextTileSizeNormal" xml:space="preserve">
-    <value>Normal</value>
+    <value>中</value>
   </data>
   <data name="TextTileSizeSmall" xml:space="preserve">
-    <value>Small</value>
+    <value>小</value>
   </data>
   <data name="TextTitle" xml:space="preserve">
-    <value>Title</value>
+    <value>タイトル</value>
   </data>
   <data name="TextUIHeadless" xml:space="preserve">
-    <value>Headless</value>
+    <value>ヘッドレス</value>
   </data>
   <data name="TextUILite" xml:space="preserve">
-    <value>Lite</value>
+    <value>簡易</value>
   </data>
   <data name="TextUINormal" xml:space="preserve">
-    <value>Normal</value>
+    <value>通常</value>
   </data>
   <data name="TextUnsupportedFile" xml:space="preserve">
-    <value>File format not supported</value>
+    <value>対応していないファイル形式</value>
   </data>
   <data name="TextUpdateAvailable" xml:space="preserve">
-    <value>Update available!</value>
+    <value>アップデートが利用可能です！</value>
   </data>
   <data name="TextUpdateCheck" xml:space="preserve">
-    <value>Check for update</value>
+    <value>アップデートを確認</value>
   </data>
   <data name="TextupdateCheckFail" xml:space="preserve">
-    <value>Failed to check for software update</value>
+    <value>アップデートの確認に失敗しました</value>
   </data>
   <data name="TextUpdateChecking" xml:space="preserve">
-    <value>Checking for update</value>
+    <value>アップデートの確認中</value>
   </data>
   <data name="TextUpdateUptodate" xml:space="preserve">
-    <value>Software is up-to-date!</value>
+    <value>ソフトウェアは最新の状態です！</value>
   </data>
   <data name="TextVideo" xml:space="preserve">
-    <value>Video</value>
+    <value>動画</value>
   </data>
   <data name="TextWallpaperCommandlineArgs" xml:space="preserve">
-    <value>Enter optional commandline arguments</value>
+    <value>任意のコマンドライン引数を入力</value>
   </data>
   <data name="TextWallpaperFitFill" xml:space="preserve">
-    <value>Fill</value>
+    <value>埋める</value>
   </data>
   <data name="TextWallpaperFitNone" xml:space="preserve">
-    <value>None</value>
+    <value>なし</value>
   </data>
   <data name="TextWallpaperFitUniform" xml:space="preserve">
-    <value>Uniform</value>
+    <value>均一</value>
   </data>
   <data name="TextWallpaperFitUniformToFill" xml:space="preserve">
-    <value>Uniform Fill</value>
+    <value>均一に埋める</value>
   </data>
   <data name="TextWallpaperLayoutDuplicate" xml:space="preserve">
-    <value>Duplicate same wallpaper</value>
+    <value>同じ壁紙を複製する</value>
   </data>
   <data name="TextWallpaperLayoutPerScreen" xml:space="preserve">
-    <value>Selected screen only</value>
+    <value>選択した画面のみ</value>
   </data>
   <data name="TextWallpaperLayoutSpan" xml:space="preserve">
-    <value>Span across screens</value>
+    <value>画面をまたいで伸ばす</value>
   </data>
   <data name="TextWallpaperType" xml:space="preserve">
-    <value>Type</value>
+    <value>タイプ</value>
   </data>
   <data name="TextWebsite" xml:space="preserve">
-    <value>Website</value>
+    <value>Webサイト</value>
   </data>
   <data name="TextWebStream" xml:space="preserve">
-    <value>Web Stream</value>
+    <value>Webストリーミング</value>
   </data>
   <data name="TextWelcome" xml:space="preserve">
-    <value>Welcome</value>
+    <value>ようこそ</value>
   </data>
   <data name="TextYes" xml:space="preserve">
-    <value>Yes</value>
+    <value>はい</value>
   </data>
   <data name="TileVideoPlayer" xml:space="preserve">
-    <value>Video Player</value>
+    <value>ビデオプレイヤー</value>
   </data>
   <data name="TipAddWallpaperFileBrowse" xml:space="preserve">
     <value>Set all supported file types as wallpaper.</value>
