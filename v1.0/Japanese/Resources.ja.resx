@@ -506,7 +506,7 @@ Windows 7 の場合は、"パフォーマンスを優先する"を選択する�
     <value>ヘッドレス</value>
   </data>
   <data name="TextUILite" xml:space="preserve">
-    <value>簡易</value>
+    <value>ライト</value>
   </data>
   <data name="TextUINormal" xml:space="preserve">
     <value>通常</value>
