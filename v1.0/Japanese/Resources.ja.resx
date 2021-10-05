@@ -911,6 +911,6 @@ Edgeは、Windows 10に内蔵されたWebViewです。</value>
     <value>Webページの読み込み</value>
   </data>
   <data name="TitleWindowsStartup" xml:space="preserve">
-    <value>Windowsと同時に起動</value>
+    <value>Windows起動時にLivelyを起動</value>
   </data>
 </root>
