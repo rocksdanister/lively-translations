@@ -639,278 +639,278 @@ Windows 7 の場合は、"パフォーマンスを優先する"を選択する�
     <value>リモート デスクトップが有効になっているときの動作を変更します。</value>
   </data>
   <data name="TipScreensaver" xml:space="preserve">
-    <value>現在の壁紙をスクリーンセーバーとして設定します。</value>
+    <value>選択した時間経過したら、現在の壁紙をスクリーンセーバーとして使用します。</value>
   </data>
   <data name="TipStreamWallpaperDetect" xml:space="preserve">
-    <value>If supported video stream link is detected use the video player instead of loading the webpage.</value>
+    <value>サポートされているストリームのリンクが検出された場合、Webページを読み込む代わりにビデオプレイヤーを使用します。</value>
   </data>
   <data name="TipStreamWallpaperVideoQuality" xml:space="preserve">
-    <value>Select the desired video quality for online streams.</value>
+    <value>オンラインストリームで使用する動画の画質を選択します。</value>
   </data>
   <data name="TipSwitchSoftwareBranch" xml:space="preserve">
-    <value>Change software release from beta to stable or vice versa.</value>
+    <value>ソフトウェアのバージョンをベータ版から安定板に、またはその逆に変更します。</value>
   </data>
   <data name="TipTaskbarTheme" xml:space="preserve">
-    <value>Change system taskbar appearance.</value>
+    <value>タスクバーの外観を変更します。</value>
   </data>
   <data name="TipTileSize" xml:space="preserve">
-    <value>Size of the wallpaper tiles in Library.</value>
+    <value>ライブラリに表示される壁紙のタイルサイズです。</value>
   </data>
   <data name="TipUIMode" xml:space="preserve">
-    <value>For low-end systems select Lite mode.</value>
+    <value>ローエンドのシステムでは、ライトモードを選択してください。</value>
   </data>
   <data name="TipVideoHardwareDecode" xml:space="preserve">
-    <value>Use hardware acceleration when possible.</value>
+    <value>使用可能であればハードウェアアクセラレーションを使用します。</value>
   </data>
   <data name="TipVideoPlayer" xml:space="preserve">
-    <value>Select the player used for video wallpaper.</value>
+    <value>動画の壁紙に使用するプレイヤーを選択します。</value>
   </data>
   <data name="TipWallpaperDir" xml:space="preserve">
-    <value>Path used to store wallpaper files.</value>
+    <value>壁紙のファイルを保存するためのパスです。</value>
   </data>
   <data name="TipWallpaperFit" xml:space="preserve">
-    <value>Wallpaper scaling algorithm.</value>
+    <value>壁紙のスケーリングアルゴリズムです。</value>
   </data>
   <data name="TipWallpaperInput" xml:space="preserve">
-    <value>Select ways to interact with wallpaper.</value>
+    <value>壁紙へのインタラクトの方法を選択します。</value>
   </data>
   <data name="TipWallpaperLayout" xml:space="preserve">
-    <value>How wallpaper is applied to connected display devices.</value>
+    <value>接続されたディスプレイに壁紙を配置する方法です。</value>
   </data>
   <data name="TipWallpaperPlayback" xml:space="preserve">
-    <value>Pause wallpaper playback when desktop is not focused.</value>
+    <value>デスクトップがフォーカスされていない場合、壁紙の再生を一時停止します。</value>
   </data>
   <data name="TipWebBrowserDiskCache" xml:space="preserve">
-    <value>Store temporary files on disk instead of memory, settings gets restored when browser is restarted.</value>
+    <value>一時ファイルをメモリではなくディスクに保存し、ブラウザの再起動時に設定が復元されます。</value>
   </data>
   <data name="TipWebBrowserEngine" xml:space="preserve">
-    <value>CEF(Chromium Embedded Framework) is a lightweight chromium engine.
-Edge is the built in webview of windows 10.</value>
+    <value>CEF(Chromium Embedded Framework)は、軽量のChromiumエンジンです。
+Edgeは、Windows 10に内蔵されたWebViewです。</value>
   </data>
   <data name="TipWindowsStartup" xml:space="preserve">
-    <value>Lively needs to run in the background for wallpaper playback.</value>
+    <value>壁紙を再生するためには、Livelyをバックグラウンドで動作させる必要があります。</value>
   </data>
   <data name="TitleAbout" xml:space="preserve">
-    <value>About</value>
+    <value>情報</value>
   </data>
   <data name="TitleAddWallpaper" xml:space="preserve">
-    <value>Add Wallpaper</value>
+    <value>壁紙の追加</value>
   </data>
   <data name="TitleAppFocus" xml:space="preserve">
-    <value>Applications Focused</value>
+    <value>アプリケーションのフォーカス</value>
   </data>
   <data name="TitleAppFullScreen" xml:space="preserve">
-    <value>Applications Fullscreen</value>
+    <value>アプリケーションのフルスクリーン</value>
   </data>
   <data name="TitleAppName" xml:space="preserve">
     <value>Lively Wallpaper</value>
   </data>
   <data name="TitleAppRules" xml:space="preserve">
-    <value>Application Rules</value>
+    <value>アプリケーションのルール</value>
   </data>
   <data name="TitleAppTheme" xml:space="preserve">
-    <value>Theme</value>
+    <value>テーマ</value>
   </data>
   <data name="TitleAudio" xml:space="preserve">
-    <value>Audio</value>
+    <value>音声</value>
   </data>
   <data name="TitleAudioDesktopOnly" xml:space="preserve">
-    <value>Play audio only when desktop is focused</value>
+    <value>デスクトップがフォーカスされているときのみ音声を再生</value>
   </data>
   <data name="TitleAudioMaster" xml:space="preserve">
-    <value>Master Volume</value>
+    <value>マスターボリューム</value>
   </data>
   <data name="TitleAudioPlayOnScreen" xml:space="preserve">
-    <value>Play audio on screen</value>
+    <value>画面上で音声を再生します。</value>
   </data>
   <data name="TitleBatteryPower" xml:space="preserve">
-    <value>When on Battery Power</value>
+    <value>バッテリー駆動時</value>
   </data>
   <data name="TitleBrowseFile" xml:space="preserve">
-    <value>Browse for video, gif, webpage... file to set as wallpaper</value>
+    <value>動画、GIF、Webページなど壁紙として設定するファイルを参照します。</value>
   </data>
   <data name="TitleBrowserDebuggingPort" xml:space="preserve">
-    <value>Debugging Port</value>
+    <value>デバッグ用ポート</value>
   </data>
   <data name="TitleChangelog" xml:space="preserve">
-    <value>Changelog</value>
+    <value>変更履歴</value>
   </data>
   <data name="TitleCommunity" xml:space="preserve">
-    <value>Community</value>
+    <value>コミュニティ</value>
   </data>
   <data name="TitleDebug" xml:space="preserve">
-    <value>Debug</value>
+    <value>デバッグ</value>
   </data>
   <data name="TitleDeleteConfirmation" xml:space="preserve">
-    <value>Confirm Deletion</value>
+    <value>削除の確認</value>
   </data>
   <data name="TitleDesktopPicture" xml:space="preserve">
-    <value>Desktop Picture</value>
+    <value>デスクトップの画像</value>
   </data>
   <data name="TitleDisplayPauseRule" xml:space="preserve">
-    <value>Display Pause Rule</value>
+    <value>表示の一時停止ルール</value>
   </data>
   <data name="TitleDocumentation" xml:space="preserve">
-    <value>Documentation</value>
+    <value>ドキュメント</value>
   </data>
   <data name="TitleEnterUrl" xml:space="preserve">
-    <value>Enter URL</value>
+    <value>URLを入力してください。</value>
   </data>
   <data name="TitleExportLogs" xml:space="preserve">
-    <value>Log File</value>
+    <value>ログファイル</value>
   </data>
   <data name="TitleGeneral" xml:space="preserve">
-    <value>General</value>
+    <value>一般</value>
   </data>
   <data name="TitleGifPlayer" xml:space="preserve">
-    <value>Gif Player</value>
+    <value>Gif プレイヤー</value>
   </data>
   <data name="TitleHelp" xml:space="preserve">
-    <value>Help</value>
+    <value>ヘルプ</value>
   </data>
   <data name="TitleHideSysTray" xml:space="preserve">
-    <value>System-tray Icon</value>
+    <value>システムトレイアイコン</value>
   </data>
   <data name="TitleInteraction" xml:space="preserve">
-    <value>Interaction</value>
+    <value>インタラクション</value>
   </data>
   <data name="TitleLanguage" xml:space="preserve">
-    <value>Language</value>
+    <value>言語</value>
   </data>
   <data name="TitleLibrary" xml:space="preserve">
-    <value>Library</value>
+    <value>ライブラリー</value>
   </data>
   <data name="TitleLivelySetup" xml:space="preserve">
-    <value>Lively Setup</value>
+    <value>Lively セットアップ</value>
   </data>
   <data name="TitleLocation" xml:space="preserve">
-    <value>Location</value>
+    <value>場所</value>
   </data>
   <data name="TitleLockscreenPicture" xml:space="preserve">
-    <value>Lockscreen Picture</value>
+    <value>ロック画面の画像</value>
   </data>
   <data name="TitleMisc" xml:space="preserve">
-    <value>Misc</value>
+    <value>その他</value>
   </data>
   <data name="TitleMute" xml:space="preserve">
-    <value>Mute</value>
+    <value>ミュート</value>
   </data>
   <data name="TitlePauseAlgo" xml:space="preserve">
-    <value>Pause Algorithm</value>
+    <value>アルゴリズムの一時停止</value>
   </data>
   <data name="TitlePerformance" xml:space="preserve">
-    <value>Performance</value>
+    <value>パフォーマンス</value>
   </data>
   <data name="TitlePlaylist" xml:space="preserve">
-    <value>Playlist</value>
+    <value>プレイリスト</value>
   </data>
   <data name="TitlePleaseWait" xml:space="preserve">
-    <value>Please Wait</value>
+    <value>お待ちください</value>
   </data>
   <data name="TitlePowerSavingModePower" xml:space="preserve">
-    <value>When on Battery Saver</value>
+    <value>省電力モード有効時</value>
   </data>
   <data name="TitleRemoteDesktopPower" xml:space="preserve">
-    <value>When on Remote Desktop</value>
+    <value>リモート デスクトップ有効時</value>
   </data>
   <data name="TitleReportBug" xml:space="preserve">
-    <value>Report Bug</value>
+    <value>バグを報告</value>
   </data>
   <data name="TitleScalingFit" xml:space="preserve">
-    <value>Scaling/Fit</value>
+    <value>スケーリング/フィット</value>
   </data>
   <data name="TitleScreenLayout" xml:space="preserve">
-    <value>Control Panel</value>
+    <value>コントロール パネル</value>
   </data>
   <data name="TitleScreensaver" xml:space="preserve">
-    <value>Screensaver</value>
+    <value>スクリーンセーバー</value>
   </data>
   <data name="TitleScreensaverLockOnResume" xml:space="preserve">
-    <value>On resume, display logon screen</value>
+    <value>レジューム時、ログオン画面の表示</value>
   </data>
   <data name="TitleSelectFile" xml:space="preserve">
-    <value>Select File</value>
+    <value>ファイルを選択</value>
   </data>
   <data name="TitleSettings" xml:space="preserve">
-    <value>Settings</value>
+    <value>設定</value>
   </data>
   <data name="TitleSkipConfirm" xml:space="preserve">
-    <value>Skip Confirmation</value>
+    <value>スキップの確認</value>
   </data>
   <data name="TitleSourceCode" xml:space="preserve">
-    <value>Source Code</value>
+    <value>ソースコード</value>
   </data>
   <data name="TitleStore" xml:space="preserve">
-    <value>Store</value>
+    <value>ストア</value>
     <comment>For different version of Lively, example: Microsoft Store</comment>
   </data>
   <data name="TitleStreamWallpaper" xml:space="preserve">
-    <value>Stream</value>
+    <value>ストリーム</value>
   </data>
   <data name="TitleStreamWallpaperDetect" xml:space="preserve">
-    <value>Detect Streams</value>
+    <value>ストリームの検出</value>
   </data>
   <data name="TitleStreamWallpaperVideoQuality" xml:space="preserve">
-    <value>Video Quality</value>
+    <value>動画の画質</value>
   </data>
   <data name="TitleSystem" xml:space="preserve">
-    <value>System</value>
+    <value>システム</value>
   </data>
   <data name="TitleTaskbarTheme" xml:space="preserve">
-    <value>Taskbar Theme</value>
+    <value>タスクバーのテーマ</value>
   </data>
   <data name="TitleTileSize" xml:space="preserve">
-    <value>Tile Size</value>
+    <value>タイルのサイズ</value>
   </data>
   <data name="TitleUIMode" xml:space="preserve">
-    <value>User Interface</value>
+    <value>ユーザー インターフェース</value>
   </data>
   <data name="TitleUpdates" xml:space="preserve">
-    <value>Updates</value>
+    <value>アップデート</value>
   </data>
   <data name="TitleVideo" xml:space="preserve">
-    <value>Video</value>
+    <value>動画</value>
   </data>
   <data name="TitleVideoHardwareDecode" xml:space="preserve">
-    <value>GPU Decode</value>
+    <value>GPU デコード</value>
   </data>
   <data name="TitleWallpaper" xml:space="preserve">
-    <value>Wallpaper</value>
+    <value>壁紙</value>
   </data>
   <data name="TitleWallpaperDir" xml:space="preserve">
-    <value>Wallpaper Directory</value>
+    <value>壁紙のディレクトリ</value>
   </data>
   <data name="TitleWallpaperDirMoveExisting" xml:space="preserve">
-    <value>Move existing wallpapers to new folder</value>
+    <value>既存の壁紙を新しいフォルダに移動</value>
   </data>
   <data name="TitleWallpaperFit" xml:space="preserve">
-    <value>Choose a fit</value>
+    <value>フィットの方法を選択</value>
   </data>
   <data name="TitleWallpaperInput" xml:space="preserve">
-    <value>Wallpaper Input</value>
+    <value>壁紙の入力</value>
   </data>
   <data name="TitleWallpaperLayout" xml:space="preserve">
-    <value>Placement Method</value>
+    <value>配置方法</value>
   </data>
   <data name="TitleWallpaperPlayback" xml:space="preserve">
-    <value>Wallpaper Playback</value>
+    <value>壁紙の再生</value>
   </data>
   <data name="TitleWarning" xml:space="preserve">
-    <value>Warning</value>
+    <value>警告</value>
   </data>
   <data name="TitleWebBrowser" xml:space="preserve">
-    <value>Web Browser</value>
+    <value>Web ブラウザー</value>
   </data>
   <data name="TitleWebBrowserDiskCache" xml:space="preserve">
-    <value>Disk cache</value>
+    <value>ディスクキャッシュ</value>
   </data>
   <data name="TitleWebBrowserEngine" xml:space="preserve">
-    <value>Engine</value>
+    <value>エンジン</value>
   </data>
   <data name="TitleWebpageLoad" xml:space="preserve">
-    <value>Load Webpage</value>
+    <value>Webページの読み込み</value>
   </data>
   <data name="TitleWindowsStartup" xml:space="preserve">
-    <value>Start with Windows</value>
+    <value>Windowsと同時に起動</value>
   </data>
 </root>
