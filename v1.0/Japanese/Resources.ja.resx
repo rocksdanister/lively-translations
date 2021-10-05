@@ -575,28 +575,28 @@ Windows 7 の場合は、"パフォーマンスを優先する"を選択する�
     <value>ビデオプレイヤー</value>
   </data>
   <data name="TipAddWallpaperFileBrowse" xml:space="preserve">
-    <value>Set all supported file types as wallpaper.</value>
+    <value>サポートされているすべてのファイル形式を壁紙として設定します。</value>
   </data>
   <data name="TipAddWallpaperURL" xml:space="preserve">
-    <value>Set the web page of the URL you entered as wallpaper.</value>
+    <value>入力したURLのWebページを壁紙に設定します。</value>
   </data>
   <data name="TipAppFocus" xml:space="preserve">
-    <value>Set what to do when any application is in focus.</value>
+    <value>任意のアプリケーションがフォーカスされているときのモードです。</value>
   </data>
   <data name="TipAppFullScreen" xml:space="preserve">
-    <value>Set what to do when fullscreen games/applications are running.</value>
+    <value>フルスクリーンのゲーム/アプリケーションが実行されている時のモードです。</value>
   </data>
   <data name="TipAppRules" xml:space="preserve">
-    <value>Set different wallpaper playback rules based on running application.</value>
+    <value>実行中のアプリケーションに応じて、異なる壁紙の再生ルールを設定します。</value>
   </data>
   <data name="TipAppTheme" xml:space="preserve">
-    <value>Lively adapts to system theme settings, to change appearance goto</value>
+    <value>Livelyをシステムのテーマ設定に適応して、外観を変更する</value>
   </data>
   <data name="TipAudioMaster" xml:space="preserve">
-    <value>Volume level of all wallpapers.</value>
+    <value>すべての壁紙の音量です。</value>
   </data>
   <data name="TipBatteryPower" xml:space="preserve">
-    <value>Change playback when AC power is disconnected.</value>
+    <value>AC電源を切った状態のモードです。</value>
   </data>
   <data name="TipBrowserDebuggingPort" xml:space="preserve">
     <value>Enter the port for debugging webpage wallpapers, browser restart is required for changes to take effect.
