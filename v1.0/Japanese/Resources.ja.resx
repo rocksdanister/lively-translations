@@ -841,7 +841,7 @@ Edgeは、Windows 10に内蔵されたWebViewです。</value>
     <value>ソースコード</value>
   </data>
   <data name="TitleStore" xml:space="preserve">
-    <value>ストア</value>
+    <value>Microsoft ストア</value>
     <comment>For different version of Lively, example: Microsoft Store</comment>
   </data>
   <data name="TitleStreamWallpaper" xml:space="preserve">
