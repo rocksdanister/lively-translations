@@ -743,10 +743,10 @@ https://github.com/rocksdanister/lively/wiki</value>
     <comment>Pour une version différente de Lively, exemple : Microsoft Store</comment>
   </data>
   <data name="DescriptionWindowsNCodecInstall" xml:space="preserve">
-    <value>Votre version de Windows N/KN requiera le téléchargement de codecs additionnels pour supporter la lecture en arrière plan de vidéos pour les fonds d'écran.</value>
+    <value>Votre version de Windows N/KN requiert le téléchargement de codecs additionnels pour supporter la lecture en arrière plan de vidéos pour les fonds d'écran.</value>
   </data>
   <data name="TextLicense" xml:space="preserve">
-    <value>License</value>
+    <value>Licence</value>
   </data>
   <data name="TextPrivacyPolicy" xml:space="preserve">
     <value>Politique de confidentialité</value>
@@ -764,49 +764,49 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Signaler un Bug</value>
   </data>
   <data name="TitleVideoHardwareDecode" xml:space="preserve">
-    <value>GPU Decode</value>
+    <value>Décodage GPU</value>
   </data>
   <data name="TipVideoHardwareDecode" xml:space="preserve">
     <value>Utiliser l'accélération du matériel lorsque possible.</value>
   </data>
   <data name="DescriptionPleaseStop" xml:space="preserve">
-  <value>Please stop before proceeding.</value>
+  <value>Veuillez arrêter avant de continuer.</value>
 </data>
 <data name="TextEditWallpaper" xml:space="preserve">
-  <value>Edit</value>
+  <value>Éditer</value>
 </data>
 <data name="TitleLocation" xml:space="preserve">
-  <value>Location</value>
+  <value>Emplacement</value>
 </data>
 <data name="TitleSkipConfirm" xml:space="preserve">
-  <value>Skip Confirmation</value>
+  <value>Passer la confirmation</value>
 </data>
 <data name="TextWallpaperCommandlineArgs" xml:space="preserve">
-  <value>Enter optional commandline arguments</value>
+  <value>Entrez les arguments de ligne de commande additionnels</value>
 </data>
   <data name="TextGitHubStar" xml:space="preserve">
-    <value>Show some love by dropping a star</value>
+    <value>Montrez votre soutient en laissant une Star</value>
   </data>
   <data name="DescIncompatibleTaskbarTheme" xml:space="preserve">
-    <value>Incompatible program found, taskbar theming disabled.</value>
+    <value>Programme incompatible trouvé, thème de la barre des tâches désactivé</value>
   </data>
   <data name="TitleTaskbarTheme" xml:space="preserve">
-    <value>Taskbar Theme</value>
+    <value>Thème de la barre des tâches</value>
   </data>
   <data name="TitleLockscreenPicture" xml:space="preserve">
-    <value>Lockscreen Picture</value>
+    <value>Image de l'écran de verrouillage</value>
   </data>
   <data name="TitleDesktopPicture" xml:space="preserve">
-    <value>Desktop Picture</value>
+    <value>Image du Bureau</value>
   </data>
   <data name="TipLockscreenPicture" xml:space="preserve">
-    <value>Set a picture of animated wallpaper as lockscreen wallpaper.</value>
+    <value>Définissez une image de fond d'écran animé comme fond d'écran de verrouillage.</value>
   </data>
   <data name="TipDesktopPicture" xml:space="preserve">
-    <value>Set a picture of animated wallpaper as desktop wallpaper.</value>
+    <value>Définissez une image de fond d'écran animé comme fond d'écran.</value>
   </data>
   <data name="TipTaskbarTheme" xml:space="preserve">
-    <value>Change system taskbar appearance.</value>
+    <value>Changez l'apparence de la barre des tâches système</value>
   </data>
   <data name="TextTaskbarThemeBlur" xml:space="preserve">
     <value>Blur</value>
@@ -815,7 +815,7 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Clear</value>
   </data>
   <data name="TextTaskbarThemeColor" xml:space="preserve">
-    <value>Color</value>
+    <value>Couleur</value>
   </data>
   <data name="TextTaskbarThemeFluent" xml:space="preserve">
     <value>Fluent</value>
@@ -827,25 +827,25 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Wallpaper Fluent</value>
   </data>
   <data name="TitleSystem" xml:space="preserve">
-    <value>System</value>
+    <value>Système</value>
   </data>
   <data name="TitleSourceCode" xml:space="preserve">
-    <value>Source Code</value>
+    <value>Code Source</value>
   </data>
     <data name="TitleScreensaver" xml:space="preserve">
-    <value>Screensaver</value>
+    <value>Économiseur d'écran</value>
   </data>
   <data name="TipScreensaver" xml:space="preserve">
-    <value>After the selected inactivity period use the current wallpaper as your screensaver.</value>
+    <value>Après la période d'inactivité sélectionnée, définit le fond d'écran actuel comme économiseur d'écran</value>
   </data>
     <data name="TextHours" xml:space="preserve">
-    <value>hours</value>
+    <value>heures</value>
   </data>
   <data name="TextMinutes" xml:space="preserve">
     <value>minutes</value>
   </data>
   <data name="TextLearnMore" xml:space="preserve">
-    <value>Learn more</value>
+    <value>En Savoir Plus</value>
   </data>
     <data name="DescOledScreensaverNotice" xml:space="preserve">
     <value>Most modern LCD and LED displays do not suffer from burn-in issue and therefore any wallpaper can be used as screensaver.
@@ -855,49 +855,49 @@ For OLED, Plasma or CRT displays which are susceptibe to burn-in it is advised t
 The main purpose of Lively's screensavers is to add another layer of customization to your pc, use screensavers as burn-in protection at your own risk!</value>
   </data>
   <data name="TextChangeWallpaper" xml:space="preserve">
-    <value>Change Wallpapers</value>
+    <value>Changer le fond d'écran</value>
   </data>
   <data name="TextLastChecked" xml:space="preserve">
-    <value>Last checked</value>
+    <value>Dernière vérification</value>
   </data>
   <data name="TitleUpdates" xml:space="preserve">
-    <value>Updates</value>
+    <value>Mises à Jour</value>
   </data>
   <data name="DescCommunity" xml:space="preserve">
-    <value>Online discussion forum</value>
+    <value>Forum de discussion en ligne</value>
   </data>
   <data name="DescDocumentation" xml:space="preserve">
-    <value>API documentation and help</value>
+    <value>Aide et documentation de l'API</value>
   </data>
   <data name="DescOfficialWebpage" xml:space="preserve">
-    <value>Official webpage of Lively Wallpaper</value>
+    <value>Site Officiel de Lively Wallpaper</value>
   </data>
   <data name="DescReportBug" xml:space="preserve">
-    <value>Report a problem with the software</value>
+    <value>Signaler un problème avec le logiciel</value>
   </data>
   <data name="DescSupperDev" xml:space="preserve">
-    <value>Show support by buying the developer coffee</value>
+    <value>Montrez votre support en payant le café au développeur</value>
   </data>
   <data name="DescSwitchBranchBetaWarning" xml:space="preserve">
-    <value>You are about to change to beta (developer) build of Lively.
-Updates will be frequent and may contain bugs!</value>
+    <value>Vous êtes sur le point de changer de canal de mise à jour vers le canal bêta (développement) de Lively.
+Les Mises à Jour seront fréquentes et pourront contenir des bugs !</value>
   </data>
   <data name="TextSwitchBranchDev" xml:space="preserve">
-    <value>Switch to beta (Dev channel)</value>
+    <value>Changer vers bêta (Canal de développement)</value>
   </data>
   <data name="TextSwitchBranchOfficial" xml:space="preserve">
-    <value>Switch to stable (Default channel)</value>
+    <value>Changer vers stable (Canal par défaut)</value>
   </data>
   <data name="TipSwitchSoftwareBranch" xml:space="preserve">
-    <value>Change software release from beta to stable or vice versa.</value>
+    <value>Change le canal de mises à jour de stable vers bêta et inversement</value>
   </data>
   <data name="TitleChangelog" xml:space="preserve">
-    <value>Changelog</value>
+    <value>Notes de Version</value>
   </data>
   <data name="TextPauseAlgoExclusiveMode" xml:space="preserve">
     <value>Direct3D</value>
   </data>
   <data name="TitleScreensaverLockOnResume" xml:space="preserve">
-    <value>On resume, display logon screen</value>
+    <value>Lors de la reprise, afficher l'écran de connection</value>
   </data>  
 </root>
