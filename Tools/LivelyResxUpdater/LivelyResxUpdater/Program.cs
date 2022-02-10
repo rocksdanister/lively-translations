@@ -10,6 +10,50 @@ namespace LivelyResxUpdater
         static void Main(string[] args)
         {
             //UpdateResX();
+            Legacyv1Tov2();
+            Console.Read();
+        }
+
+        public static void RenameXMLNode(XmlDocument doc, XmlNode oldRoot, string newname)
+        {
+            XmlNode newRoot = doc.CreateElement("data");
+            newRoot.Attributes.Append(doc.CreateAttribute("name"));
+            newRoot.Attributes.Append(doc.CreateAttribute("xml:space"));
+            newRoot.Attributes["name"].Value = newname;
+            newRoot.Attributes["xml:space"].Value = "preserve";
+            foreach (XmlNode childNode in oldRoot.ChildNodes)
+            {
+                newRoot.AppendChild(childNode.CloneNode(true));
+            }
+            XmlNode parent = oldRoot.ParentNode;
+            parent.InsertBefore(newRoot, oldRoot);
+            parent.RemoveChild(oldRoot);
+        }
+
+        public static void Legacyv1Tov2()
+        {
+            var file = new XmlDocument();
+            file.Load("xml\\Resources.ru.resw");
+            var nodes = file.DocumentElement.ChildNodes;
+            for (int i = 0; i < nodes.Count - 1; i++)
+            {
+                var oName = nodes[i].Attributes["name"]?.InnerText;
+                foreach (string line in File.ReadLines("xml\\map.txt"))
+                {
+                    var item = line.Split(" ");
+                    if (oName == item[0])
+                    {
+                        Console.WriteLine("Changing:" + oName + " -> " + item[1]);
+                        RenameXMLNode(file, nodes[i], item[1]);
+                    }
+                }
+            }
+
+            foreach (XmlNode oNode in file.DocumentElement.ChildNodes)
+            {
+                Console.WriteLine(oNode.Attributes["name"]?.InnerText);
+            }
+            file.Save("xml\\final.resw");
         }
 
         /// <summary>

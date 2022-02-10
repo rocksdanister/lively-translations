@@ -1,0 +1,158 @@
+------------- Rename -------------------
+
+TipWindowsStartup Startup.Description
+TitleWindowsStartup Startup.Header
+HideSysTray HideSysTray.Description
+TitleHideSysTray HideSysTray.Header
+TipLanguage Language.Description
+TitleLanguage Language.Header
+TitleAudioMaster Audio.Header
+TipAudioMaster Audio.Description
+TitleAudio AudioGroup.Header
+TitleAudioDesktopOnly AudioFocused.Content
+TipWallpaperDir WallpaperDir.Description
+TitleWallpaperDir WallpaperDir.Header
+TitleWallpaperDirMoveExisting WallpaperDirMoveExisting.Content
+TitleAppTheme AppTheme.Header
+TextPerformanceKill TextPerformanceKill.Content
+TextPerformanceNone TextPerformanceNone.Content
+TextPerformancePause TextPerformancePause.Content
+TitleWallpaperPlayback WallpaperPlaybackGroup.Header
+TitleAppFullScreen AppFullScreen.Header
+TipAppFullScreen AppFullScreen.Description
+TitleAppFocus AppFocus.Header
+TipAppFocus AppFocus.Description
+TipBatteryPower BatteryPower.Description
+TitleBatteryPower BatteryPower.Header
+TipPowerSavingModePower PowerSavingModePower.Description
+TitlePowerSavingModePower PowerSavingModePower.Header
+TitleSystem System.Header
+TipRemoteDesktopPower RemoteDesktopPower.Description
+TitleRemoteDesktopPower RemoteDesktopPower.Header
+TextApplication Application.Header
+TitleAppRules AppRules.Header
+TipAppRules AppRules.Description
+TitleDebug Debug.Header
+TipDebug Debug.Description
+TipTaskbarTheme TaskbarTheme.Description
+TitleTaskbarTheme TaskbarTheme.Header
+TipExportLogs ExportLogs.Description
+TitleExportLogs ExportLogs.Header
+TitleDisplayPauseRule DisplayPauseRule.Header
+TipDisplayPauseRule DisplayPauseRule.Description
+TextDisplayPauseRulePerScreen DisplayPauseRulePerScreen.Content
+TextDisplayPauseRuleAllScreen DisplayPauseRuleAllScreen.Content
+TitlePauseAlgo PauseAlgorithm.Header
+TipPauseAlgorithm PauseAlgorithm.Description
+TextPauseAlgoAllProcess PauseAlgorithmTypeAllProcess.Content
+TextPauseAlgoExclusiveMode PauseAlgorithmTypeExclusiveMode.Content
+TextPauseAlgoForegroundProcess PauseAlgorithmTypeForegroundProcess.Content
+TitleLockscreenPicture LockscreenPicture.Header
+TipLockscreenPicture LockscreenPicture.Description
+TipDesktopPicture DesktopPicture.Description
+TitleDesktopPicture DesktopPicture.Header
+TitleWallpaperInput WallpaperInput.Header
+TipWallpaperInput WallpaperInput.Description
+TextMouseInteractOnDesktop MouseInteractOnDesktop.Content
+TextOff TextOff.Content
+TextOn TextOn.Content
+TextMouse TextMouse.Content
+TextKeyboard TextKeyboard.Content
+TipGifPlayer GifPlayer.Description
+TitleGifPlayer GifPlayer.Header
+TipWallpaperFit WallpaperFit.Description
+TitleWallpaperFit WallpaperFit.Header
+TextWallpaperFitFill WallpaperFitFill.Content
+TextWallpaperFitNone WallpaperFitNone.Content
+TextWallpaperFitUniform WallpaperFitUniform.Content
+TextWallpaperFitUniformToFill WallpaperFitUniformToFill.Content
+TileVideoPlayer VideoPlayer.Header
+TipVideoPlayer VideoPlayer.Description
+TipVideoHardwareDecode VideoHardwareDecode.Description
+TitleVideoHardwareDecode VideoHardwareDecode.Header
+TitleStreamWallpaper StreamWallpaperVideoQuality.Header
+TipStreamWallpaperVideoQuality StreamWallpaperVideoQuality.Description
+TitleStreamWallpaperDetect StreamWallpaperDetect.Header
+TipStreamWallpaperDetect StreamWallpaperDetect.Description
+TitleWebBrowser WebBrowser.Header
+TipWebBrowserEngine WebBrowser.Description
+TitleWebBrowserDiskCache WebBrowserDiskCache.Header
+TipWebBrowserDiskCache WebBrowserDiskCache.Description
+TitleBrowserDebuggingPort BrowserDebuggingPort.Header
+TipBrowserDebuggingPort BrowserDebuggingPort.Description
+TitleAddWallpaper AddWallpaper.Label
+TitleHelp Help.Label
+TitleAbout About.Label
+TextLicense License.Header
+TextAttribution Attribution.Header
+TextPrivacyPolicy PrivacyPolicy.Header
+DescriptionDragDropFIle DragDropFile.Text
+EnterUrl EnterUrl.Header
+TipAddWallpaperURL EnterUrl.Description
+DescriptionAddWallpaper AddWallpaperFileBrowse.Header
+TipAddWallpaperFileBrowse AddWallpaperFileBrowse.Description
+TextControlPanelOpen ControlPanel.Subtitle
+TitleScreenLayout ControlPanel.Title
+TextSetWallpaper SetWallpaper.Text
+TextPreviewWallpaper PreviewWallpaper.Text
+TextCustomise Customise.Text
+TextShowOnDisk ShowOnDisk.Text
+TextExportWallpaperZip ExportWallpaperZip.Text
+TextDeleteWallpaper DeleteWallpaper.Text
+TextEditWallpaper EditWallpaper.Text
+TextAuthor Author.Text
+TextSource WallpaperSource.Text
+TextWallpaperType WallpaperType.Text
+TextWebsite Website.Header
+DescOfficialWebpage OfficialWebpage.Content
+TitleDocumentation Documentation.Header
+DescDocumentation DocumentationPage.Content
+TitleCommunity Community.Header
+DescCommunity CommunityPage.Content
+TitleReportBug ReportBug.Header
+DescReportBug ReportBugPage.Content 
+TitlePleaseWait PleaseWait.Text
+TextDescription Description.Text
+TextCancel Cancel.Content
+TextTitle Title.Text
+TextTaskbarThemeBlur TaskbarThemeBlur.Content
+TextTaskbarThemeClear TaskbarThemeClear.Content
+TextTaskbarThemeColor TaskbarThemeColor.Content
+TextTaskbarThemeFluent TaskbarThemeFluent.Content
+TextTaskbarThemeWallpaper TaskbarThemeWallpaper.Content
+TextTaskbarThemeWallpaperFluent TaskbarThemeWallpaperFluent.Content
+TextCustomiseWallpaper CustomiseWallpaper.Label
+TextCloseWallpapers CloseWallpapers.Label
+TipWallpaperLayout WallpaperLayout.Description
+TitleWallpaperLayout WallpaperLayout.Header
+WallpaperLayoutPerScreen WallpaperLayoutPerScreen.Content
+WallpaperLayoutSpan WallpaperLayoutSpan.Content
+TextWallpaperLayoutDuplicate WallpaperLayoutDuplicate.Content
+
+------------- Newly Added -------------------
+
+WallpaperDirGroup.Header
+FastUI.Header
+FastUI.Description
+WindowsSettingsColor.Content
+AppThemeDark.Content
+AppThemeLight.Content
+AppThemeSystem.Content
+LaptopWallpaperPlaybackGroup.Header
+DeveloperGroup.Header
+AppearanceBehaviour.Header
+TitleGallery
+ActiveWallpapers.Label
+AboutMe.Text
+LicenseLink.Content
+AttributionLink.Content
+PrivacyPolicyLink.Content
+AddWallpaperDrop.Text
+ComingSoon.Text
+TextOpen.Content
+TextSave.Content
+
+------------- Copy Existing -------------------
+
+About.Label AboutMenu.Text
+Website.Header SourceWebsite.Text
