@@ -1,0 +1,2 @@
+About.Label AboutMenu.Text
+Website.Header SourceWebsite.Text

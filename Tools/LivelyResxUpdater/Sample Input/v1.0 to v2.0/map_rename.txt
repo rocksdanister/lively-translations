@@ -1,5 +1,3 @@
-------------- Rename -------------------
-
 TipWindowsStartup Startup.Description
 TitleWindowsStartup Startup.Header
 HideSysTray HideSysTray.Description
@@ -125,34 +123,11 @@ TextCustomiseWallpaper CustomiseWallpaper.Label
 TextCloseWallpapers CloseWallpapers.Label
 TipWallpaperLayout WallpaperLayout.Description
 TitleWallpaperLayout WallpaperLayout.Header
-WallpaperLayoutPerScreen WallpaperLayoutPerScreen.Content
-WallpaperLayoutSpan WallpaperLayoutSpan.Content
+TextWallpaperLayoutPerScreen WallpaperLayoutPerScreen.Content
+TextWallpaperLayoutSpan WallpaperLayoutSpan.Content
 TextWallpaperLayoutDuplicate WallpaperLayoutDuplicate.Content
-
-------------- Newly Added -------------------
-
-WallpaperDirGroup.Header
-FastUI.Header
-FastUI.Description
-WindowsSettingsColor.Content
-AppThemeDark.Content
-AppThemeLight.Content
-AppThemeSystem.Content
-LaptopWallpaperPlaybackGroup.Header
-DeveloperGroup.Header
-AppearanceBehaviour.Header
-TitleGallery
-ActiveWallpapers.Label
-AboutMe.Text
-LicenseLink.Content
-AttributionLink.Content
-PrivacyPolicyLink.Content
-AddWallpaperDrop.Text
-ComingSoon.Text
-TextOpen.Content
-TextSave.Content
-
-------------- Copy Existing -------------------
-
-About.Label AboutMenu.Text
-Website.Header SourceWebsite.Text
+TitleStore Store.Header
+TextStoreReview StoreReview.Content
+TitleSourceCode SourceCode.Header
+TextGitHubStar GitHubStar.Content
+TextSupport TextSupport.Content
