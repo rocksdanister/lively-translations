@@ -260,7 +260,7 @@ Wenn es immer noch nicht funktioniert, schließen &amp; starten Sie Lively oder 
     <value>Mehr Hintergründe</value>
   </data>
   <data name="TextMouseInteractOnDesktop" xml:space="preserve">
-    <value>Maus Interaktion trotz Anwendung im Vordergrund</value>
+    <value>Mausinteraktion trotz einer Anwendung im Vordergrund</value>
   </data>
   <data name="TextNext" xml:space="preserve">
     <value>Nächste</value>
