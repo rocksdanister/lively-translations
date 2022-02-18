@@ -260,7 +260,7 @@ Wenn es immer noch nicht funktioniert, schließen &amp; starten Sie Lively oder 
     <value>Mehr Hintergründe</value>
   </data>
   <data name="TextMouseInteractOnDesktop" xml:space="preserve">
-    <value>Hintergrundinteraktion mit der Maus bei aktiver Anwendung im Vordergrund</value>
+    <value>Maus Interaktion trotz Anwendung im Vordergrund</value>
   </data>
   <data name="TextNext" xml:space="preserve">
     <value>Nächste</value>
@@ -335,7 +335,7 @@ Wenn es immer noch nicht funktioniert, schließen &amp; starten Sie Lively oder 
     <value>Klein</value>
   </data>
   <data name="TextUIHeadless" xml:space="preserve">
-    <value>wiedergabe</value>
+    <value>Headless</value>
   </data>
   <data name="TextUILite" xml:space="preserve">
     <value>Lite</value>
@@ -423,7 +423,7 @@ Wenn Sie bereit sind, navigieren Sie zu http://localhost:portnumber, um auf die 
     <value>Beenden Sie die Einrichtung um fortzufahren.</value>
   </data>
   <data name="TipPauseAlgorithm" xml:space="preserve">
-    <value>Wählen Sie, welcher Hintergrundpausier-Algorithmus verwendet wird.</value>
+    <value>Wählen, welcher Algorithmus für das Erkennen von Anwendungen verwendet wird.</value>
   </data>
   <data name="TipPowerSavingModePower" xml:space="preserve">
     <value>Wiedergabe ändern, wenn der Energiesparmodus aktiviert ist.</value>
@@ -456,7 +456,7 @@ Wenn Sie bereit sind, navigieren Sie zu http://localhost:portnumber, um auf die 
     <value>Wählen Sie die Möglichkeiten zur Interaktion mit dem Hintergrund aus.</value>
   </data>
   <data name="TipWallpaperPlayback" xml:space="preserve">
-    <value>Wallpaper-Wiedergabe pausieren, wenn der Desktop nicht aktiv ist.</value>
+    <value>Wallpaper pausieren, wenn der Desktop nicht im Vordergrund ist.</value>
   </data>
   <data name="TipWebBrowserDiskCache" xml:space="preserve">
     <value>Temporäre Dateien auf dem Datenträger, statt im Arbeitsspeicher aufbewahren. Die Einstellungen werden beim Neustart des Browsers wiederhergestellt.</value>
@@ -544,7 +544,7 @@ Edge ist die eingebaute Webansicht von Windows 10.</value>
     <value>Stumm</value>
   </data>
   <data name="TitlePauseAlgo" xml:space="preserve">
-    <value>Pausier-Algorithmus</value>
+    <value>Pausier Algorithmus</value>
   </data>
   <data name="TitlePerformance" xml:space="preserve">
     <value>Leistung</value>
@@ -607,7 +607,7 @@ Edge ist die eingebaute Webansicht von Windows 10.</value>
     <value>Wählen Sie das Hintergrund-Layout</value>
   </data>
   <data name="TitleWallpaperPlayback" xml:space="preserve">
-    <value>Hintergrundbildwiedergabe</value>
+    <value>Wallpaper Wiedergabe</value>
   </data>
   <data name="TitleWarning" xml:space="preserve">
     <value>Warnung</value>
@@ -759,7 +759,7 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>GIF-Viewer</value>
   </data>
   <data name="TipGifPlayer" xml:space="preserve">
-    <value>Wählen Sie einen Viewer für GIF-Hintergründe.</value>
+    <value>Wählen Sie einen Player für GIF-Hintergründe.</value>
   </data>
   <data name="TextFeatureMissing" xml:space="preserve">
     <value>Einige Funktionen sind in dieser Version von Lively nicht verfügbar</value>
@@ -791,7 +791,7 @@ Aktualisierungen finden häufiger statt und können Fehler enthalten!</value>
     <value>Datenschutz-Bestimmungen</value>
   </data>
   <data name="TitleAudioDesktopOnly" xml:space="preserve">
-    <value>Audio nur dann wiedergeben, wenn der Desktop aktiv ist</value>
+    <value>Audio nur dann wiedergeben, wenn der Desktop im Vordergrund ist</value>
   </data>
   <data name="TipExportLogs" xml:space="preserve">
     <value>Protokolldatei erstellen.</value>
