@@ -182,7 +182,7 @@
     <value>Datei auswählen</value>
   </data>
   <data name="DescriptionAppRules" xml:space="preserve">
-    <value>Wiedergabeverhalten von Hintergründen basierend auf der laufenden Anwendung festlegen</value>
+    <value>Wiedergaberegeln basierend auf laufenden Anwendungen festlegen</value>
   </data>
   <data name="DescriptionCancelQuestion" xml:space="preserve">
     <value>Wollen Sie diese Aktion wirklich abbrechen?</value>
@@ -449,7 +449,7 @@ Wenn es immer noch nicht funktioniert, schließen &amp; starten Sie Lively oder 
     <value>Datei mit unterstütztem Dateityp als Hintergrund festlegen</value>
   </data>
   <data name="EnterUrl.Description" xml:space="preserve">
-    <value>Festlegen der Webseite der eingebenen URL als Hintergrund</value>
+    <value>Die Webseite mit der eingegebenen URL als Hintergrund festlegen</value>
   </data>
   <data name="AppFocus.Description" xml:space="preserve">
     <value>Einstellen was passieren soll wenn eine Anwendung im Vordergrund ist</value>
@@ -503,13 +503,13 @@ Wenn es immer noch nicht funktioniert, schließen &amp; starten Sie Lively oder 
     <value>Der Lite Modus ist für Low-End Systeme geeignet</value>
   </data>
   <data name="VideoPlayer.Description" xml:space="preserve">
-    <value>Einen Player für Videohintergründe festlegen</value>
+    <value>Wählen Sie einen Player für Videohintergründe</value>
   </data>
   <data name="WallpaperDir.Description" xml:space="preserve">
     <value>Pfad, der zum Speichern von Hintergründen verwendet wird</value>
   </data>
   <data name="WallpaperInput.Description" xml:space="preserve">
-    <value>Interaktionsmethode für Hintergründe festlegen</value>
+    <value>Methode zur Interaktion mit Hintergründen auswählen</value>
   </data>
   <data name="TipWallpaperPlayback" xml:space="preserve">
     <value>Wiedergabe von Hintergründen pausieren, wenn der Desktop nicht fokussiert ist</value>
@@ -811,7 +811,7 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Gif Player</value>
   </data>
   <data name="GifPlayer.Description" xml:space="preserve">
-    <value>Wähle den Player für Gif Hintergründe</value>
+    <value>Wählen Sie einen Player für GIF-Hintergründe</value>
   </data>
   <data name="TextFeatureMissing" xml:space="preserve">
     <value>Einige Funktionen sind in dieser Version von Lively nicht verfügbar</value>
@@ -966,7 +966,7 @@ Der Hauptzweck von Livelys Bildschirmschonern ist das hinzufügen einer weiteren
     <value>Webseite</value>
   </data>
   <data name="AboutMenu.Text" xml:space="preserve">
-    <value>Über Lively</value>
+    <value>Über den Hintergrund</value>
   </data>
   <data name="EnterUrl.Header" xml:space="preserve">
     <value>URL eingeben</value>
