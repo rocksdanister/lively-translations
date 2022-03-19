@@ -470,7 +470,7 @@ Wenn es immer noch nicht funktioniert, schließen &amp; starten Sie Lively oder 
     <value>Geben Sie den Port für das Debuggen von Webpage-Hintergründen ein. Öffnen Sie http://localhost:portnumber, um auf die Entwicklerkonsole zuzugreifen</value>
   </data>
   <data name="DisplayPauseRule.Description" xml:space="preserve">
-    <value>Wählen, ob nur die Anzeige mit der aktiven Anwendung pausiert werden soll</value>
+    <value>Auswählen, welche Anzeigen pausiert werden sollen, wenn eine Anwendung im Vordergrund ist</value>
   </data>
   <data name="Language.Description" xml:space="preserve">
     <value>Lively muss neu gestartet werden, um die ausgewählte Sprache anzuwenden</value>
@@ -542,7 +542,7 @@ Wenn es immer noch nicht funktioniert, schließen &amp; starten Sie Lively oder 
     <value>Anwendungsregeln</value>
   </data>
   <data name="AppTheme.Header" xml:space="preserve">
-    <value>Aussehen</value>
+    <value>Farbschema</value>
   </data>
   <data name="AudioGroup.Header" xml:space="preserve">
     <value>Audio</value>
@@ -596,7 +596,7 @@ Wenn es immer noch nicht funktioniert, schließen &amp; starten Sie Lively oder 
     <value>Stumm</value>
   </data>
   <data name="PauseAlgorithm.Header" xml:space="preserve">
-    <value>Fenster Algorithmus</value>
+    <value>Fenster-Algorithmus</value>
   </data>
   <data name="TitlePerformance" xml:space="preserve">
     <value>Leistung</value>
@@ -611,7 +611,7 @@ Wenn es immer noch nicht funktioniert, schließen &amp; starten Sie Lively oder 
     <value>Wenn auf Energie sparen</value>
   </data>
   <data name="RemoteDesktopPower.Header" xml:space="preserve">
-    <value>Während Remote-Desktop</value>
+    <value>Während Remotedesktop</value>
   </data>
   <data name="TitleScalingFit" xml:space="preserve">
     <value>Skalierung und Anpassung</value>
@@ -823,7 +823,7 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Gefällt dir Lively? Lass eine Bewertung da :)</value>
   </data>
   <data name="Store.Header" xml:space="preserve">
-    <value>Speicher</value>
+    <value>Microsoft Store</value>
     <comment>Für andere Versionen von Lively. Beispiel: Microsoft Store</comment>
   </data>
   <data name="DescriptionWindowsNCodecInstall" xml:space="preserve">
