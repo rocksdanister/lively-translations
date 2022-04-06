@@ -910,7 +910,7 @@ Windows Explorer wurde in den letzten 30 Sekunden zwei Mal neu gestartet! Dies k
     <value>Sperrbildschirm-Bild</value>
   </data>
   <data name="DesktopPicture.Header" xml:space="preserve">
-    <value>Dekstop-Bild</value>
+    <value>Desktop-Bild</value>
   </data>
   <data name="LockscreenPicture.Description" xml:space="preserve">
     <value>Einen animierten Hintergrund für den Sperrbildschirm festlegen.</value>
