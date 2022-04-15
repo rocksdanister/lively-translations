@@ -1,5 +1,0 @@
-files:
-  - source: /v2.0/
-    translation: /translation/%two_letters_code%/Resources.resw
-  - source: /v2.0/
-    translation: /translation/%locale%/Resources.resw
