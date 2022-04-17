@@ -977,13 +977,4 @@ Der Hauptzweck von Livelys Bildschirmschonern ist das hinzufügen einer weiteren
   <data name="OfficialWebpage.Content" xml:space="preserve">
     <value>Offizielle Webseite von Lively Wallpaper</value>
   </data>
-  <data name="EnterUrl.Header" xml:space="preserve">
-    <value>Enter URL</value>
-  </data>
-  <data name="HideSysTray.Description" xml:space="preserve">
-    <value>System-tray icon visibility, lively will continue to run with the icon hidden</value>
-  </data>
-  <data name="OfficialWebpage.Content" xml:space="preserve">
-    <value>Official webpage of Lively Wallpaper</value>
-  </data>
 </root>
