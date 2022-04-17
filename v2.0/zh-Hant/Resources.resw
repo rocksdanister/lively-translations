@@ -988,4 +988,16 @@ Edge 是 Windows 10 的內建網頁繪製元件 (Webview)。</value>
   <data name="Startup.Header" xml:space="preserve">
     <value>Start with Windows</value>
   </data>
+  <data name="UIMode.Description" xml:space="preserve">
+    <value>User interface effects and animations</value>
+  </data>
+  <data name="UIMode.Header" xml:space="preserve">
+    <value>User interface</value>
+  </data>
+  <data name="UIModeLite.Content" xml:space="preserve">
+    <value>Lite</value>
+  </data>
+  <data name="UIModeNormal.Content" xml:space="preserve">
+    <value>Normal</value>
+  </data>
 </root>

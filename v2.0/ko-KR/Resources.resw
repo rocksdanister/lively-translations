@@ -989,4 +989,16 @@ Windows 탐색기가 지난 30초 동안 두 번 다시 시작되었습니다! L
   <data name="EnterUrl.Header" xml:space="preserve">
     <value>Enter URL</value>
   </data>
+  <data name="UIMode.Description" xml:space="preserve">
+    <value>User interface effects and animations</value>
+  </data>
+  <data name="UIMode.Header" xml:space="preserve">
+    <value>User interface</value>
+  </data>
+  <data name="UIModeLite.Content" xml:space="preserve">
+    <value>Lite</value>
+  </data>
+  <data name="UIModeNormal.Content" xml:space="preserve">
+    <value>Normal</value>
+  </data>
 </root>

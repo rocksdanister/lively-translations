@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
     <!-- 
     Microsoft ResX Schema 
@@ -976,5 +976,17 @@ Der Hauptzweck von Livelys Bildschirmschonern ist das hinzufügen einer weiteren
   </data>
   <data name="OfficialWebpage.Content" xml:space="preserve">
     <value>Offizielle Webseite von Lively Wallpaper</value>
+  </data>
+  <data name="UIMode.Description" xml:space="preserve">
+    <value>User interface effects and animations</value>
+  </data>
+  <data name="UIMode.Header" xml:space="preserve">
+    <value>User interface</value>
+  </data>
+  <data name="UIModeLite.Content" xml:space="preserve">
+    <value>Lite</value>
+  </data>
+  <data name="UIModeNormal.Content" xml:space="preserve">
+    <value>Normal</value>
   </data>
 </root>

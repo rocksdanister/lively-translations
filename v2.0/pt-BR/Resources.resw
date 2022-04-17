@@ -987,4 +987,16 @@ O Explorador do Windows reiniciou duas vezes nos últimos 30 segundos! Isso pode
   <data name="HideSysTray.Description" xml:space="preserve">
     <value>System-tray icon visibility, lively will continue to run with the icon hidden</value>
   </data>
+  <data name="UIMode.Description" xml:space="preserve">
+    <value>User interface effects and animations</value>
+  </data>
+  <data name="UIMode.Header" xml:space="preserve">
+    <value>User interface</value>
+  </data>
+  <data name="UIModeLite.Content" xml:space="preserve">
+    <value>Lite</value>
+  </data>
+  <data name="UIModeNormal.Content" xml:space="preserve">
+    <value>Normal</value>
+  </data>
 </root>

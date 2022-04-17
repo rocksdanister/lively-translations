@@ -986,4 +986,16 @@ Windows Explorer restarted twice in the last 30 seconds! This may be a conflict 
   <data name="RemoteDesktopPower.Header" xml:space="preserve">
     <value>When on Remote Desktop</value>
   </data>
+  <data name="UIMode.Description" xml:space="preserve">
+    <value>User interface effects and animations</value>
+  </data>
+  <data name="UIMode.Header" xml:space="preserve">
+    <value>User interface</value>
+  </data>
+  <data name="UIModeLite.Content" xml:space="preserve">
+    <value>Lite</value>
+  </data>
+  <data name="UIModeNormal.Content" xml:space="preserve">
+    <value>Normal</value>
+  </data>
 </root>
