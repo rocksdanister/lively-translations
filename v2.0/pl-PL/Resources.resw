@@ -118,64 +118,64 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="WallpaperDirGroup.Header" xml:space="preserve">
-    <value>File</value>
+    <value>Plik</value>
   </data>
   <data name="FastUI.Header" xml:space="preserve">
-    <value>Fast startup</value>
+    <value>Szybki start</value>
   </data>
   <data name="FastUI.Description" xml:space="preserve">
-    <value>Keep User Interface running for faster startup</value>
+    <value>Utrzymuj Interfejs Użytkownika uruchomiony, aby zapewnić szybki start</value>
   </data>
   <data name="WindowsSettingsColor.Content" xml:space="preserve">
-    <value>Windows color settings</value>
+    <value>Ustawienia koloru okien</value>
   </data>
   <data name="AppThemeDark.Content" xml:space="preserve">
-    <value>Dark</value>
+    <value>Ciemny</value>
   </data>
   <data name="AppThemeLight.Content" xml:space="preserve">
-    <value>Light</value>
+    <value>Jasny</value>
   </data>
   <data name="AppThemeSystem.Content" xml:space="preserve">
-    <value>System</value>
+    <value>Systemowy</value>
   </data>
   <data name="LaptopWallpaperPlaybackGroup.Header" xml:space="preserve">
-    <value>Laptops</value>
+    <value>Laptopy</value>
   </data>
   <data name="DeveloperGroup.Header" xml:space="preserve">
-    <value>Developer</value>
+    <value>Twórca</value>
   </data>
   <data name="AppearanceBehaviour.Header" xml:space="preserve">
-    <value>Appearance &amp; behavior</value>
+    <value>Zachowanie się &amp; wyglądu</value>
   </data>
   <data name="TitleGallery" xml:space="preserve">
-    <value>Gallery</value>
+    <value>Galeria</value>
   </data>
   <data name="ActiveWallpapers.Label" xml:space="preserve">
-    <value>Active Wallpaper(s)</value>
+    <value>Aktywna tapeta(y)</value>
   </data>
   <data name="AboutMe.Text" xml:space="preserve">
-    <value>Hi, I'm Dani John also known as rocksdanister. I developed Lively a Free and open-source (FOSS) wallpaper application. Thanks for taking the time to look at my work.</value>
+    <value>Cześć, nazywam się Dani John znany także jako rocksdanister. Stworzyłem Lively darmową, otwarto-źródłową (FOSS) aplikację do tapet. Dzięki za poświęcenie czasu na obejrzenie mojej pracy.</value>
   </data>
   <data name="LicenseLink.Content" xml:space="preserve">
-    <value>Software license</value>
+    <value>Licencja oprogramowania</value>
   </data>
   <data name="AttributionLink.Content" xml:space="preserve">
-    <value>Third party software notice</value>
+    <value>Uwaga dotycząca oprogramowania stron trzecich</value>
   </data>
   <data name="PrivacyPolicyLink.Content" xml:space="preserve">
-    <value>Data collection policy</value>
+    <value>Polityka gromadzenia danych</value>
   </data>
   <data name="AddWallpaperDrop.Text" xml:space="preserve">
-    <value>Add wallpaper</value>
+    <value>Dodaj tapetę</value>
   </data>
  <data name="ComingSoon.Text" xml:space="preserve">
-    <value>Coming soon</value>
+    <value>Pojawi się wkrótce</value>
   </data>
   <data name="TextOpen.Content" xml:space="preserve">
-    <value>Open</value>
+    <value>Otwórz</value>
   </data>
   <data name="TextSave.Content" xml:space="preserve">
-    <value>Save</value>
+    <value>Zapisz</value>
   </data>
   <data name="AddWallpaperFileBrowse.Header" xml:space="preserve">
     <value>Wybierz plik lub określ adres strony aby ustawić jako tapetę.</value>
@@ -308,7 +308,7 @@ Jeśli ciągle nie działa,  uruchom ponownie Lively / system Windows.
     <value>START</value>
   </data>
   <data name="TextHelpTranslate" xml:space="preserve">
-    <value>Pomż tłumaczyć Lively.</value>
+    <value>Pomóż tłumaczyć Lively.</value>
   </data>
   <data name="TextInstall" xml:space="preserve">
     <value>Zainstaluj</value>
@@ -323,7 +323,7 @@ Jeśli ciągle nie działa,  uruchom ponownie Lively / system Windows.
     <value>Przechwytywanie myszy w trakcie korzystania z innej aplikacji</value>
   </data>
   <data name="TextNext" xml:space="preserve">
-    <value>Next</value>
+    <value>Następny</value>
   </data>
   <data name="TextNo" xml:space="preserve">
     <value>Nie</value>
@@ -867,13 +867,13 @@ https://github.com/rocksdanister/lively/wiki</value>
     <value>Zmień wygląd paska zadań.</value>
   </data>
   <data name="TaskbarThemeBlur.Content" xml:space="preserve">
-    <value>Blur</value>
+    <value>Rozmyty</value>
   </data>
   <data name="TaskbarThemeClear.Content" xml:space="preserve">
-    <value>Czysty</value>
+    <value>Przeźroczysty</value>
   </data>
   <data name="TaskbarThemeColor.Content" xml:space="preserve">
-    <value>Rozmycie</value>
+    <value>Rozmyty</value>
   </data>
   <data name="TaskbarThemeFluent.Content" xml:space="preserve">
     <value>Płynny</value>
@@ -965,38 +965,38 @@ Aktualizacje będą częste i mogą zawierać błędy!</value>
     <value>O programie</value>
   </data>
   <data name="DescExplorerCrash" xml:space="preserve">
-    <value>Lively has encountered a fatal error.
+    <value>Lively napotkał krytyczny błąd.
 
-Windows Explorer restarted twice in the last 30 seconds! This may be a conflict between Lively and other desktop customization software or Windows. To avoid further issues, all wallpapers are terminated.</value>
+Eksplorator Windows został uruchomiony ponownie dwukrotnie w ciągu ostatnich 30 sekund! To może być konflikt pomiędzy Lively a innym oprogramowaniem do zmiany wyglądu lub Windows. Aby uniknąć dalszych problemów, wszystkie tapety zostały zakończone.</value>
   </data>
   <data name="HideSysTray.Description" xml:space="preserve">
-    <value>System-tray icon visibility, lively will continue to run with the icon hidden</value>
+    <value>Widoczność ikony zasobnika, lively będzie kontunuował dalszą pracę z ukrytą ikoną</value>
   </data>
   <data name="PowerSavingModePower.Description" xml:space="preserve">
-    <value>Change playback when Windows Power Saving Mode is enabled</value>
+    <value>Zmień odtwarzanie, gdy włączony jest tryb oszczędzania energii systemu Windows</value>
   </data>
   <data name="RemoteDesktopPower.Description" xml:space="preserve">
-    <value>Change playback when running a Remote Desktop session</value>
+    <value>Zmień odtwarzanie, podczas sesji zdalnego pulpitu</value>
   </data>
   <data name="EnterUrl.Header" xml:space="preserve">
-    <value>Enter URL</value>
+    <value>Wprowadź URL</value>
   </data>
   <data name="PowerSavingModePower.Header" xml:space="preserve">
-    <value>When on Battery Saver</value>
+    <value>W trybie oszczędzania baterii</value>
   </data>
   <data name="RemoteDesktopPower.Header" xml:space="preserve">
-    <value>When on Remote Desktop</value>
+    <value>Podczas sesji zdalnego pulpitu</value>
   </data>
   <data name="UIMode.Description" xml:space="preserve">
-    <value>User interface effects and animations</value>
+    <value>Efekty i animacje interfejsu użytkownika</value>
   </data>
   <data name="UIMode.Header" xml:space="preserve">
-    <value>User interface</value>
+    <value>Interfejs użytkownika</value>
   </data>
   <data name="UIModeLite.Content" xml:space="preserve">
-    <value>Lite</value>
+    <value>Lekki</value>
   </data>
   <data name="UIModeNormal.Content" xml:space="preserve">
-    <value>Normal</value>
+    <value>Normalny</value>
   </data>  
 </root>
