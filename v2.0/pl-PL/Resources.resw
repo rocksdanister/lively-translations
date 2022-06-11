@@ -130,7 +130,7 @@
     <value>Ustawienia koloru okien</value>
   </data>
   <data name="AppThemeDark.Content" xml:space="preserve">
-    <value>Dark</value>
+    <value>Ciemny</value>
   </data>
   <data name="AppThemeLight.Content" xml:space="preserve">
     <value>Jasny</value>
