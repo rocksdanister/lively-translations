@@ -121,13 +121,13 @@
     <value>Play audio only when desktop is focused</value>
   </data>
   <data name="Audio.Description" xml:space="preserve">
-    <value>Volume level of all wallpapers</value>
+    <value>Mức âm lượng của tất cả các hình nền.</value>
   </data>
   <data name="Audio.Header" xml:space="preserve">
-    <value>Volume</value>
+    <value>Âm lượng</value>
   </data>
   <data name="AudioGroup.Header" xml:space="preserve">
-    <value>Audio</value>
+    <value>Âm thanh</value>
   </data>
   <data name="CommunityPage.Content" xml:space="preserve">
     <value>Online discussion forum</value>
@@ -141,7 +141,7 @@
 Windows Explorer restarted twice in the last 30 seconds! This may be a conflict between Lively and other desktop customization software or Windows. To avoid further issues, all wallpapers are terminated.</value>
   </data>
   <data name="DescIncompatibleTaskbarTheme" xml:space="preserve">
-    <value>Incompatible program found, taskbar theming disabled</value>
+    <value>Incompatible program found, taskbar theming disabled.</value>
   </data>
   <data name="OfficialWebpage.Content" xml:space="preserve">
     <value>Official webpage of Lively Wallpaper</value>
@@ -157,57 +157,57 @@ The main purpose of Lively's screensavers is to add another layer of customizati
     <value>Report a problem with the software</value>
   </data>
   <data name="AddWallpaperFileBrowse.Header" xml:space="preserve">
-    <value>Choose a file</value>
+    <value>Chọn file hoặc url trang web để đặt làm hình nền.</value>
   </data>
   <data name="DescriptionAppRules" xml:space="preserve">
-    <value>Wallpaper playback behaviour based on running application</value>
+    <value>Dừng hoặc phát lại hình nền dựa trên ứng dụng đang chạy.</value>
   </data>
   <data name="DescriptionCancelQuestion" xml:space="preserve">
-    <value>Are you sure you want to cancel?</value>
+    <value>Bạn có chắc muốn hủy bỏ?</value>
   </data>
   <data name="DescriptionDeleteConfirmation" xml:space="preserve">
-    <value>Are you sure you want to permanently delete this wallpaper from the disk?</value>
+    <value>Bạn có chắc chắn muốn xóa vĩnh viễn hình nền này khỏi bộ nhớ?</value>
   </data>
   <data name="DescriptionDeleteConfirmationLibrary" xml:space="preserve">
-    <value>Are you sure you want to delete this wallpaper from the Library?</value>
+    <value>Bạn có chắc chắn muốn xóa nền này khỏi thư viện?</value>
   </data>
   <data name="DragDropFile.Text" xml:space="preserve">
-    <value>Simply drag and drop files into here</value>
+    <value>Đơn giản kéo thả file vào thư viện.</value>
   </data>
   <data name="DescriptionExternalAppWarning" xml:space="preserve">
-    <value>You are opening an external application as wallpaper.
-Malicious applications can host malware, virus.. and do harm to your system.
-Only continue if this application comes from a trusted source.</value>
+    <value>Bạn đang mở ứng dụng ngoại vi làm hình nền.
+Phần mềm không được kiểm duyệt có thể chứa phần mềm gián điệp, virus.. và làm hại đến máy tính của bạn.
+Chỉ tiếp tục nếu phần mềm này được tin tưởng.</value>
   </data>
   <data name="MinimizedTray.Text" xml:space="preserve">
-    <value>Lively is minimized to systemtray, right click lively icon to continue.</value>
+    <value>Lively đã được thu nhỏ vào khay hệ thống, click vào biểu tượng Lively để tiếp tục.</value>
   </data>
   <data name="DescriptionPleaseRestartLively" xml:space="preserve">
-    <value>Please restart Lively for settings to take effect</value>
+    <value>Xin hãy khởi động lại Lively để hữu hiệu hóa cài đặt.</value>
   </data>
   <data name="DescriptionPleaseStop" xml:space="preserve">
-    <value>Please stop before proceeding</value>
+    <value>Please stop before proceeding.</value>
   </data>
   <data name="DescriptionRecordStart" xml:space="preserve">
-    <value>Press to begin recording</value>
+    <value>Bấm để bắt đầu quay phim màn hình.</value>
   </data>
   <data name="DescriptionRestoringWallpaper" xml:space="preserve">
-    <value>Currently restoring previous wallpaper(s), please wait...</value>
+    <value>Đang phục hồi các hình nền trước đấy, xin đợi trong giây lát...</value>
   </data>
   <data name="DescriptionScreenLayout" xml:space="preserve">
-    <value>Choose Display</value>
+    <value>Chọn màn hình</value>
   </data>
   <data name="DescriptionUpdateAvailable" xml:space="preserve">
-    <value>A new version of software is available!</value>
+    <value>Một phiên bản mới hơn (của phần mềm) đã có thể sử dụng!</value>
   </data>
   <data name="DescriptionWebpageLoad" xml:space="preserve">
-    <value>Enter website link to load, shadertoy.com shader links are supported</value>
+    <value>Nhập url trang web để tải, có hỗ trợ link cho shader trên shadertoy.com</value>
   </data>
   <data name="DescriptionWelcomeWizard" xml:space="preserve">
-    <value>This wizard will get you started on setting up Lively</value>
+    <value>Trình cài đặt này sẽ giúp bạn cài đặt Lively.</value>
   </data>
   <data name="DescriptionWindowsNCodecInstall" xml:space="preserve">
-    <value>Your Windows N/KN version will require the download of additional codecs to support video playback in wallpapers</value>
+    <value>Your Windows N/KN version will require the download of additional codecs to support video playback in wallpapers.</value>
   </data>
   <data name="DescSupperDev" xml:space="preserve">
     <value>Show support by buying the developer coffee</value>
@@ -220,83 +220,85 @@ Updates will be frequent and may contain bugs!</value>
     <value>System-tray icon visibility, lively will continue to run with the icon hidden</value>
   </data>
   <data name="HideSysTray.Header" xml:space="preserve">
-    <value>System-tray Icon</value>
+    <value>Biểu tượng trên khay hệ thống</value>
   </data>
   <data name="Language.Description" xml:space="preserve">
-    <value>Lively will restart to apply the new language</value>
+    <value>Lively sẽ khởi động lại để áp dụng ngôn ngữ mới.</value>
   </data>
   <data name="Language.Header" xml:space="preserve">
-    <value>Language</value>
+    <value>Ngôn ngữ</value>
   </data>
   <data name="LivelyExceptionAppUpdateFail" xml:space="preserve">
-    <value>Failed to update; try downloading the installer from:
+    <value>Nâng cấp thất bại; Thử tải xuống bản cài đặt từ:
 https://github.com/rocksdanister/lively/releases</value>
   </data>
   <data name="LivelyExceptionDamagedZipFile" xml:space="preserve">
-    <value>Damaged wallpaper file, try redownloading</value>
+    <value>File hình nền bị tổn hại, hãy thử tải lại file này.</value>
   </data>
   <data name="LivelyExceptionGeneral" xml:space="preserve">
-    <value>Oops... Looks like something went wrong :(
-In order to better understand this error and fix the issue, share the log file with the developer.
-Instructions for sharing log file:
+    <value>Oops... Có vấn đề xảy ra :(
+Để hiểu rõ hơn lỗi và có thể giải quyết vấn đề này, xin hãy chia sẻ file log với người phát triển.
+Hướng dẫn chia sẻ file log:
 https://github.com/rocksdanister/lively/wiki</value>
   </data>
   <data name="LivelyExceptionHighContrastMode" xml:space="preserve">
-    <value>Lively cannot work properly with Windows High Contrast mode enabled!
-Disable High Contrast mode and try again</value>
+    <value>Lively không thể hoạt động tốt trên Windows bật chế độ tương phản cao!
+Hãy tắt chế độ tương phản cao và thử lại.</value>
   </data>
   <data name="LivelyExceptionMediaPlayback" xml:space="preserve">
-    <value>Media playback failed :(
-Try changing the videoplayer in lively settings.
+    <value>Không thể phát lại video :(
+thử thay đổi trình phát video trong phần cài đặt của Lively.
 
-In order to better understand this error and fix the issue, share the log file with the developer.
-Instructions for sharing log file:
+Để hiểu rõ hơn lỗi và có thể giải quyết vấn đề này, xin hãy chia sẻ file log với người phát triển.
+Hướng dẫn chia sẻ file log:
 https://github.com/rocksdanister/lively/wiki</value>
   </data>
   <data name="LivelyExceptionNotLivelyZip" xml:space="preserve">
-    <value>Not Lively wallpaper file</value>
+    <value>Không phải file hình nền của Lively.</value>
   </data>
   <data name="LivelyExceptionSafeModeStart" xml:space="preserve">
-    <value>Lively was not closed properly, starting in safe mode.
-Do you wish to restore previously running wallpapers?</value>
+    <value>Lively đã không dduwowjjc dùng đúng cách, Khởi động Lively trong chế độ an toàn.
+Bạn có muốn khôi phục lại hình nền trước đây?</value>
   </data>
   <data name="LivelyExceptionWorkerWSetupFail" xml:space="preserve">
-    <value>It looks like some settings need to be set to make Lively work:  
-1. Press the Win + R keys to open Run, 
-2. Type SystemPropertiesPerformance.exe into Run, click on "OK" to open Performance Options.
-3. Enable/Check "Animate controls and elements inside windows" (If already checked, then uncheck and check) &amp; Apply.
-4. Click "Apply" then press "OK" to close the window.
+    <value>Có vẻ như bạn cần phải cài đặt một chút để Lively có thể hoạt động:-  
+1. Mở This PC(My Computer)
+2. Click chuột phải vào khoảng trống.
+3. Chọn Thuộc tính (Properties)
+4. Chọn Cài đặt nâng cao (Advanced System Settings)
+5. trong phần Hiệu suất (Performance), chojn Cài đặt (Settings)
+6. Kisck hoạt (Animate controls and elements inside windows) và Apply.
 
-If Windows 7 just set - Adjust for best appearance &amp; Apply.
-If still not working, close &amp; start Lively again/restart windows.
-(Does not work in some insider windows 10 builds)</value>
+Nếu là Windows 7 chỉ cần chọn - Adjust for best appearance &amp; Apply.
+Nếu vẫn không thể hoạt động, đóng lại &amp; khởi động lại Lively / khởi động lại windows.
+(Lively không hoạt động trên một vài bản build của windows 10)</value>
   </data>
   <data name="Startup.Description" xml:space="preserve">
-    <value>Lively needs to run in the background for wallpaper playback</value>
+    <value>Lively cần chạy trong nền để phát lại hình nền.</value>
   </data>
   <data name="Startup.Header" xml:space="preserve">
-    <value>Start with Windows</value>
+    <value>Khởi động cùng Windows</value>
   </data>
   <data name="TextAdd" xml:space="preserve">
-    <value>Add</value>
+    <value>Thêm</value>
   </data>
   <data name="TextAllFiles" xml:space="preserve">
     <value>All Files</value>
   </data>
   <data name="Application.Header" xml:space="preserve">
-    <value>Application</value>
+    <value>Ứng dụng</value>
   </data>
   <data name="Attribution.Header" xml:space="preserve">
-    <value>Attribution</value>
+    <value>Đóng góp</value>
   </data>
   <data name="Author.Text" xml:space="preserve">
-    <value>Author</value>
+    <value>Tác giả</value>
   </data>
   <data name="TextBack" xml:space="preserve">
-    <value>Back</value>
+    <value>Quay lại</value>
   </data>
   <data name="TextBrowse" xml:space="preserve">
-    <value>Browse</value>
+    <value>Duyệt</value>
   </data>
   <data name="Cancel.Content" xml:space="preserve">
     <value>Cancel</value>
@@ -305,82 +307,82 @@ If still not working, close &amp; start Lively again/restart windows.
     <value>Change Wallpapers</value>
   </data>
   <data name="TextClose" xml:space="preserve">
-    <value>Close</value>
+    <value>Đóng</value>
   </data>
   <data name="CloseWallpapers.Label" xml:space="preserve">
-    <value>Close</value>
+    <value>Đóng hình nền</value>
   </data>
   <data name="TextCompleted" xml:space="preserve">
-    <value>Completed!</value>
+    <value>Hoàn thành!</value>
   </data>
   <data name="ControlPanel.Subtitle" xml:space="preserve">
-    <value>Click here to manage wallpapers</value>
+    <value>Click here to manage wallpapers.</value>
   </data>
   <data name="TextConvertVideo" xml:space="preserve">
-    <value>Convert to Video</value>
+    <value>Chuyển đổi thành Video</value>
   </data>
   <data name="TextCreatePreview" xml:space="preserve">
     <value>Create Preview</value>
   </data>
   <data name="Customise.Text" xml:space="preserve">
-    <value>Customise</value>
+    <value>Tùy chỉnh</value>
   </data>
   <data name="CustomiseWallpaper.Label" xml:space="preserve">
-    <value>Customise</value>
+    <value>Tùy chỉnh hình nền</value>
   </data>
   <data name="DeleteWallpaper.Text" xml:space="preserve">
-    <value>Delete</value>
+    <value>Xóa hình nền</value>
   </data>
   <data name="Description.Text" xml:space="preserve">
     <value>Description</value>
   </data>
   <data name="DisplayPauseRuleAllScreen.Content" xml:space="preserve">
-    <value>All screen(s)</value>
+    <value>Tất cả màn hình</value>
   </data>
   <data name="DisplayPauseRulePerScreen.Content" xml:space="preserve">
-    <value>Per screen</value>
+    <value>Từng màn hình</value>
   </data>
   <data name="TextDownload" xml:space="preserve">
-    <value>Download</value>
+    <value>Tải xuống</value>
   </data>
   <data name="EditWallpaper.Text" xml:space="preserve">
     <value>Edit</value>
   </data>
   <data name="TextError" xml:space="preserve">
-    <value>Error</value>
+    <value>Lỗi</value>
   </data>
   <data name="TextExit" xml:space="preserve">
-    <value>Exit</value>
+    <value>Thoát</value>
   </data>
   <data name="ExportWallpaperZip.Text" xml:space="preserve">
-    <value>Export lively .zip</value>
+    <value>Xuất lively .zip</value>
   </data>
   <data name="TextFeatureMissing" xml:space="preserve">
-    <value>Some features are not available in this version of Lively</value>
+    <value>Some features are not available in this version of Lively.</value>
   </data>
   <data name="TextFileNotFound" xml:space="preserve">
     <value>File not found</value>
   </data>
   <data name="TextGIF" xml:space="preserve">
-    <value>Animated GIF</value>
+    <value>GIFđộng</value>
   </data>
   <data name="GitHubStar.Content" xml:space="preserve">
     <value>Show some love by dropping a star</value>
   </data>
   <data name="TextGo" xml:space="preserve">
-    <value>GO</value>
+    <value>ĐI</value>
   </data>
   <data name="TextHelpTranslate" xml:space="preserve">
-    <value>Help translate</value>
+    <value>Giúp phiên dịch Lively.</value>
   </data>
   <data name="TextHours" xml:space="preserve">
-    <value>hour(s)</value>
+    <value>hours</value>
   </data>
   <data name="TextInstall" xml:space="preserve">
-    <value>Install</value>
+    <value>Cài đặt</value>
   </data>
   <data name="TextKeyboard.Content" xml:space="preserve">
-    <value>Keyboard</value>
+    <value>Bàn phím</value>
   </data>
   <data name="TextLastChecked" xml:space="preserve">
     <value>Last checked</value>
@@ -392,67 +394,67 @@ If still not working, close &amp; start Lively again/restart windows.
     <value>License</value>
   </data>
   <data name="TextMinutes" xml:space="preserve">
-    <value>minute(s)</value>
+    <value>minutes</value>
   </data>
   <data name="TextmoreInfo" xml:space="preserve">
-    <value>Information</value>
+    <value>Thông tin</value>
   </data>
   <data name="TextMoreWallpapers" xml:space="preserve">
-    <value>More Wallpapers</value>
+    <value>Nhiều hình nền hơn</value>
   </data>
   <data name="TextMouse.Content" xml:space="preserve">
-    <value>Mouse</value>
+    <value>Chuột</value>
   </data>
   <data name="MouseInteractOnDesktop.Content" xml:space="preserve">
-    <value>Mouse interaction when application focused</value>
+    <value>Tương tác chuột khi tập trung vào ứng dụng</value>
   </data>
   <data name="TextNext" xml:space="preserve">
-    <value>Next</value>
+    <value>Tiếp theo</value>
   </data>
   <data name="TextNo" xml:space="preserve">
-    <value>No</value>
+    <value>Không</value>
   </data>
   <data name="TextOff.Content" xml:space="preserve">
-    <value>Off</value>
+    <value>OFF</value>
   </data>
   <data name="TextOK" xml:space="preserve">
     <value>OK</value>
   </data>
   <data name="TextOn.Content" xml:space="preserve">
-    <value>On</value>
+    <value>ON</value>
   </data>
   <data name="TextOnline" xml:space="preserve">
     <value>Online</value>
   </data>
   <data name="TextOpenLively" xml:space="preserve">
-    <value>Open Lively</value>
+    <value>Mở Lively</value>
   </data>
   <data name="PauseAlgorithmTypeAllProcess.Content" xml:space="preserve">
-    <value>All process</value>
+    <value>Tất cả xử lý</value>
   </data>
   <data name="PauseAlgorithmTypeExclusiveMode.Content" xml:space="preserve">
     <value>Direct3D</value>
   </data>
   <data name="PauseAlgorithmTypeForegroundProcess.Content" xml:space="preserve">
-    <value>Foreground process</value>
+    <value>Xử lý tiền cảnh</value>
   </data>
   <data name="TextPauseWallpapers" xml:space="preserve">
-    <value>Pause Wallpapers</value>
+    <value>Tạm dừng hình nền</value>
   </data>
   <data name="TextPerformanceKill.Content" xml:space="preserve">
-    <value>Kill</value>
+    <value>Dừng hẳn</value>
   </data>
   <data name="TextPerformanceNone.Content" xml:space="preserve">
-    <value>Nothing</value>
+    <value>Không đổi</value>
   </data>
   <data name="TextPerformancePause.Content" xml:space="preserve">
-    <value>Pause</value>
+    <value>Tạm dừng</value>
   </data>
   <data name="TextPicture" xml:space="preserve">
     <value>Picture</value>
   </data>
   <data name="PreviewWallpaper.Text" xml:space="preserve">
-    <value>Preview</value>
+    <value>Preview Wallpaper</value>
   </data>
   <data name="PrivacyPolicy.Header" xml:space="preserve">
     <value>Privacy Policy</value>
@@ -461,37 +463,37 @@ If still not working, close &amp; start Lively again/restart windows.
     <value>Processing</value>
   </data>
   <data name="TextRemove" xml:space="preserve">
-    <value>Remove</value>
+    <value>Xóa</value>
   </data>
   <data name="TextRule" xml:space="preserve">
-    <value>Rule</value>
+    <value>Quy tắc</value>
   </data>
   <data name="TextScreen" xml:space="preserve">
-    <value>Screen</value>
+    <value>Mán hình</value>
   </data>
   <data name="TextSearch" xml:space="preserve">
-    <value>Search</value>
+    <value>Tìm kiếm</value>
   </data>
   <data name="SetWallpaper.Text" xml:space="preserve">
-    <value>Set as Wallpaper</value>
+    <value>Đặt làm hình nền</value>
   </data>
   <data name="ShowOnDisk.Text" xml:space="preserve">
-    <value>Open file location</value>
+    <value>Mở thư mục chứa File</value>
   </data>
   <data name="WallpaperSource.Text" xml:space="preserve">
-    <value>Source</value>
+    <value>Nguốn</value>
   </data>
   <data name="TextStart" xml:space="preserve">
-    <value>Start</value>
+    <value>Bắt đầu</value>
   </data>
   <data name="TextStop" xml:space="preserve">
-    <value>Stop</value>
+    <value>Dừng lại</value>
   </data>
   <data name="StoreReview.Content" xml:space="preserve">
     <value>Do you enjoy using Lively? Leave a review :)</value>
   </data>
   <data name="TextSupport.Content" xml:space="preserve">
-    <value>Support</value>
+    <value>Hỗ trợ</value>
   </data>
   <data name="TextSwitchBranchDev" xml:space="preserve">
     <value>Switch to beta (Dev channel)</value>
@@ -521,13 +523,13 @@ If still not working, close &amp; start Lively again/restart windows.
     <value>Wallpaper Fluent</value>
   </data>
   <data name="TextTileSizeLarge" xml:space="preserve">
-    <value>Large</value>
+    <value>Lớn</value>
   </data>
   <data name="TextTileSizeNormal" xml:space="preserve">
-    <value>Normal</value>
+    <value>Vừa</value>
   </data>
   <data name="TextTileSizeSmall" xml:space="preserve">
-    <value>Small</value>
+    <value>Nhỏ</value>
   </data>
   <data name="Title.Text" xml:space="preserve">
     <value>Title</value>
@@ -539,25 +541,25 @@ If still not working, close &amp; start Lively again/restart windows.
     <value>Lite</value>
   </data>
   <data name="TextUINormal" xml:space="preserve">
-    <value>Normal</value>
+    <value>Bình thường</value>
   </data>
   <data name="TextUnsupportedFile" xml:space="preserve">
     <value>File format not supported</value>
   </data>
   <data name="TextUpdateAvailable" xml:space="preserve">
-    <value>Update available!</value>
+    <value>Xuất hiện bản cập nhật!</value>
   </data>
   <data name="TextUpdateCheck" xml:space="preserve">
-    <value>Check for update</value>
+    <value>Kiểm tra cập nhật</value>
   </data>
   <data name="TextupdateCheckFail" xml:space="preserve">
-    <value>Failed to check for software update</value>
+    <value>Kiểm tra cập nhật thất bại!</value>
   </data>
   <data name="TextUpdateChecking" xml:space="preserve">
-    <value>Checking for update</value>
+    <value>Kiểm tra cập nhật</value>
   </data>
   <data name="TextUpdateUptodate" xml:space="preserve">
-    <value>Software is up-to-date!</value>
+    <value>Phần mềm đã được cập nhật!</value>
   </data>
   <data name="TextVideo" xml:space="preserve">
     <value>Video</value>
@@ -566,28 +568,28 @@ If still not working, close &amp; start Lively again/restart windows.
     <value>Enter optional commandline arguments</value>
   </data>
   <data name="WallpaperFitFill.Content" xml:space="preserve">
-    <value>Fill</value>
+    <value>Lấp đầy (Fill)</value>
   </data>
   <data name="WallpaperFitNone.Content" xml:space="preserve">
-    <value>None</value>
+    <value>Không (None)</value>
   </data>
   <data name="WallpaperFitUniform.Content" xml:space="preserve">
-    <value>Uniform</value>
+    <value>Đồng nhất (Uniform)</value>
   </data>
   <data name="WallpaperFitUniformToFill.Content" xml:space="preserve">
-    <value>Uniform Fill</value>
+    <value>Đồng nhất lấp đầy (Uniform Fill)</value>
   </data>
   <data name="WallpaperLayoutDuplicate.Content" xml:space="preserve">
-    <value>Duplicate same wallpaper</value>
+    <value>Sao chép hình nền</value>
   </data>
   <data name="WallpaperLayoutPerScreen.Content" xml:space="preserve">
-    <value>Selected screen only</value>
+    <value>Chỉ màn hình được chọn</value>
   </data>
   <data name="WallpaperLayoutSpan.Content" xml:space="preserve">
-    <value>Span across screens</value>
+    <value>Trải dài trên các màn hình</value>
   </data>
   <data name="WallpaperType.Text" xml:space="preserve">
-    <value>Type</value>
+    <value>Loại</value>
   </data>
   <data name="Website.Header" xml:space="preserve">
     <value>Website</value>
@@ -596,61 +598,64 @@ If still not working, close &amp; start Lively again/restart windows.
     <value>Web Stream</value>
   </data>
   <data name="TextWelcome" xml:space="preserve">
-    <value>Welcome</value>
+    <value>Chào mừng</value>
   </data>
   <data name="TextYes" xml:space="preserve">
-    <value>Yes</value>
+    <value>Có</value>
   </data>
   <data name="VideoPlayer.Header" xml:space="preserve">
-    <value>Video player</value>
+    <value>Trình phát Video</value>
   </data>
   <data name="AddWallpaperFileBrowse.Description" xml:space="preserve">
-    <value>Set all supported file types as wallpaper</value>
+    <value>Đặt tất cả các loại tệp được hỗ trợ làm hình nền.</value>
   </data>
   <data name="EnterUrl.Description" xml:space="preserve">
-    <value>Set the web page of the URL you entered as wallpaper</value>
+    <value>Đặt trang web của URL bạn đã nhập làm hình nền.</value>
   </data>
   <data name="AppFocus.Description" xml:space="preserve">
-    <value>Set what to do when any application is in focus</value>
+    <value>Cài đặt hoạt động của Lively khi bất cứ phần mềm nào được tập trung.</value>
   </data>
   <data name="AppFullScreen.Description" xml:space="preserve">
-    <value>Set what to do when fullscreen games/applications are running</value>
+    <value>Cài đặt hoạt động của Lively khi Game/Phần mềm sử dụng toàn màn hình hoạt động.</value>
   </data>
   <data name="AppRules.Description" xml:space="preserve">
-    <value>Pause wallpaper when running these applications</value>
+    <value>Đặt các quy tắc phát lại hình nền khác nhau dựa trên ứng dụng đang chạy.</value>
   </data>
   <data name="TipAppTheme" xml:space="preserve">
-    <value>Lively adapts to system theme settings, to change appearance goto</value>
+    <value>Lively thích ứng với chủ đề hệ thống, để thay đổi giao diện đi tới...</value>
   </data>
   <data name="BatteryPower.Description" xml:space="preserve">
-    <value>Change playback when AC power is disconnected</value>
+    <value>(Dành cho laptop,...) Thay đổi quy luật phát lại khi nguồn AC bị ngắt.</value>
   </data>
   <data name="BrowserDebuggingPort.Description" xml:space="preserve">
-    <value>Enter the port for debugging webpage wallpapers; when ready navigate to http://localhost:portnumber to access developer console</value>
+    <value>Nhập cổng để debug webpage hình nền, bắt buộc phải khởi động lại trình duyệt để thay đổi có hiệu lực.
+Khi sắn sàng, đi tới http://localhost:portnumber để truy cập bảng điều khiển cho nhà phát triển.</value>
   </data>
   <data name="Debug.Description" xml:space="preserve">
     <value>Show developer menu</value>
   </data>
   <data name="DesktopPicture.Description" xml:space="preserve">
-    <value>Set a picture of animated wallpaper as desktop wallpaper</value>
+    <value>Set a picture of animated wallpaper as desktop wallpaper.</value>
   </data>
   <data name="DisplayPauseRule.Description" xml:space="preserve">
-    <value>Pause wallpaper on all screens or only the screen in which application is focused</value>
+    <value>Per: Chỉ tạm dừng hình nền trên màn hình mà ứng dụng được lấy tiêu điểm / toàn màn hình.
+Tất cả: Tạm dừng hình nền trên tất cả (các) màn hình nếu bất kỳ ứng dụng nào được lấy tiêu điểm / toàn màn hình.</value>
   </data>
   <data name="ExportLogs.Description" xml:space="preserve">
-    <value>Create log report file</value>
+    <value>Create log report file.</value>
   </data>
   <data name="GifPlayer.Description" xml:space="preserve">
-    <value>Select the player used for gif wallpaper</value>
+    <value>Select the player used for gif wallpaper.</value>
   </data>
   <data name="TipLivelySetupOnClose" xml:space="preserve">
-    <value>Finish the setup to continue</value>
+    <value>Hoàn tất thiết lập để tiếp tục.</value>
   </data>
   <data name="LockscreenPicture.Description" xml:space="preserve">
-    <value>Set a picture of animated wallpaper as lockscreen wallpaper</value>
+    <value>Set a picture of animated wallpaper as lockscreen wallpaper.</value>
   </data>
   <data name="PauseAlgorithm.Description" xml:space="preserve">
-    <value>Wallpaper pause algorithm</value>
+    <value>Tiền cảnh: Dung lượng nhẹ, chỉ kiểm tra quá trình duy nhất ở tiền cảnh (màn hình) để xác định hành vi phát lại hình nền.
+Tất cả quá trình: Nặng hơn, Quét tất cả quá trình để xác định hành vi phát lại.</value>
   </data>
   <data name="PowerSavingModePower.Description" xml:space="preserve">
     <value>Change playback when Windows Power Saving Mode is enabled</value>
@@ -659,106 +664,107 @@ If still not working, close &amp; start Lively again/restart windows.
     <value>Change playback when running a Remote Desktop session</value>
   </data>
   <data name="TipScreensaver" xml:space="preserve">
-    <value>After the inactivity period use the current wallpaper as your screensaver</value>
+    <value>After the selected inactivity period use the current wallpaper as your screensaver.</value>
   </data>
   <data name="StreamWallpaperDetect.Description" xml:space="preserve">
-    <value>If supported video stream link is detected use the video player instead of loading the webpage</value>
+    <value>Nếu phát hiện thấy Stream video được hỗ trợ, sử dụng trình phát video thay vì tải trang web.</value>
   </data>
   <data name="StreamWallpaperVideoQuality.Description" xml:space="preserve">
-    <value>Select the desired video quality for online streams</value>
+    <value>Chọn chất lượng video mong muốn cho Online stream Videos.</value>
   </data>
   <data name="TipSwitchSoftwareBranch" xml:space="preserve">
-    <value>Change software release from beta to stable or vice versa</value>
+    <value>Change software release from beta to stable or vice versa.</value>
   </data>
   <data name="TaskbarTheme.Description" xml:space="preserve">
-    <value>Change system taskbar appearance</value>
+    <value>Change system taskbar appearance.</value>
   </data>
   <data name="TipTileSize" xml:space="preserve">
-    <value>Size of the wallpaper tiles in Library</value>
+    <value>Kích thước của các ô hình nền trong Thư viện.</value>
   </data>
   <data name="TipUIMode" xml:space="preserve">
-    <value>For low-end systems select Lite mode</value>
+    <value>Đối với các hệ thống yếu, hãy chọn chế độ Lite.</value>
   </data>
   <data name="VideoHardwareDecode.Description" xml:space="preserve">
-    <value>Use hardware acceleration when possible</value>
+    <value>Use hardware acceleration when possible.</value>
   </data>
   <data name="VideoPlayer.Description" xml:space="preserve">
-    <value>Select the player used for video wallpaper</value>
+    <value>Chọn trình phát được sử dụng cho hình nền video.</value>
   </data>
   <data name="WallpaperDir.Description" xml:space="preserve">
-    <value>Path used to store wallpaper files</value>
+    <value>Đường dẫn dùng để lưu trữ các tập tin hình nền.</value>
   </data>
   <data name="WallpaperFit.Description" xml:space="preserve">
-    <value>Wallpaper scaling algorithm</value>
+    <value>Thuật toán chia tỷ lệ hình nền.</value>
   </data>
   <data name="WallpaperInput.Description" xml:space="preserve">
-    <value>Select ways to interact with wallpaper</value>
+    <value>Chọn các cách để tương tác với hình nền.</value>
   </data>
   <data name="WallpaperLayout.Description" xml:space="preserve">
-    <value>How wallpaper is applied to connected display devices</value>
+    <value>Cách áp dụng hình nền cho các thiết bị hiển thị được kết nối.</value>
   </data>
   <data name="TipWallpaperPlayback" xml:space="preserve">
-    <value>Pause wallpaper playback when desktop is not focused</value>
+    <value>Tạm dừng phát lại hình nền khi màn hình không được tập trung.</value>
   </data>
   <data name="WebBrowserDiskCache.Description" xml:space="preserve">
-    <value>Store temporary files on disk instead of memory</value>
+    <value>Lưu trữ các tệp tạm thời trên đĩa thay vì RAM, cài đặt được khôi phục khi trình duyệt được khởi động lại.</value>
   </data>
   <data name="WebBrowser.Description" xml:space="preserve">
-    <value>Select the player used for html wallpaper</value>
+    <value>CEF(Chromium Embedded Framework) là engine nhẹ của Chrome.
+Edge là webview được tích hợp sẵn của windows 10.</value>
   </data>
   <data name="About.Label" xml:space="preserve">
-    <value>About</value>
+    <value>Giới thiệu</value>
   </data>
   <data name="AddWallpaper.Label" xml:space="preserve">
-    <value>Add Wallpaper</value>
+    <value>Thêm hình nền</value>
   </data>
   <data name="AppFocus.Header" xml:space="preserve">
-    <value>Applications focused</value>
+    <value>Các ứng dụng được tập trung</value>
   </data>
   <data name="AppFullScreen.Header" xml:space="preserve">
-    <value>Applications fullscreen</value>
+    <value>Các ứng dụng toàn màn hình</value>
   </data>
   <data name="TitleAppName" xml:space="preserve">
-    <value>Lively Wallpaper</value>
+    <value>Hình nền Lively</value>
   </data>
   <data name="AppRules.Header" xml:space="preserve">
-    <value>Application Rules</value>
+    <value>quy tắc của các ứng dụng</value>
   </data>
   <data name="AppTheme.Header" xml:space="preserve">
-    <value>Theme</value>
+    <value>Chủ đề</value>
   </data>
   <data name="TitleAudioPlayOnScreen" xml:space="preserve">
-    <value>Play audio on screen</value>
+    <value>Phát âm thanh trên màn hình</value>
   </data>
   <data name="BatteryPower.Header" xml:space="preserve">
-    <value>When on Battery Power</value>
+    <value>Khi hoạt động bằng nguồn từ pin</value>
   </data>
   <data name="TitleBrowseFile" xml:space="preserve">
-    <value>Browse for video, gif, webpage... file to set as wallpaper</value>
+    <value>Duyệt tìm tệp video, gif, trang web ... để đặt làm hình nền</value>
   </data>
   <data name="BrowserDebuggingPort.Header" xml:space="preserve">
-    <value>Debugging port</value>
+    <value>Cổng debug</value>
   </data>
   <data name="TitleChangelog" xml:space="preserve">
     <value>Changelog</value>
   </data>
   <data name="Community.Header" xml:space="preserve">
-    <value>Community</value>
+    <value>Cộng đồng</value>
   </data>
   <data name="Debug.Header" xml:space="preserve">
     <value>Debug</value>
   </data>
   <data name="TitleDeleteConfirmation" xml:space="preserve">
-    <value>Confirm Deletion</value>
+    <value>Xác nhận xóa</value>
   </data>
   <data name="DesktopPicture.Header" xml:space="preserve">
-    <value>Desktop picture</value>
+    <value>Desktop Picture</value>
   </data>
   <data name="DisplayPauseRule.Header" xml:space="preserve">
-    <value>Display pause rule</value>
+    <value>Hiển thị quy tắc tạm dừng</value>
   </data>
   <data name="Documentation.Header" xml:space="preserve">
-    <value>Documentation</value>
+    <value>Tài liệu</value>
   </data>
   <data name="EnterUrl.Header" xml:space="preserve">
     <value>Enter URL</value>
@@ -767,46 +773,46 @@ If still not working, close &amp; start Lively again/restart windows.
     <value>Log File</value>
   </data>
   <data name="TitleGeneral" xml:space="preserve">
-    <value>General</value>
+    <value>Tổng quát</value>
   </data>
   <data name="GifPlayer.Header" xml:space="preserve">
-    <value>Gif player</value>
+    <value>Gif Player</value>
   </data>
   <data name="Help.Label" xml:space="preserve">
-    <value>Help</value>
+    <value>Trợ giúp</value>
   </data>
   <data name="TitleInteraction" xml:space="preserve">
-    <value>Interaction</value>
+    <value>Tương tác</value>
   </data>
   <data name="TitleLibrary" xml:space="preserve">
-    <value>Library</value>
+    <value>Thư viện</value>
   </data>
   <data name="TitleLivelySetup" xml:space="preserve">
-    <value>Lively Setup</value>
+    <value>Cài đặt Lively</value>
   </data>
   <data name="TitleLocation" xml:space="preserve">
     <value>Location</value>
   </data>
   <data name="LockscreenPicture.Header" xml:space="preserve">
-    <value>Lockscreen picture</value>
+    <value>Lockscreen Picture</value>
   </data>
   <data name="TitleMisc" xml:space="preserve">
-    <value>Misc</value>
+    <value>Khác</value>
   </data>
   <data name="TitleMute" xml:space="preserve">
-    <value>Mute</value>
+    <value>Tắt tiếng</value>
   </data>
   <data name="PauseAlgorithm.Header" xml:space="preserve">
-    <value>Pause algorithm</value>
+    <value>Thuật toán tạm dừng</value>
   </data>
   <data name="TitlePerformance" xml:space="preserve">
-    <value>Performance</value>
+    <value>Hiệu suất</value>
   </data>
   <data name="TitlePlaylist" xml:space="preserve">
-    <value>Playlist</value>
+    <value>Danh sách phát</value>
   </data>
   <data name="PleaseWait.Text" xml:space="preserve">
-    <value>Please wait</value>
+    <value>Vui lòng đợi</value>
   </data>
   <data name="PowerSavingModePower.Header" xml:space="preserve">
     <value>When on Battery Saver</value>
@@ -818,10 +824,10 @@ If still not working, close &amp; start Lively again/restart windows.
     <value>Report Bug</value>
   </data>
   <data name="TitleScalingFit" xml:space="preserve">
-    <value>Scaling/Fit</value>
+    <value>Chia tỷ lệ</value>
   </data>
   <data name="ControlPanel.Title" xml:space="preserve">
-    <value>Control Panel</value>
+    <value>Bảng điều khiển</value>
   </data>
   <data name="TitleScreensaver" xml:space="preserve">
     <value>Screensaver</value>
@@ -830,10 +836,10 @@ If still not working, close &amp; start Lively again/restart windows.
     <value>On resume, display logon screen</value>
   </data>
   <data name="TitleSelectFile" xml:space="preserve">
-    <value>Select File</value>
+    <value>Chọn tập tin</value>
   </data>
   <data name="TitleSettings" xml:space="preserve">
-    <value>Settings</value>
+    <value>Cài đặt</value>
   </data>
   <data name="TitleSkipConfirm" xml:space="preserve">
     <value>Skip Confirmation</value>
@@ -849,10 +855,10 @@ If still not working, close &amp; start Lively again/restart windows.
     <value>Stream</value>
   </data>
   <data name="StreamWallpaperDetect.Header" xml:space="preserve">
-    <value>Detect streams</value>
+    <value>Phát hiện Stream</value>
   </data>
   <data name="TitleStreamWallpaperVideoQuality" xml:space="preserve">
-    <value>Video quality</value>
+    <value>Chất lượng video</value>
   </data>
   <data name="System.Header" xml:space="preserve">
     <value>System</value>
@@ -861,10 +867,10 @@ If still not working, close &amp; start Lively again/restart windows.
     <value>Taskbar Theme</value>
   </data>
   <data name="TitleTileSize" xml:space="preserve">
-    <value>Tile Size</value>
+    <value>Kích thướng ô xem trước</value>
   </data>
   <data name="TitleUIMode" xml:space="preserve">
-    <value>User Interface</value>
+    <value>Giao diện người dùng</value>
   </data>
   <data name="TitleUpdates" xml:space="preserve">
     <value>Updates</value>
@@ -873,43 +879,43 @@ If still not working, close &amp; start Lively again/restart windows.
     <value>Video</value>
   </data>
   <data name="VideoHardwareDecode.Header" xml:space="preserve">
-    <value>GPU decode</value>
+    <value>GPU Decode</value>
   </data>
   <data name="TitleWallpaper" xml:space="preserve">
-    <value>Wallpaper</value>
+    <value>Hình nền</value>
   </data>
   <data name="WallpaperDir.Header" xml:space="preserve">
-    <value>Wallpaper Directory</value>
+    <value>Thư mục hình nền</value>
   </data>
   <data name="WallpaperDirMoveExisting.Content" xml:space="preserve">
-    <value>Move existing wallpapers to new folder</value>
+    <value>Di chuyển các hình nền hiện có vào thư mục mới</value>
   </data>
   <data name="WallpaperFit.Header" xml:space="preserve">
-    <value>Choose a fit</value>
+    <value>Chọn tỉ lệ hình nền</value>
   </data>
   <data name="WallpaperInput.Header" xml:space="preserve">
-    <value>Wallpaper input</value>
+    <value>Tương tác bằng</value>
   </data>
   <data name="WallpaperLayout.Header" xml:space="preserve">
-    <value>Placement Method</value>
+    <value>phương pháp sắp xếp</value>
   </data>
   <data name="WallpaperPlaybackGroup.Header" xml:space="preserve">
-    <value>Wallpaper playback</value>
+    <value>Phát lại hình nền</value>
   </data>
   <data name="TitleWarning" xml:space="preserve">
-    <value>Warning</value>
+    <value>Cảnh báo</value>
   </data>
   <data name="WebBrowser.Header" xml:space="preserve">
-    <value>Web browser</value>
+    <value>Trình duyệt Web</value>
   </data>
   <data name="WebBrowserDiskCache.Header" xml:space="preserve">
-    <value>Disk cache</value>
+    <value>Bộ nhớ đệm</value>
   </data>
   <data name="TitleWebBrowserEngine" xml:space="preserve">
     <value>Engine</value>
   </data>
   <data name="TitleWebpageLoad" xml:space="preserve">
-    <value>Load Webpage</value>
+    <value>Tải trang web</value>
   </data>
   <data name="FastUI.Description" xml:space="preserve">
     <value>Keep User Interface running for faster startup</value>
@@ -966,7 +972,7 @@ If still not working, close &amp; start Lively again/restart windows.
     <value>Coming soon</value>
   </data>
   <data name="AboutMenu.Text" xml:space="preserve">
-    <value>About</value>
+    <value>Giới thiệu</value>
   </data>
   <data name="SourceWebsite.Text" xml:space="preserve">
     <value>Website</value>
