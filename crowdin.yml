@@ -1,3 +1,0 @@
-files:
-  - source: v2.0/en-US/*.resw
-    translation: /v2.0/%locale%/%original_file_name%
