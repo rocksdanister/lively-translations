@@ -1,0 +1,20 @@
+Description:
+
+Lively est une application gratuite et open source permettant de définir des vidéos, GIFs et des pages web comme fond d’écran
+basée sur le navigateur Chromium et le lecteur MPV, vos fonds d'écran supporte les dernières technologies web et vidéo.
+
+
+C'est un project open source vos contributions sont la bienvenue
+pour contribuer rendez-vous sur https://github.com/rocksdanister/lively.
+
+
+Fonctionnalités:
+Lecture du fond d'écran mise en pause lors de l'utilisation d'un logiciel ou d'un jeu.
+Prise en charge de plusieurs résolutions et rapports d'aspect.
+Lecture de vidéos avec accélération matérielle basée sur MPV.
+Utilisation de Chromium Embedded Framework (CEF) pour définir des sites comme fond d'écran.
+Utilisation de l'API audio de Lively pour créer des fonds d'écran réagissant aux sons.
+Utilisation de l'API système de Lively pour afficher des widgets avec des informations système.
+Prise en charge de vidéos en direct ou de liens Shadertoy.com.
+Aucune fonctionnalité payante, Lively est un projet complément open source.
+Support des thèmes sombres et clairs.
