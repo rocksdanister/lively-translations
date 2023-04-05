@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AudioFocused.Content" xml:space="preserve">
+    <value>دەنگ چالاک بکە تەنها ئەو کاتەی کە دیسکتۆپ فۆکسی کردبێ</value>
+  </data>
+  <data name="Audio.Description" xml:space="preserve">
+    <value>ئاستی قەبارە بۆ هەموو وێنەکان</value>
+  </data>
+  <data name="Audio.Header" xml:space="preserve">
+    <value>قەبارە</value>
+  </data>
+  <data name="AudioGroup.Header" xml:space="preserve">
+    <value>دەنگ</value>
+  </data>
+  <data name="CommunityPage.Content" xml:space="preserve">
+    <value>مەکۆی گفتوگۆی ئۆنلاین</value>
+  </data>
+  <data name="DocumentationPage.Content" xml:space="preserve">
+    <value>API بەڵگەنامە و یارمەتی</value>
+  </data>
+  <data name="DescExplorerCrash" xml:space="preserve">
+    <value>لایڤلی تووشی هەڵەیەکی کوشندە بووە.
+
+ویندۆز ئێکسپلۆرەر لە کۆتا ٣٠ چرکەدا دوو جار دووبارە دەستی پێکردەوە! ئەمە ڕەنگە ناکۆکییەک بێت لە نێوان Lively و نەرمەکاڵاکانی تری تایبەتمەندکردنی دەسکتۆپ یان ویندۆز. بۆ ئەوەی کێشەی زیاتر ڕوونەدات، هەموو وێنەکان کۆتایی پێدەهێنرێن.</value>
+  </data>
+  <data name="DescIncompatibleTaskbarTheme" xml:space="preserve">
+    <value>بەرنامەیەکی ناتەبا دۆزرایەوە، روکاری تاسکبار لەکارخراوە</value>
+  </data>
+  <data name="OfficialWebpage.Content" xml:space="preserve">
+    <value>Lively Wallpaper وێبسایتی فەرمی</value>
+  </data>
+  <data name="DescOledScreensaverNotice" xml:space="preserve">
+    <value>زۆربەی شاشە مۆدێرنەکان بەدەست کێشەی سووتانەوە ناناڵێنن و هەربۆیە هەر کاغەزی دیوارێک دەتوانرێت وەکو سکرین سێڤەر 
+بەکاربهێنرێت.
+
+بۆ شاشەکانی OLED، پلازما یان CRT کە ئامادەن بۆ سووتاندن ئامۆژگاری دەکرێت کە کاغەزی دیوار بەکاربهێنرێت بە جووڵەی ئاسایی و تەوەرێکی تاریکی گشتی کە بڕیارە سووتانی ناوەوە کەم بکاتەوە بەڵام ئەم تایبەتمەندییە تاقینەکراوەتەوە و کاریگەرییەکەی ناتوانرێت گەرەنتی بکرێت.
+
+ئامانجی سەرەکی سکرینسەڤەرەکانی لایڤلی زیادکردنی چینێکی تری تایبەتمەندکردنە بۆ کۆمپیوتەرەکەت، سکرین سێڤەر وەک پاراستنی سووتانی بەکارهێنان لەسەر مەترسی خۆت!</value>
+  </data>
+  <data name="ReportBugPage.Content" xml:space="preserve">
+    <value>کێشەیەک ڕیپۆرت بکە لە بەرنامەکەدا</value>
+  </data>
+  <data name="AddWallpaperFileBrowse.Header" xml:space="preserve">
+    <value>فایلێک هەڵبژێرە</value>
+  </data>
+  <data name="DescriptionAppRules" xml:space="preserve">
+    <value>Wallpaper playback behaviour based on running application</value>
+  </data>
+  <data name="DescriptionCancelQuestion" xml:space="preserve">
+    <value>دڵنیای کە دەتەوێ ڕەتی بکەیتەوە?</value>
+  </data>
+  <data name="DescriptionDeleteConfirmation" xml:space="preserve">
+    <value>ئایا دڵنیای کە دەتەوێ ئەو وێنەیە بە تەواوی بیسڕیتەوە لەناو دیسک?</value>
+  </data>
+  <data name="DescriptionDeleteConfirmationLibrary" xml:space="preserve">
+    <value>ئایا دڵنیایی کە دەتەوێ ئەو وێنەیە لە خانەکانت بسڕیتەوە?</value>
+  </data>
+  <data name="DragDropFile.Text" xml:space="preserve">
+    <value>بە سادەیی فایلەکان بکێشە و بیخەرە ناو ئێرە</value>
+  </data>
+  <data name="DescriptionExternalAppWarning" xml:space="preserve">
+    <value>تۆ بەرنامەیەکی دەرەکی وەکو وێنە دەکەیتەوە.
+بەرنامە زیانبەخشەکان دەتوانن بەرنامەی زیانبەخش، ڤایرۆس.. هۆست بکەن و زیان بە سیستەمەکەت بگەیەنن.
+تەنها ئەگەر ئەم بەرنامەیە لە سەرچاوەیەکی متمانەپێکراوەوە هاتبێت بەردەوام بە.</value>
+  </data>
+  <data name="MinimizedTray.Text" xml:space="preserve">
+    <value>لایفلی گواستراوە بەشی تاسکبار ، کلیکی لای ڕاست بکە لە ئایکۆنی لایفلی.</value>
+  </data>
+  <data name="DescriptionPleaseRestartLively" xml:space="preserve">
+    <value>تکایە بەرنامە دووبارە ئیشپێبکەرەوە بۆ جێبەجێکردنی گۆڕانکارییەکان</value>
+  </data>
+  <data name="DescriptionPleaseStop" xml:space="preserve">
+    <value>تکایە پێش ئەوەی بەردەوام بین بوەستن</value>
+  </data>
+  <data name="DescriptionRecordStart" xml:space="preserve">
+    <value>بۆ دەستپێکردنی تۆمارکردن دایگرە</value>
+  </data>
+  <data name="DescriptionRestoringWallpaper" xml:space="preserve">
+    <value>لە ئێستا ئێستا وێنەکانی پێشوو دەگەڕدرێنەوە ، تکایە چاوەڕێی بکە...</value>
+  </data>
+  <data name="DescriptionScreenLayout" xml:space="preserve">
+    <value>شاشەیەک هەڵبژێرە</value>
+  </data>
+  <data name="DescriptionUpdateAvailable" xml:space="preserve">
+    <value>وەشانی نوێ بۆ بەرنامەکە بەردەستە!</value>
+  </data>
+  <data name="DescriptionWebpageLoad" xml:space="preserve">
+    <value>Enter website link to load, shadertoy.com shader links are supported</value>
+  </data>
+  <data name="DescriptionWelcomeWizard" xml:space="preserve">
+    <value>ئەم جادوگەرە ئێستا دەستبەکاردەبێ بۆ ڕێکخستنی لایفلی</value>
+  </data>
+  <data name="DescriptionWindowsNCodecInstall" xml:space="preserve">
+    <value>وەشانی ویندۆز N/KN ی تۆ پێویستی بە دابەزاندنی کۆدێکی زیادە دەبێت بۆ پشتگیریکردنی پەخشکردنی ڤیدیۆ لە وێنە</value>
+  </data>
+  <data name="DescSupperDev" xml:space="preserve">
+    <value>پشتگیری نیشان بدە بە کڕینی قاوەی گەشەپێدەر</value>
+  </data>
+  <data name="DescSwitchBranchBetaWarning" xml:space="preserve">
+    <value>تۆ بەتەمای بیگۆری بۆ دۆخی گەشەپێدەر بیتای لایڤلی
+ئەپدەیتەکان لەوانەیە چەند کێشەیەکی تێدابێت!</value>
+  </data>
+  <data name="HideSysTray.Description" xml:space="preserve">
+    <value>دیاربوونی ئایکۆن لە تاسک باڕ، بەرنامەکە ئیش دەکات لە کاتێکدا ئایکۆنەکەی دیار نیە</value>
+  </data>
+  <data name="HideSysTray.Header" xml:space="preserve">
+    <value>ئایکۆن لە تاسک باڕ</value>
+  </data>
+  <data name="Language.Description" xml:space="preserve">
+    <value>ڵایڤلی دووبارە دەستپێئەکاتەوە بۆ بەکاربردنی زمانە نوێەکە</value>
+  </data>
+  <data name="Language.Header" xml:space="preserve">
+    <value>زمان</value>
+  </data>
+  <data name="LivelyExceptionAppUpdateFail" xml:space="preserve">
+    <value>سەرکەوتوو نەبوو لە نوێکردنەوە؛ هەوڵ بدە دابەزاندنی دامەزرێنەرەکە لە:
+https://github.com/rocksdanister/lively/releases</value>
+  </data>
+  <data name="LivelyExceptionDamagedZipFile" xml:space="preserve">
+    <value>فایلی وێنەکە زیانی بەرکەوتووە، دووبارە دایبەزێنەوە</value>
+  </data>
+  <data name="LivelyExceptionGeneral" xml:space="preserve">
+    <value>ئووپس... وادیارە کە کێشەیەک هەیە :(
+بۆ ئەوەی باشتر لە کێشەکە تێبگەی وە چارەسەری بکەی، فایلی ناونووسکردنەکە نیشانی پەرەپێدەران بدە.
+ڕێنوێنیکردن بۆ ئەوەی فایلی ناونووسکردنەکە نیشان بدەی
+https://github.com/rocksdanister/lively/wiki</value>
+  </data>
+  <data name="LivelyExceptionHighContrastMode" xml:space="preserve">
+    <value>بەرنامەکە بە تەواوی ئیش ناکات لەکاتێکدا کە بەرزی کۆنتراست ی ویندۆوز کارا کراوە!
+بەرزی کۆنتراست لەکار بخەو دووبارە هەوڵ بدەوە</value>
+  </data>
+  <data name="LivelyExceptionMediaPlayback" xml:space="preserve">
+    <value>Media playback failed :(
+Try changing the videoplayer in lively settings.
+
+In order to better understand this error and fix the issue, share the log file with the developer.
+Instructions for sharing log file:
+https://github.com/rocksdanister/lively/wiki</value>
+  </data>
+  <data name="LivelyExceptionNotLivelyZip" xml:space="preserve">
+    <value>فایلێکی لایڤڵی واڵ پەیپەر نیە</value>
+  </data>
+  <data name="LivelyExceptionSafeModeStart" xml:space="preserve">
+    <value>بەرنامەکە بە تەواوی دانەخرابوو، لە دۆخی سەلامەتی دەستمان پێکرد.
+ئایا دەتەوێت واڵ پەیپەرەکانی پێشووت بگەڕێنیتەوە؟</value>
+  </data>
+  <data name="LivelyExceptionWorkerWSetupFail" xml:space="preserve">
+    <value>وادیارە کە دەبێت هەندێک سێتینگ ڕێکبخرێت بۆ ئەوەی بەرنامەکە ئیش بکات:
+١- دوگمەی Win + R دابگرە بۆ ئەوەی Run بکەیتەوە،
+٢- لەناو Run بنووسە SystemPropertiesPerformance.exe، دواتر کلیک لەسەر “OK” بکە بۆ ئەوەی Performance Options بکرێتەوە.
+‏٣- “Animate controls and elements inside windows” کارا بکە (ئەگەر خۆی کارا کرابوو، ئەوا ناچالاک بکەو کارای بکەوە) وە دوای ئەوە Apply بکە.
+٤- کلیک لە “Apply” بکە و دواتر کلیک لەسەر “OK” بکە و پەنجەرەکە دابخەوە.
+
+ئەگەر ویندۆوزی ٧، “Adjust for best appearance &amp; amp” کارا کراوە ئەوا “Apply” بکە.
+ئەگەر هێشتا ئیش ناکات، بەرنامەکە دابخەوە و دووبارە ئیشی پێ بکەوە، یان کۆمپیوتەرەکە ڕێستارت بکە.
+‎(لە هەندێک پێکاهتنی ویندۆوز ئیش ناکات)</value>
+  </data>
+  <data name="Startup.Description" xml:space="preserve">
+    <value>لایڤڵی پێویستە ئیش بکات لە باک گراوند بۆ نیشاندانی واڵ پەیپەر</value>
+  </data>
+  <data name="Startup.Header" xml:space="preserve">
+    <value>لەگەڵ دەستپێکردنی ویندۆس دەستپێکە</value>
+  </data>
+  <data name="TextAdd" xml:space="preserve">
+    <value>زیادکردن</value>
+  </data>
+  <data name="TextAllFiles" xml:space="preserve">
+    <value>هەموو فایلەکان</value>
+  </data>
+  <data name="Application.Header" xml:space="preserve">
+    <value>بەرنامە</value>
+  </data>
+  <data name="Attribution.Header" xml:space="preserve">
+    <value>تایبەتمەندی</value>
+  </data>
+  <data name="Author.Text" xml:space="preserve">
+    <value>نووسەر</value>
+  </data>
+  <data name="TextBack" xml:space="preserve">
+    <value>گەڕانەوە</value>
+  </data>
+  <data name="TextBrowse" xml:space="preserve">
+    <value>گەڕان بەدوای</value>
+  </data>
+  <data name="Cancel.Content" xml:space="preserve">
+    <value>ڕەتکردنەوە</value>
+  </data>
+  <data name="TextChangeWallpaper" xml:space="preserve">
+    <value>گۆڕینی وێنەکە</value>
+  </data>
+  <data name="TextClose" xml:space="preserve">
+    <value>داخستن</value>
+  </data>
+  <data name="CloseWallpapers.Label" xml:space="preserve">
+    <value>داخستن</value>
+  </data>
+  <data name="TextCompleted" xml:space="preserve">
+    <value>تەواو!</value>
+  </data>
+  <data name="ControlPanel.Subtitle" xml:space="preserve">
+    <value>کلیک لێرانە بکە بۆ بەڕێوەبردنی وێنەکان</value>
+  </data>
+  <data name="TextConvertVideo" xml:space="preserve">
+    <value>گۆڕین بۆ ڤیدیۆ</value>
+  </data>
+  <data name="TextCreatePreview" xml:space="preserve">
+    <value>درووستکردنی پێشەکی</value>
+  </data>
+  <data name="Customise.Text" xml:space="preserve">
+    <value>دەستکاریکردن</value>
+  </data>
+  <data name="CustomiseWallpaper.Label" xml:space="preserve">
+    <value>دەستکاریکردن</value>
+  </data>
+  <data name="DeleteWallpaper.Text" xml:space="preserve">
+    <value>ڕەشکردنەوە</value>
+  </data>
+  <data name="Description.Text" xml:space="preserve">
+    <value>وەسفکردن</value>
+  </data>
+  <data name="DisplayPauseRuleAllScreen.Content" xml:space="preserve">
+    <value>(هەموو شاشە(کان</value>
+  </data>
+  <data name="DisplayPauseRulePerScreen.Content" xml:space="preserve">
+    <value>بۆ هەر شاشەیەک</value>
+  </data>
+  <data name="TextDownload" xml:space="preserve">
+    <value>دابەزاندن</value>
+  </data>
+  <data name="EditWallpaper.Text" xml:space="preserve">
+    <value>دەستکاریکردن</value>
+  </data>
+  <data name="TextError" xml:space="preserve">
+    <value>هەڵە</value>
+  </data>
+  <data name="TextExit" xml:space="preserve">
+    <value>چوونەدەرەوە</value>
+  </data>
+  <data name="ExportWallpaperZip.Text" xml:space="preserve">
+    <value>سەیڤ کردن بە فایل</value>
+  </data>
+  <data name="TextFeatureMissing" xml:space="preserve">
+    <value>هەندێک خزمەتگوزاری بەردەست نیە لەم وەشانەی لایڤڵی</value>
+  </data>
+  <data name="TextFileNotFound" xml:space="preserve">
+    <value>فایلەکە نەدۆزراوە</value>
+  </data>
+  <data name="TextGIF" xml:space="preserve">
+    <value>وێنەی جوڵاو</value>
+  </data>
+  <data name="GitHubStar.Content" xml:space="preserve">
+    <value>خۆشەویستی بنوێنە بە پێدانی ئەستێرەیەک</value>
+  </data>
+  <data name="TextGo" xml:space="preserve">
+    <value>GO</value>
+  </data>
+  <data name="TextHelpTranslate.Title" xml:space="preserve">
+    <value>یارمەتیدان بۆ وەرگێڕان</value>
+  </data>
+  <data name="TextHours" xml:space="preserve">
+    <value>کاتژمێر</value>
+  </data>
+  <data name="TextInstall" xml:space="preserve">
+    <value>دامەزراندن</value>
+  </data>
+  <data name="TextKeyboard.Content" xml:space="preserve">
+    <value>کیبۆڕد</value>
+  </data>
+  <data name="TextLastChecked" xml:space="preserve">
+    <value>کۆتاجار پشکینین کرابێت</value>
+  </data>
+  <data name="TextLearnMore.Text" xml:space="preserve">
+    <value>زیاتر بزانە</value>
+  </data>
+  <data name="License.Header" xml:space="preserve">
+    <value>مۆڵەت</value>
+  </data>
+  <data name="TextMinutes" xml:space="preserve">
+    <value>(خولەک(ەکان</value>
+  </data>
+  <data name="TextmoreInfo" xml:space="preserve">
+    <value>زانیاری</value>
+  </data>
+  <data name="TextMoreWallpapers" xml:space="preserve">
+    <value>واڵ پەیپەری زیاتر</value>
+  </data>
+  <data name="TextMouse.Content" xml:space="preserve">
+    <value>ماوس</value>
+  </data>
+  <data name="MouseInteractOnDesktop.Content" xml:space="preserve">
+    <value>کارلێککردنی ماوس کاتێک کە تەرکیز کراوەتە سەر بەرنامەکە</value>
+  </data>
+  <data name="TextNext" xml:space="preserve">
+    <value>دواتر</value>
+  </data>
+  <data name="TextNo" xml:space="preserve">
+    <value>نەخێر</value>
+  </data>
+  <data name="TextOff.Content" xml:space="preserve">
+    <value>کوژانەوە</value>
+  </data>
+  <data name="TextOK" xml:space="preserve">
+    <value>دڵنیایی</value>
+  </data>
+  <data name="TextOn.Content" xml:space="preserve">
+    <value>پێکردن</value>
+  </data>
+  <data name="TextOnline" xml:space="preserve">
+    <value>لەسەرهێڵ</value>
+  </data>
+  <data name="TextOpenLively" xml:space="preserve">
+    <value>کردنەوەی لایڤڵی</value>
+  </data>
+  <data name="PauseAlgorithmTypeAllProcess.Content" xml:space="preserve">
+    <value>هەموو قۆناغەکان</value>
+  </data>
+  <data name="PauseAlgorithmTypeExclusiveMode.Content" xml:space="preserve">
+    <value>Direct3D</value>
+  </data>
+  <data name="PauseAlgorithmTypeForegroundProcess.Content" xml:space="preserve">
+    <value>قۆناغی پێشبنەما</value>
+  </data>
+  <data name="TextPauseWallpapers" xml:space="preserve">
+    <value>ڕاگرتنی واڵ پەیپەرەکان</value>
+  </data>
+  <data name="TextPerformanceKill.Content" xml:space="preserve">
+    <value>داخستن</value>
+  </data>
+  <data name="TextPerformanceNone.Content" xml:space="preserve">
+    <value>هیچ</value>
+  </data>
+  <data name="TextPerformancePause.Content" xml:space="preserve">
+    <value>ڕاگرتن</value>
+  </data>
+  <data name="TextPicture" xml:space="preserve">
+    <value>وێنە</value>
+  </data>
+  <data name="PreviewWallpaper.Text" xml:space="preserve">
+    <value>پێشەکی</value>
+  </data>
+  <data name="PrivacyPolicy.Header" xml:space="preserve">
+    <value>پەیڕەوکردنی تایبەتمەندیێتی</value>
+  </data>
+  <data name="TextProcessingWallpaper" xml:space="preserve">
+    <value>لە پڕۆسە دایە</value>
+  </data>
+  <data name="TextRemove" xml:space="preserve">
+    <value>لابردن</value>
+  </data>
+  <data name="TextRule" xml:space="preserve">
+    <value>یاسا</value>
+  </data>
+  <data name="TextScreen" xml:space="preserve">
+    <value>شاشە</value>
+  </data>
+  <data name="TextSearch" xml:space="preserve">
+    <value>گەڕان</value>
+  </data>
+  <data name="SetWallpaper.Text" xml:space="preserve">
+    <value>دانان وەک واڵ پەیپەر</value>
+  </data>
+  <data name="ShowOnDisk.Text" xml:space="preserve">
+    <value>کردنەوەی شوێنی فایل</value>
+  </data>
+  <data name="WallpaperSource.Text" xml:space="preserve">
+    <value>سەرچاوە</value>
+  </data>
+  <data name="TextStart" xml:space="preserve">
+    <value>دەستپێکردن</value>
+  </data>
+  <data name="TextStop" xml:space="preserve">
+    <value>وەستان</value>
+  </data>
+  <data name="StoreReview.Content" xml:space="preserve">
+    <value>چێژ لە بەکارهێنانی لایڤڵی دەبینی؟ لێدوانێک جێ بهێڵە:)</value>
+  </data>
+  <data name="TextSupport.Content" xml:space="preserve">
+    <value>پشتگیری</value>
+  </data>
+  <data name="TextSwitchBranchDev" xml:space="preserve">
+    <value>(گۆڕین بۆ ئاستی پەرەپێدان (کەناڵی پەرەپێدان</value>
+  </data>
+  <data name="TextSwitchBranchOfficial" xml:space="preserve">
+    <value>گۆڕین بۆ ئاستئ جێگیر (کەناڵی بنەڕەت(</value>
+  </data>
+  <data name="TextTags" xml:space="preserve">
+    <value>تاگەکان</value>
+  </data>
+  <data name="TaskbarThemeBlur.Content" xml:space="preserve">
+    <value>تڵخی</value>
+  </data>
+  <data name="TaskbarThemeClear.Content" xml:space="preserve">
+    <value>ڕوونکردن</value>
+  </data>
+  <data name="TaskbarThemeColor.Content" xml:space="preserve">
+    <value>ڕەنگ</value>
+  </data>
+  <data name="TaskbarThemeFluent.Content" xml:space="preserve">
+    <value>زمان ڕەوان</value>
+  </data>
+  <data name="TaskbarThemeWallpaper.Content" xml:space="preserve">
+    <value>دیوار پۆش</value>
+  </data>
+  <data name="TaskbarThemeWallpaperFluent.Content" xml:space="preserve">
+    <value>واڵ پەیپەری بنەڕەتی</value>
+  </data>
+  <data name="TextTileSizeLarge" xml:space="preserve">
+    <value>Large</value>
+  </data>
+  <data name="TextTileSizeNormal" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="TextTileSizeSmall" xml:space="preserve">
+    <value>Small</value>
+  </data>
+  <data name="Title.Text" xml:space="preserve">
+    <value>ناونیشان</value>
+  </data>
+  <data name="TextUIHeadless" xml:space="preserve">
+    <value>Headless</value>
+  </data>
+  <data name="TextUILite" xml:space="preserve">
+    <value>Lite</value>
+  </data>
+  <data name="TextUINormal" xml:space="preserve">
+    <value>Normal</value>
+  </data>
+  <data name="TextUnsupportedFile" xml:space="preserve">
+    <value>جۆری فایلەکە پشتگیری ناکرێ</value>
+  </data>
+  <data name="TextUpdateAvailable" xml:space="preserve">
+    <value>نوێکردنەوە بەردەستە!</value>
+  </data>
+  <data name="TextUpdateCheck" xml:space="preserve">
+    <value>پشکنین بۆ نوێکردنەوە</value>
+  </data>
+  <data name="TextupdateCheckFail" xml:space="preserve">
+    <value>پشکنین بۆ نوێکردنەوە سەرکەوتوو نەبوو</value>
+  </data>
+  <data name="TextUpdateChecking" xml:space="preserve">
+    <value>پشکنین بۆ نوێکردنەوە</value>
+  </data>
+  <data name="TextUpdateUptodate" xml:space="preserve">
+    <value>بەرنامەکە لە نوێترین دایە!</value>
+  </data>
+  <data name="TextVideo" xml:space="preserve">
+    <value>ڤیدیۆ</value>
+  </data>
+  <data name="TextWallpaperCommandlineArgs" xml:space="preserve">
+    <value>فرمانی ئارەزوومەندانە داخڵ بکە</value>
+  </data>
+  <data name="WallpaperFitFill.Content" xml:space="preserve">
+    <value>پڕکردن</value>
+  </data>
+  <data name="WallpaperFitNone.Content" xml:space="preserve">
+    <value>هیچ</value>
+  </data>
+  <data name="WallpaperFitUniform.Content" xml:space="preserve">
+    <value>فەرمی</value>
+  </data>
+  <data name="WallpaperFitUniformToFill.Content" xml:space="preserve">
+    <value>پڕکردنەوەی فەرمی</value>
+  </data>
+  <data name="WallpaperLayoutDuplicate.Content" xml:space="preserve">
+    <value>لەبەر گرتنەوەی هەمان واڵ پەیپەر</value>
+  </data>
+  <data name="WallpaperLayoutPerScreen.Content" xml:space="preserve">
+    <value>تەنها شاشە دیاریکراوەکە</value>
+  </data>
+  <data name="WallpaperLayoutSpan.Content" xml:space="preserve">
+    <value>بڵاوکردنەوە بە هەموو شاشەکاندا</value>
+  </data>
+  <data name="WallpaperType.Text" xml:space="preserve">
+    <value>جۆر</value>
+  </data>
+  <data name="Website.Header" xml:space="preserve">
+    <value>ماڵپەڕ</value>
+  </data>
+  <data name="TextWebStream" xml:space="preserve">
+    <value>تەوژمی وێب</value>
+  </data>
+  <data name="TextWelcome" xml:space="preserve">
+    <value>بەخێربێن</value>
+  </data>
+  <data name="TextYes" xml:space="preserve">
+    <value>بەڵێ</value>
+  </data>
+  <data name="VideoPlayer.Header" xml:space="preserve">
+    <value>لێدەری ڤیدیۆیی</value>
+  </data>
+  <data name="AddWallpaperFileBrowse.Description" xml:space="preserve">
+    <value>هەموو ئەو فایلانەی کە پشتگیری دەکرێ بکە بە واڵ پەیپەر</value>
+  </data>
+  <data name="EnterUrl.Description" xml:space="preserve">
+    <value>ناونیشانی ئەو ماڵپەڕەی کە داخڵت کردووە بکە بە واڵ پەیپەر</value>
+  </data>
+  <data name="AppFocus.Description" xml:space="preserve">
+    <value>بەرنامەکە چی بکات کاتێک هەر بەرنامەیەکی تر تەرکیزی کردووە</value>
+  </data>
+  <data name="AppFullScreen.Description" xml:space="preserve">
+    <value>بەرنامەکە چی بکات کاتێک یاری/بەرنامە ئیش دەکەن</value>
+  </data>
+  <data name="AppRules.Description" xml:space="preserve">
+    <value>ڕاگرتنی واڵ پەیپەر کاتێک ئەو بەرنامانە ئیش دەکەن</value>
+  </data>
+  <data name="TipAppTheme" xml:space="preserve">
+    <value>ڵایڤڵی دەگونجێت لەگەڵ ڕێکبەندەکانی ڕووکاری سیستەم، بۆ گۆڕینی ڕووکار بڕۆ بۆ</value>
+  </data>
+  <data name="BatteryPower.Description" xml:space="preserve">
+    <value>گۆڕینی پەخشکردنەوە کاتێک هێز دەبپچڕێت</value>
+  </data>
+  <data name="BrowserDebuggingPort.Description" xml:space="preserve">
+    <value>بۆ چوونە ناو کۆنسۆڵی پەرەپێدان http://localhost:portnumberداخڵکردنی پۆڕتەکە بۆ چاککردنی ماڵپەڕی واڵ پەیپەرەکان؛ کاتێک ئامادە بوو بڕۆ سەر</value>
+  </data>
+  <data name="Debug.Description" xml:space="preserve">
+    <value>پێڕستی پەرەپێدەر پیشان بدە</value>
+  </data>
+  <data name="DesktopPicture.Description" xml:space="preserve">
+    <value>وێنەکەیەکی واڵ پەیپەری جووڵاو وەکو واڵ پەیپەری دێسکتۆپ دابنێ</value>
+  </data>
+  <data name="DisplayPauseRule.Description" xml:space="preserve">
+    <value>ڕاگرتنی واڵ پەیپەر لەسەر هەموو نیشاندەرەکان یاخوود تانها لەو نیشاندەرەی کە بەرنامە تێیدا تەرکیز کراوە</value>
+  </data>
+  <data name="ExportLogs.Description" xml:space="preserve">
+    <value>فایلی ڕاپۆرتی تۆمار درووست بکە</value>
+  </data>
+  <data name="GifPlayer.Description" xml:space="preserve">
+    <value>gif یەو ئامێرە دیاری بکە کە بەکار هاتووە بۆ واڵ پەیپەری</value>
+  </data>
+  <data name="TipLivelySetupOnClose" xml:space="preserve">
+    <value>دامەزراندنەکە تەواو بکە بۆ ئەوەی بەردەوام بیت</value>
+  </data>
+  <data name="LockscreenPicture.Description" xml:space="preserve">
+    <value>وێنەیەکی واڵ پەیپەری جووڵاو دابنێ لەسەر قفڵی شاشە</value>
+  </data>
+  <data name="PauseAlgorithm.Description" xml:space="preserve">
+    <value>ئەلگۆریثمی ڕاگرتنی واڵ پەیپەر</value>
+  </data>
+  <data name="PowerSavingModePower.Description" xml:space="preserve">
+    <value>گۆڕینی پەخشکردن کاتێک خەزنکردنی توانای ویندۆوز کارایە</value>
+  </data>
+  <data name="RemoteDesktopPower.Description" xml:space="preserve">
+    <value>دەکرێ Remote Desktop گۆڕینی پەخشکردن کاتێک ئیش بە</value>
+  </data>
+  <data name="TipScreensaver" xml:space="preserve">
+    <value>دوای ماوەیەک لە ناچالاکی، ئەو واڵ پەیپەرەی ئێستا وەکو شاشە پارێزەر بەکار بێنە</value>
+  </data>
+  <data name="StreamWallpaperDetect.Description" xml:space="preserve">
+    <value>ئەگەر ناونیشانی بەخشکردنی ڤیدیۆ هەستی پێکرا، ئەوا ئامێری ڤیدیۆ ڵێدەر بەکاربێنە لە جیاتی بارکدنی ناونیشانەکە</value>
+  </data>
+  <data name="StreamWallpaperVideoQuality.Description" xml:space="preserve">
+    <value>کوالێتی ڤیدیۆی خوازراو هەڵبژێرە بۆ پەخشەکانی سەرهێڵ</value>
+  </data>
+  <data name="TipSwitchSoftwareBranch" xml:space="preserve">
+    <value>گۆڕینی بەرنامەی بڵاوکرەوە لە بێتا بۆ جێگیر یان بە پێچەوانەوە</value>
+  </data>
+  <data name="TaskbarTheme.Description" xml:space="preserve">
+    <value>گۆڕینی ڕووکاری تاسک باڕی سیستەم</value>
+  </data>
+  <data name="TipTileSize" xml:space="preserve">
+    <value>قەبارەی یەک پارچە لە واڵ پەیپەر لەناو کتێبخانە</value>
+  </data>
+  <data name="TipUIMode" xml:space="preserve">
+    <value>For low-end systems select Lite mode</value>
+  </data>
+  <data name="VideoHardwareDecode.Description" xml:space="preserve">
+    <value>خێراکردنی هاردوێر بەکاربهێنە کاتێک گونجاوە</value>
+  </data>
+  <data name="VideoPlayer.Description" xml:space="preserve">
+    <value>ئەو ئامێرە بەکاربێنە بۆ ڤیدیۆی واڵ پەیپەر بەکارهاتووە</value>
+  </data>
+  <data name="WallpaperDir.Description" xml:space="preserve">
+    <value>ئەو ڕێڕەوەی کە بەکارهاتووە بۆ خەزنکردنی فایلی واڵ پەیپەرەکان</value>
+  </data>
+  <data name="WallpaperFit.Description" xml:space="preserve">
+    <value>ئەلگۆریثمی پێوانی واڵ پەیپەر</value>
+  </data>
+  <data name="WallpaperInput.Description" xml:space="preserve">
+    <value>هەڵبژاردنی ڕێگاکان بۆ کارلێککردن لەگەڵ واڵ پەیپەر</value>
+  </data>
+  <data name="WallpaperLayout.Description" xml:space="preserve">
+    <value>چۆن واڵ پەیپەر بەکارهاتووە بۆ ئامێرە نیشاندەرە پێکەوە نووساوەکان</value>
+  </data>
+  <data name="TipWallpaperPlayback" xml:space="preserve">
+    <value>ڕاگرتنی واڵ پەیپەر لە کاتێکدا کە دێسکتۆپەکە تەرکیز ناکات</value>
+  </data>
+  <data name="WebBrowserDiskCache.Description" xml:space="preserve">
+    <value>خەزنکردنی فایلە کاتیەکان لەسەر دیسک لە جیاتی میمۆری</value>
+  </data>
+  <data name="WebBrowser.Description" xml:space="preserve">
+    <value>Html دەستنیشانکردنی ئەو ئامێرەی کە بەکارهاتووە بۆ واڵ پەیپەری</value>
+  </data>
+  <data name="About.Label" xml:space="preserve">
+    <value>دەربارەی</value>
+  </data>
+  <data name="AddWallpaper.Label" xml:space="preserve">
+    <value>زیادکردنی واڵ پەیپەر</value>
+  </data>
+  <data name="AppFocus.Header" xml:space="preserve">
+    <value>ئەو بەرنامانەی کە تەرکیزیان کردووە</value>
+  </data>
+  <data name="AppFullScreen.Header" xml:space="preserve">
+    <value>پڕ بەشاشەیی بەرنامەکان</value>
+  </data>
+  <data name="TitleAppName" xml:space="preserve">
+    <value>Lively Wallpaper</value>
+  </data>
+  <data name="AppRules.Header" xml:space="preserve">
+    <value>یاساکانی بەرنامەکە</value>
+  </data>
+  <data name="AppTheme.Header" xml:space="preserve">
+    <value>ڕووکار</value>
+  </data>
+  <data name="TitleAudioPlayOnScreen" xml:space="preserve">
+    <value>ئیشپێکردنی دەنگ لەسەر شاشە</value>
+  </data>
+  <data name="BatteryPower.Header" xml:space="preserve">
+    <value>کاتێک توانای پاتری</value>
+  </data>
+  <data name="TitleBrowseFile" xml:space="preserve">
+    <value>گەڕان بۆ ڤیدیۆ، Gif, وێبپەڕ... فایل بۆ کردنە واڵ پەیپەر</value>
+  </data>
+  <data name="BrowserDebuggingPort.Header" xml:space="preserve">
+    <value>بەندەری ڕاستکردنەوە</value>
+  </data>
+  <data name="TitleChangelog" xml:space="preserve">
+    <value>تۆماری گۆڕانکاری</value>
+  </data>
+  <data name="Community.Header" xml:space="preserve">
+    <value>کۆمەڵگا</value>
+  </data>
+  <data name="Debug.Header" xml:space="preserve">
+    <value>ڕاستکردنەوە</value>
+  </data>
+  <data name="TitleDeleteConfirmation" xml:space="preserve">
+    <value>دڵنیای سڕینەوە</value>
+  </data>
+  <data name="DesktopPicture.Header" xml:space="preserve">
+    <value>ڕسمی دێسکتۆپ</value>
+  </data>
+  <data name="DisplayPauseRule.Header" xml:space="preserve">
+    <value>یاسای ڕاگرتنی نیشاندەر</value>
+  </data>
+  <data name="Documentation.Header" xml:space="preserve">
+    <value>دۆکیومێنتاری</value>
+  </data>
+  <data name="EnterUrl.Header" xml:space="preserve">
+    <value>ناونیشان بنووسە</value>
+  </data>
+  <data name="ExportLogs.Header" xml:space="preserve">
+    <value>فایلی ناونووسکردن</value>
+  </data>
+  <data name="TitleGeneral" xml:space="preserve">
+    <value>گشتی</value>
+  </data>
+  <data name="GifPlayer.Header" xml:space="preserve">
+    <value>ئیشپێکەری Gif</value>
+  </data>
+  <data name="Help.Label" xml:space="preserve">
+    <value>یارمەتی</value>
+  </data>
+  <data name="TitleInteraction" xml:space="preserve">
+    <value>کارلێککردن</value>
+  </data>
+  <data name="TitleLibrary" xml:space="preserve">
+    <value>کۆکراوە</value>
+  </data>
+  <data name="TitleLivelySetup" xml:space="preserve">
+    <value>دامەزراندنی ڵایڤڵی</value>
+  </data>
+  <data name="TitleLocation" xml:space="preserve">
+    <value>ناونیشان</value>
+  </data>
+  <data name="LockscreenPicture.Header" xml:space="preserve">
+    <value>وێنەی سەر شاشەی قفڵکردن</value>
+  </data>
+  <data name="TitleMisc" xml:space="preserve">
+    <value>جۆراوجۆر</value>
+  </data>
+  <data name="TitleMute" xml:space="preserve">
+    <value>بێدەنگ</value>
+  </data>
+  <data name="PauseAlgorithm.Header" xml:space="preserve">
+    <value>ئەلگۆریثمی ڕاگرتن</value>
+  </data>
+  <data name="TitlePerformance" xml:space="preserve">
+    <value>کارامەیی</value>
+  </data>
+  <data name="TitlePlaylist" xml:space="preserve">
+    <value>لیستی لێدان</value>
+  </data>
+  <data name="PleaseWait.Text" xml:space="preserve">
+    <value>تکایە چاوەڕوانبە</value>
+  </data>
+  <data name="PowerSavingModePower.Header" xml:space="preserve">
+    <value>کاتێک توانای پاتری</value>
+  </data>
+  <data name="RemoteDesktopPower.Header" xml:space="preserve">
+    <value>لە کاتێکدا کە دێسکتۆپ کۆنتڕۆڵ دەکرێ</value>
+  </data>
+  <data name="ReportBug.Header" xml:space="preserve">
+    <value>ڕاپۆرتکردنی کەلێنێک</value>
+  </data>
+  <data name="TitleScalingFit" xml:space="preserve">
+    <value>پێوانەکردن/گونجاندن</value>
+  </data>
+  <data name="ControlPanel.Title" xml:space="preserve">
+    <value>کۆڕی دابینکردن</value>
+  </data>
+  <data name="TitleScreensaver" xml:space="preserve">
+    <value>شاشە پارێزەر</value>
+  </data>
+  <data name="TitleScreensaverLockOnResume" xml:space="preserve">
+    <value>لە کاتی دەست پێکردنەوەدا، نیشاندانی ناونووسی سەر شاشە</value>
+  </data>
+  <data name="TitleSelectFile" xml:space="preserve">
+    <value>دەستنیشانکردنی فایل</value>
+  </data>
+  <data name="TitleSettings" xml:space="preserve">
+    <value>سێتینگ</value>
+  </data>
+  <data name="TitleSkipConfirm" xml:space="preserve">
+    <value>دووپاتکردنەوە بپەڕێنە</value>
+  </data>
+  <data name="SourceCode.Header" xml:space="preserve">
+    <value>کۆدی سەرچاوە</value>
+  </data>
+  <data name="Store.Header" xml:space="preserve">
+    <value>خەزنکردن</value>
+    <comment>For different version of Lively, example: Microsoft Store</comment>
+  </data>
+  <data name="StreamWallpaperVideoQuality.Header" xml:space="preserve">
+    <value>پەخشکردن</value>
+  </data>
+  <data name="StreamWallpaperDetect.Header" xml:space="preserve">
+    <value>پەخشکردنەکان بدۆزەوە</value>
+  </data>
+  <data name="TitleStreamWallpaperVideoQuality" xml:space="preserve">
+    <value>کوالێتی ڤیدیۆ</value>
+  </data>
+  <data name="System.Header" xml:space="preserve">
+    <value>سیستەم</value>
+  </data>
+  <data name="TaskbarTheme.Header" xml:space="preserve">
+    <value>ڕووکاری تاسک باڕ</value>
+  </data>
+  <data name="TitleTileSize" xml:space="preserve">
+    <value>قەبارەی خشت</value>
+  </data>
+  <data name="TitleUIMode" xml:space="preserve">
+    <value>ڕووکاری بەکار‌ێنەر</value>
+  </data>
+  <data name="TitleUpdates" xml:space="preserve">
+    <value>نوێکردنەوەکان</value>
+  </data>
+  <data name="TitleVideo" xml:space="preserve">
+    <value>ڤیدیۆ</value>
+  </data>
+  <data name="VideoHardwareDecode.Header" xml:space="preserve">
+    <value>کۆدکردنەوەی GPU</value>
+  </data>
+  <data name="TitleWallpaper" xml:space="preserve">
+    <value>دیوار پۆش</value>
+  </data>
+  <data name="WallpaperDir.Header" xml:space="preserve">
+    <value>شوێنی واڵ پەیپەر</value>
+  </data>
+  <data name="WallpaperDirMoveExisting.Content" xml:space="preserve">
+    <value>گواستنەوەی واڵ پەیپەری بەردەست بۆ فۆڵدەری نوێ</value>
+  </data>
+  <data name="WallpaperFit.Header" xml:space="preserve">
+    <value>گونجاندنێک هەڵبژێرە</value>
+  </data>
+  <data name="WallpaperInput.Header" xml:space="preserve">
+    <value>تێکردنی واڵ پەیپەر</value>
+  </data>
+  <data name="WallpaperLayout.Header" xml:space="preserve">
+    <value>شێوازی دانان</value>
+  </data>
+  <data name="WallpaperPlaybackGroup.Header" xml:space="preserve">
+    <value>پەخشکردنی واڵ پەیپەر</value>
+  </data>
+  <data name="TitleWarning" xml:space="preserve">
+    <value>ئاگاداری</value>
+  </data>
+  <data name="WebBrowser.Header" xml:space="preserve">
+    <value>وێبگەڕ</value>
+  </data>
+  <data name="WebBrowserDiskCache.Header" xml:space="preserve">
+    <value>حەشارگەی دیسک</value>
+  </data>
+  <data name="TitleWebBrowserEngine" xml:space="preserve">
+    <value>مەکینە</value>
+  </data>
+  <data name="TitleWebpageLoad" xml:space="preserve">
+    <value>پەڕەیوێب بار بکە</value>
+  </data>
+  <data name="FastUI.Description" xml:space="preserve">
+    <value>هێشتنەوەی ڕوکاری بەکارهێنەر لە ئیشپێکردن بۆ دەسپێکردنی خێراتر</value>
+  </data>
+  <data name="FastUI.Header" xml:space="preserve">
+    <value>دەستپێکردنی خێرا</value>
+  </data>
+  <data name="WallpaperDirGroup.Header" xml:space="preserve">
+    <value>فایل</value>
+  </data>
+  <data name="AppThemeDark.Content" xml:space="preserve">
+    <value>تاریک</value>
+  </data>
+  <data name="AppThemeLight.Content" xml:space="preserve">
+    <value>ڕووناک</value>
+  </data>
+  <data name="AppThemeSystem.Content" xml:space="preserve">
+    <value>سیستەم</value>
+  </data>
+  <data name="WindowsSettingsColor.Content" xml:space="preserve">
+    <value>ڕێکخستنی ڕەنگی ویندۆوز</value>
+  </data>
+  <data name="LaptopWallpaperPlaybackGroup.Header" xml:space="preserve">
+    <value>ڵاپتۆپەکان</value>
+  </data>
+  <data name="DeveloperGroup.Header" xml:space="preserve">
+    <value>پەرەپێدەر</value>
+  </data>
+  <data name="AppearanceBehaviour.Header" xml:space="preserve">
+    <value>ڕووکار و کردار</value>
+  </data>
+  <data name="ActiveWallpapers.Label" xml:space="preserve">
+    <value>واڵ پەیپەرە کاراکان</value>
+  </data>
+  <data name="TitleGallery" xml:space="preserve">
+    <value>پێشانگا</value>
+  </data>
+  <data name="AboutMe.Text" xml:space="preserve">
+    <value>.سڵاو، من دانی م وەهەروەها ناسراوم بە ڕۆکسدانیستەر. من پەرەم بە ڵایڤڵی داوە کە سەربەخۆیە و سەرچاوەیەکی کراوەیە بۆ واڵ پەیپەر
+.سوپاس کە لەکاتم گرتی بۆ سەیرکردنی ئیشەکەم</value>
+  </data>
+  <data name="LicenseLink.Content" xml:space="preserve">
+    <value>مۆڵەتی بەرنامە</value>
+  </data>
+  <data name="AttributionLink.Content" xml:space="preserve">
+    <value>ئاگاداری لایەنی سێیەمی بەرنامە</value>
+  </data>
+  <data name="PrivacyPolicyLink.Content" xml:space="preserve">
+    <value>سیاسەتی کۆکردنەوەی زانیاری</value>
+  </data>
+  <data name="AddWallpaperDrop.Text" xml:space="preserve">
+    <value>زیادکردنی واڵ پەیپەر</value>
+  </data>
+  <data name="ComingSoon.Text" xml:space="preserve">
+    <value>بەم زوانە دێت</value>
+  </data>
+  <data name="AboutMenu.Text" xml:space="preserve">
+    <value>دەربارەی</value>
+  </data>
+  <data name="SourceWebsite.Text" xml:space="preserve">
+    <value>ماڵپەڕ</value>
+  </data>
+  <data name="TextOpen.Content" xml:space="preserve">
+    <value>کردنەوە</value>
+  </data>
+  <data name="TextSave.Content" xml:space="preserve">
+    <value>خەزنکردن</value>
+  </data>
+  <data name="UIMode.Description" xml:space="preserve">
+    <value>گاریگەری و ئەنیمەیشنی ڕووکاری بەکارهێنەر</value>
+  </data>
+  <data name="UIMode.Header" xml:space="preserve">
+    <value>ڕووکاری بەکارهێنەر</value>
+  </data>
+  <data name="UIModeLite.Content" xml:space="preserve">
+    <value>پاشگرە</value>
+  </data>
+  <data name="UIModeNormal.Content" xml:space="preserve">
+    <value>ئاسایی</value>
+  </data>
+  <data name="Screensaver.Description" xml:space="preserve">
+    <value>چۆن شاشە پارێزەر بەکارهاتووە بۆ ئامێرە نیشاندەرە پێکەوە نووساوەکان</value>
+  </data>
+  <data name="Screensaver.Header" xml:space="preserve">
+    <value>جۆری شاشە پارێزەر</value>
+  </data>
+  <data name="ScreensaverModeDifferentWallpaper.Content" xml:space="preserve">
+    <value>بە جیا دەستکاری کراوە</value>
+  </data>
+  <data name="ScreensaverModeSameWallpaper.Content" xml:space="preserve">
+    <value>وەکو واڵ پەیپەری ئیش پێکراو</value>
+  </data>
+  <data name="ScreensaverPlugin.Title" xml:space="preserve">
+    <value>پێوکردن پێویستە</value>
+  </data>
+  <data name="ScreensaverPluginMessage.Text" xml:space="preserve">
+    <value>یەک جار دامەزراندن پێویستە بۆ ئەوەی ئیش بە شاشە پارێزەر بکرێ</value>
+  </data>
+  <data name="WallpaperLayoutScreenPicker.Content" xml:space="preserve">
+    <value>هەمیشە شاشە هەلبژێرە لە کاتی ‌هەڵبژاردنی واڵ پەیپەر</value>
+  </data>
+  <data name="GalleryAccount.Text" xml:space="preserve">
+    <value>‌هەژمار</value>
+  </data>
+  <data name="GalleryAccountDelete.Content" xml:space="preserve">
+    <value>سڕینەوەی هەژمار</value>
+  </data>
+  <data name="GalleryAccountExport.Content" xml:space="preserve">
+    <value>دەرهێنانی داتا</value>
+  </data>
+  <data name="GalleryAccountLogin.Content" xml:space="preserve">
+    <value>چوونە ژوورەوە</value>
+  </data>
+  <data name="GalleryAccountLogout.Content" xml:space="preserve">
+    <value>چوونە دەرەوە</value>
+  </data>
+  <data name="GalleryPageCollection.Content" xml:space="preserve">
+    <value>کۆکراوە</value>
+  </data>
+  <data name="GalleryPageHome.Content" xml:space="preserve">
+    <value>ماڵەوە</value>
+  </data>
+  <data name="GalleryPageManage.Content" xml:space="preserve">
+    <value>ڕێکخستن</value>
+  </data>
+  <data name="GalleryPageProfile.Content" xml:space="preserve">
+    <value>زانیاری تایبەتی</value>
+  </data>
+  <data name="GalleryPleaseLogin.Text" xml:space="preserve">
+    <value>تکایە داخڵ ببە بۆ ئەوەی بەردەوام بیت</value>
+  </data>
+  <data name="GalleryWelcomeMessage.Text" xml:space="preserve">
+    <value>سڵاو</value>
+  </data>
+  <data name="RestoreWallpaper.Text" xml:space="preserve">
+    <value>ئێمە ئەو واڵ پەیپەرانەمان دۆزیەوە لەناو هەژمارەکەت</value>
+  </data>
+  <data name="TextDownloadNow.Content" xml:space="preserve">
+    <value>داگرتن</value>
+  </data>
+  <data name="TextMaybeLater.Content" xml:space="preserve">
+    <value>کاتێکی تر</value>
+  </data>
+  <data name="TextSelectAll.Content" xml:space="preserve">
+    <value>دیاریکردنی هەمووی</value>
+  </data>
+  <data name="TextSelectNone.Content" xml:space="preserve">
+    <value>‌هیچ دیاری نەکردن</value>
+  </data>
+  <data name="TitleWelcomeback.Text" xml:space="preserve">
+    <value>بەخێربێیتەوە!</value>
+  </data>
+  <data name="ReportWallpaper.Header" xml:space="preserve">
+    <value>هۆکارەکان</value>
+  </data>
+  <data name="ReportWallpaperCopyright.Content" xml:space="preserve">
+    <value>پێشێلکردنی مافی چاپ</value>
+  </data>
+  <data name="ReportWallpaperMisleading.Content" xml:space="preserve">
+    <value>زانیاری چەواشەکار</value>
+  </data>
+  <data name="ReportWallpaperOther.Content" xml:space="preserve">
+    <value>هی تر</value>
+  </data>
+  <data name="ReportWallpaperSpam.Content" xml:space="preserve">
+    <value>سپام</value>
+  </data>
+  <data name="ReportWallpaperViolence.Content" xml:space="preserve">
+    <value>ڕووتی یان پێشێلکردن</value>
+  </data>
+  <data name="TextAdditionalNotes.Text" xml:space="preserve">
+    <value>تێبینیە زیادەکان</value>
+  </data>
+  <data name="TextReportWallpaper.Text" xml:space="preserve">
+    <value>ڕاپۆرت</value>
+  </data>
+  <data name="TitleReportWallpaper.Text" xml:space="preserve">
+    <value>ڕاپۆرتکردنی واڵ پەیپەر</value>
+  </data>
+  <data name="Send.Content" xml:space="preserve">
+    <value>ناردن</value>
+  </data>
+  <data name="GalleryAccountDeleteConfirm.Text" xml:space="preserve">
+    <value>تکایە ئەم کردارە پشتڕاست بکەوە کە ناتوانرێت بگەڕێنرێتەوە</value>
+  </data>
+  <data name="GalleryAccountDeleteFail.Text" xml:space="preserve">
+    <value>سەرکەوتوو نەبوو لە سڕینەوەی ‌هەژمار، تکایە دواتر دووبارە هەوڵ بدە</value>
+  </data>
+  <data name="TextConfirmCancel.Text" xml:space="preserve">
+    <value>ئایا دەتەوێت هەڵی بوەشێنیەوە؟</value>
+  </data>
+  <data name="TextWait.Text" xml:space="preserve">
+    <value>چاوەڕێ بکە</value>
+  </data>
+  <data name="TitleDownloadProgress.Text" xml:space="preserve">
+    <value>دابەزاندن لە پێشکەوتن دایە</value>
+  </data>
+  <data name="TextContributors.Text" xml:space="preserve">
+    <value>بەشداربووان</value>
+  </data>
+  <data name="TextShare.Text" xml:space="preserve">
+    <value>هاوبەشی پێ کردن</value>
+  </data>
+  <data name="TitleShareWallpaper.Text" xml:space="preserve">
+    <value>هاوبەشی پێ کردنی واڵ پەیپەر</value>
+  </data>
+  <data name="ExportWallpaperGallery.Text" xml:space="preserve">
+    <value>بارکردنی گەلەری</value>
+  </data>
+  <data name="ExportWallpaperLink.Text" xml:space="preserve">
+    <value>کۆپیکردنی ناونیشان</value>
+  </data>
+  <data name="TextCustomiseWallpaper" xml:space="preserve">
+    <value>تایبەتمەندکردنی واڵ پەیپەر</value>
+  </data>
+  <data name="TextCloseWallpapers" xml:space="preserve">
+    <value>داخستنی واڵ پەیپەرەکان</value>
+  </data>
+  <data name="TitleChooseApplication.Text" xml:space="preserve">
+    <value>هەڵبژاردنی بەرنامە</value>
+  </data>
+  <data name="WallpaperInstallSize.Text" xml:space="preserve">
+    <value>قەبارە</value>
+  </data>
+  <data name="PluginNotFound.Message" xml:space="preserve">
+    <value>تکایە پێوەکراوی پێویست دابمەزرێنە</value>
+  </data>
+  <data name="PluginNotFound.Title" xml:space="preserve">
+    <value>پێوەکراو نەدۆزرایەوە</value>
+  </data>
+  <data name="UpdateCompleted.Text" xml:space="preserve">
+    <value>نوێکردنەوە کۆتایی هات</value>
+  </data>
+  <data name="UpdateWhatsNew.Text" xml:space="preserve">
+    <value>بزانە چی تازە هەیە</value>
+  </data>
+  <data name="AppThemeColor.Header" xml:space="preserve">
+    <value>ڕەنگ</value>
+  </data>
+  <data name="DescriptionDefault.Text" xml:space="preserve">
+    <value>بەکارهێنانی سیستەمی بنەڕەتی</value>
+  </data>
+  <data name="DescriptionDynamicTheme.Text" xml:space="preserve">
+    <value>گونجاندن بۆ واڵ پەیپەر</value>
+  </data>
+  <data name="TextDefault.Text" xml:space="preserve">
+    <value>بنەڕەتی</value>
+  </data>
+  <data name="TextDynamicTheme.Text" xml:space="preserve">
+    <value>دینامیکی</value>
+  </data>
+  <data name="Theme.Label" xml:space="preserve">
+    <value>ڕووکار</value>
+  </data>
+  <data name="IconsHidden.Message" xml:space="preserve">
+    <value>بۆ ڕێگەگرتن لە بە هەڵە هەڵبژاردنی ئەو ئایکۆنانەی کە ئێستا دیار نین</value>
+  </data>
+  <data name="IconsHidden.Title" xml:space="preserve">
+    <value>ئایکۆنەکانی دێسکتۆپ</value>
+  </data>
+  <data name="TextEndOfItems.Text" xml:space="preserve">
+    <value>ئەوە هەموویەتی بۆ ئێستا..</value>
+  </data>
+</root>
